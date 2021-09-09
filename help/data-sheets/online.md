@@ -242,7 +242,7 @@ De Klantenondersteuning van Adobe biedt toegang tot online bronnen voor document
 
 ## Regionale bedrijfsuren en taalondersteuning
 
-De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>1</sup>
+De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>3</sup>
 
 <table>
 <thead>
