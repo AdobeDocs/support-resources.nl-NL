@@ -2,9 +2,9 @@
 title: Enterprise-ondersteuning
 description: Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellingen voor serviceniveau (SLT's), voordelen van technische expertise en een advocaat in de vorm van een Benoemde supporttechnicus.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 1%
 
 ---
@@ -344,7 +344,6 @@ Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door h
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><i>Bij Adobe Commerce wordt ondersteuning van Japanse talen uitgesloten.</i></p>
       <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
     </td>
   </tr>

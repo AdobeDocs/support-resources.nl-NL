@@ -2,9 +2,9 @@
 title: Elite-ondersteuning
 description: Adobe Experience Cloud Elite Support Services biedt SLT's (best-in-class Service Level Targets), proactieve ondersteuning en samenwerking met een Technical Account Manager en een Benoemde Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 1%
 
 ---
@@ -395,7 +395,6 @@ Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door h
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><i>Bij Adobe Commerce wordt ondersteuning van Japanse talen uitgesloten.</i></p>
       <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
     </td>
   </tr>
