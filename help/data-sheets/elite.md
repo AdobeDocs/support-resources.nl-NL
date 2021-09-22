@@ -2,9 +2,9 @@
 title: Elite-ondersteuning
 description: Adobe Experience Cloud Elite Support Services biedt SLT's (best-in-class Service Level Targets), proactieve ondersteuning en samenwerking met een Technical Account Manager en een Benoemde Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1368'
 ht-degree: 1%
 
 ---
@@ -372,9 +372,9 @@ Beschikbare soorten strategische activiteiten:
 | [Productieproblemen en systeemstoringen](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
 | [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
 
-## Regionale bedrijfsuren en taalondersteuning
+## Regionaal bereik van de ondersteuning van Adobe, lokale bedrijfsuren en taalondersteuning
 
-De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>3</sup>
+Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door het het facturerings adres van de klant (via de het koopdocument van de Orde van de Verkoop of andere Adobe van de Steun) aan één van de volgende regio&#39;s aan te passen:
 
 <table>
 <thead>
@@ -395,8 +395,8 @@ De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>3
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce sluit ondersteuning voor Japanse talen uit.</i></p>
-      <p><i>(Japan) P2-, P3- en P4-zaken zijn beperkt tot uitsluitend kantooruren.</i></p>
+      <p><i>Bij Adobe Commerce wordt ondersteuning van Japanse talen uitgesloten.</i></p>
+      <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
     </td>
   </tr>
 </tbody>

@@ -2,9 +2,9 @@
 title: Business Support
 description: Adobe Experience Cloud Business Support Services biedt volledige toegang tot teams voor technische ondersteuning van Adobe en tot een Support-lead voor account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Website voor zakelijke ondersteuning](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support-website. |
 | [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
 
-## Regionale bedrijfsuren en taalondersteuning
+## Regionaal bereik van de ondersteuning van Adobe, lokale bedrijfsuren en taalondersteuning
 
-De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>1</sup>
+Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door het het facturerings adres van de klant (via de het koopdocument van de Orde van de Verkoop of andere Adobe van de Steun) aan één van de volgende regio&#39;s aan te passen:
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>1
     <th>Amerika</th>
     <th>Europa, Midden-Oosten en Afrika</th>
     <th>Azië, Stille Oceaan</th>
-    <th>Japan<sup>2</sup></th>
+    <th>Japan<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ De lokale kantooruren van de Adobe richten zich op het factureringsgebied.<sup>1
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce sluit ondersteuning voor Japanse talen uit.</i></p>
-      <p><i>(Japan) P2-, P3- en P4-zaken zijn beperkt tot uitsluitend kantooruren.</i></p>
+      <p><i>Bij Adobe Commerce wordt ondersteuning van Japanse talen uitgesloten.</i></p>
+      <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
     </td>
   </tr>
 </tbody>
