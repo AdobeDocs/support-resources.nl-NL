@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bronnen voor ondersteuning
 user-guide-description: Bronnen voor ondersteuning voor Adobe Experience Cloud en Adobe Experience Platform.
-source-git-commit: 423424dc139e162d1abd71b91e3c579fc14ea1d4
+source-git-commit: d7125d4a6fded5c9ca40882064332842d75e50c2
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '31'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
    + [Zakelijk](business.md)
    + [Enterprise](enterprise.md)
    + [Elite](elite.md)
-+ [Pagina](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) Voorwaarden en bepalingen {target=&quot;_blank&quot;}
++ [Algemene voorwaarden](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
