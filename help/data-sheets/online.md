@@ -2,9 +2,9 @@
 title: Online ondersteuning
 description: Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telefonische ondersteuning.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Niveaus voor Adobe-ondersteuning ($)</td>
+    <td colspan="3">Betaalde ondersteuning ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Toegewezen experts<br></td>
@@ -162,9 +162,9 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
 
 | Prioriteit | Online ondersteuning | Business Support | Enterprise-ondersteuning | Elite-ondersteuning |
 |--- |--- |--- |--- |--- |
-| <b>PRIORITEIT 1</b><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies of een aanzienlijke verslechtering van de gegevenskwaliteit en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>1 uur | 24x7/<br>30 minuten | 24x7/<br>15 minuten |
-| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de Klant hebben een belangrijke verslechtering van de dienst of potentieel gegevensverlies, of een belangrijke eigenschap wordt beïnvloed. | Bedrijfsuren/<br>4 uur | Bedrijfsuren/<br>2 uur | 24x5/<br>1 uur | 24x5/<br>30 minuten |
-| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de Klant hebben een kleine verslechtering van de dienst maar er bestaat een oplossing/oplossing die bedrijfsfuncties toestaat om normaal te blijven. | Bedrijfsuren/<br>6 uur | Zakelijke uren/<br> 4 uur | Bedrijfsuren/<br>2 uur | 24x5/<br>1 uur |
+| <b>PRIORITEIT 1</b><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>1 uur | 24x7/<br>30 minuten | 24x7/<br>15 minuten |
+| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | Zakelijke uren/<br>4 uur | Zakelijke uren/<br>2 uur | 24x5/<br>1 uur | 24x5/<br>30 minuten |
+| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | Zakelijke uren/<br>6 uur | Zakelijke uren/<br> 4 uur | Zakelijke uren/<br>2 uur | 24x5/<br>1 uur |
 | <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Zakelijke dagen/<br>3 dagen | Zakelijke dag/<br>1 dag | Zakelijke dag/<br> 1 dag | Zakelijke dag/<br> 1 dag |
 
 {style=&quot;table-layout:auto&quot;}
@@ -263,7 +263,7 @@ Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door h
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><i>Bij Adobe Commerce wordt ondersteuning van Japanse talen uitgesloten.</i></p>
+      <p><i>Adobe Commerce sluit ondersteuning voor Japanse talen uit.</i></p>
       <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
     </td>
   </tr>
