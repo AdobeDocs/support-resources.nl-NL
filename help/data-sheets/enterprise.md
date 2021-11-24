@@ -2,9 +2,9 @@
 title: Enterprise-ondersteuning
 description: Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellingen voor serviceniveau (SLT's), voordelen van technische expertise en een advocaat in de vorm van een Benoemde supporttechnicus.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1192'
 ht-degree: 1%
 
 ---
@@ -126,9 +126,9 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
 
 | Prioriteit | Online ondersteuning | Enterprise-ondersteuning |
 |--- |--- |--- |
-| <b>PRIORITEIT 1</b><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn onderdrukt of hebben een aanzienlijk gegevensverlies of een verslechtering van de services en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>30 minuten |
-| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de Klant hebben een aanzienlijke verslechtering van de diensten, of potentieel van gegevensverlies of onbeschikbaarheid van de diensten, of een belangrijke eigenschap wordt beïnvloed. | Bedrijfsuren/<br>4 uur | 24x5/<br>1 uur |
-| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de Klant hebben een lichte tot geen verslechtering van de diensten met een oplossing/een oplossing die bedrijfsfuncties toestaat om verder te gaan. | Bedrijfsuren/<br>6 uur | Zakelijke uren/<br> 2 uur |
+| <b>PRIORITEIT 1</b><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>30 minuten |
+| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | Zakelijke uren/<br>4 uur | 24x5/<br>1 uur |
+| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | Zakelijke uren/<br>6 uur | Zakelijke uren/<br> 2 uur |
 | <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Zakelijke dagen/<br>3 dagen | Zakelijke dag/<br>1 dag |
 
 {style=&quot;table-layout:auto&quot;}
@@ -185,20 +185,20 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
 <tr>
   <td>
     <div>
-    <p><b>Bestuur voor AEM als Cloud Service</b></p>
-    <p>Technisch en operationeel bestuur om AEM als Cloud Service klanten te helpen zich aan industriestandaarden en beste praktijken voor AEM als Cloud Service te houden.</p>
+    <p><b>Bestuur voor AEM as a Cloud Service</b></p>
+    <p>Technisch en operationeel bestuur om AEM as a Cloud Service klanten te helpen zich aan industriestandaarden en beste praktijken voor AEM as a Cloud Service te houden.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Services met toegevoegde waarde voor AEM als Cloud Service</b></p>
+    <p><b>Services met toegevoegde waarde voor AEM as a Cloud Service</b></p>
     <p>Identificeer, herzie en verstrek aanbevelingen over aangepaste oplossingsadoptiegebieden die mogelijkheden voor optimalisering hebben.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Aanpassingsbeste praktijken voor AEM als Cloud Service</b></p>
-    <p>Aanpassing van best practices en kerncomponenten op AEM als Cloud Service stimuleren.</p>
+    <p><b>Aanpassingsbeste praktijken voor AEM as a Cloud Service</b></p>
+    <p>Aanpassing van best practices en kerncomponenten op het gebied van aanpassing in AEM as a Cloud Service bevorderen.</p>
     </div>
   </td>
 </tr>
@@ -268,7 +268,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Advies starten
 
-Voor klanten die een **nieuwe Adobe Experience Cloud oplossing** uitvoeren, is het Adviseren van de Lancering een *kernreeks van adviesdiensten* en aanbevelingen die worden bewezen om succesvolle plaatsingen te steunen en tijd-aan-waarde te versnellen.
+Voor klanten die een **nieuwe Adobe Experience Cloud-oplossing**, Opstartadvies is een *kernpakket van adviesdiensten* en aanbevelingen die bewezen zijn om succesvolle plaatsingen te steunen en tijd-aan-waarde te versnellen.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
@@ -288,11 +288,11 @@ De Advisering van de lancering zal zich op uw projectprogramma door gemeenschapp
 
 ## Veldserviceactiviteiten
 
-De Diensten van het gebied worden gebruikt voor **snelle resolutie**, gericht klantsucces en versnelde **tijd-aan-waarde**. Als het advies van de Lancering actief is zal er **geen Diensten van het Gebied in jaar 1** voor om het even welk oplossingsproduct zijn dat door een contract van de Steun van de Adobe wordt behandeld.
+Field Services wordt gebruikt voor **snelle resolutie**, gericht klantsucces en versneld **time-to-value**. Als het advies van de Lancering actief is, zal er zijn **geen velddiensten in jaar 1** voor elk oplossingsproduct dat onder een Adobe Support-contract valt.
 
-Als Enterprise-klant komt u in aanmerking voor **2 activiteiten per jaar** vanuit de volgende twee tracks: **Technisch** en/of **Strategisch**.
+Als Enterprise-klant komt u in aanmerking voor **2 activiteiten per jaar** van de volgende twee tracks: **Technisch** en/of **Strategisch**.
 
-**Met de technische** trackactiviteiten wordt ervoor gezorgd dat klanten technisch gezond zijn en hun gereedschapsacceptatie maximaliseren. Specifiek, omvatten deze soorten activiteiten steun en aanbevelingen met betrekking tot platformconfiguraties, integratie en het oplossen van problemen.
+**Technische aspecten** ervoor te zorgen dat de klanten technisch gezond zijn en hun instrumenten optimaal kunnen gebruiken. Specifiek, omvatten deze soorten activiteiten steun en aanbevelingen met betrekking tot platformconfiguraties, integratie en het oplossen van problemen.
 
 Beschikbare soorten technische activiteiten:
 
@@ -303,7 +303,7 @@ Beschikbare soorten technische activiteiten:
 * Oplossingen voor klanten
 * Ondersteuning voor cloudservice
 
-**De strategische** Acties van het Spoor bepalen kansen om ervoor te zorgen dat de waarde van de oplossingen van de Adobe van een klant wordt gerealiseerd. Deze omvatten supportaanbevelingen met betrekking tot strategie, meting en rijpheid om de realisatie van waarden over een of meer Adobe-oplossingen te stimuleren.
+**Strategische baanactiviteiten** de plaats van kansen om waarde te verzekeren wordt gerealiseerd van de oplossingen van de Adobe van een klant. Deze omvatten supportaanbevelingen met betrekking tot strategie, meting en rijpheid om de realisatie van waarden over een of meer Adobe-oplossingen te stimuleren.
 
 Beschikbare soorten strategische activiteiten:
 
