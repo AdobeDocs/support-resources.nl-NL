@@ -2,7 +2,7 @@
 title: Overzicht van supportservices
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud. Tot deze opties behoren Online, Zakelijk, Enterprise en Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
     <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Online ondersteuning</strong></a>  ( <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> weergeven)
+    <a href="online.md"><strong>Online ondersteuning</strong></a> (weergave <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Beperkte toegang tot telefonische ondersteuning</p>
     <br>
@@ -32,7 +32,7 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
       <img alt="Zakelijk" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Business Support</strong></a>  ( <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> weergeven)
+    <a href="business.md"><strong>Business Support</strong></a> (weergave <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Volledige toegang tot ondersteuningsteams voor Adobe en tot een medewerker voor accountbeheer</p>
     <br>
@@ -44,7 +44,7 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise Support</strong></a>  ( <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> weergeven)
+    <a href="enterprise.md"><strong>Enterprise-ondersteuning</strong></a> (weergave <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>De verbeterde doelstellingen van het Niveau van de Steun van de Dienst (SLTs), voordelen van technische deskundigheid en een pleitbezorger in de vorm van een Benoemde Ingenieur van de Steun</p>
     <br>
@@ -54,10 +54,11 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
       <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite Support</strong></a>  ( <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> weergeven)
+    <a href="elite.md"><strong>Elite-ondersteuning</strong></a> (weergave <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Best-in-class Service Level Targets (SLTs), proactieve steun en partnerschap met een Technische Manager van de Rekening en een Benoemde Ingenieur van de Steun</p>
     <br>
   </td>
 </tr>
 </table>
+
