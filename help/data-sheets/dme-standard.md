@@ -1,25 +1,25 @@
 ---
-title: Online ondersteuning
+title: Standaardondersteuning
 description: Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telefonische ondersteuning.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 3%
+source-wordcount: '846'
+ht-degree: 2%
 
 ---
 
-# Online ondersteuning
+# Standaardondersteuning
 
 ![pictogram](assets/OnlineBanner.png)
 
-Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telefonische ondersteuning.
+Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. De standaardondersteuning omvat 24x7 toegang tot onze hulpmiddelen voor zelfondersteuning, waaronder artikelen over HelpX en contact met andere klanten van de Adobe-community. U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocumentatie en actuele releaseopmerkingen die op http://www.adobe.com zijn gepubliceerd. Onze standaardondersteuning omvat ook 24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze teams voor technische ondersteuning via chat of telefonisch, en de mogelijkheid om aanvragen voor hulp via ons webportaal voor ondersteuning in te loggen.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Online ondersteuning</th>
+    <th>Standaardondersteuning</th>
     <th>Business Support</th>
     <th>Enterprise-ondersteuning</th>
     <th>Elite-ondersteuning</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Betaalde ondersteuning ($)</td>
+    <td colspan="3">Niveaus betaalde ondersteuning ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Toegewezen experts<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
   </tr>
   <tr>
     <td rowspan="12">Ondersteuningsservices</td>
-    <td>Online ondersteuning</td>
+    <td>Standaardondersteuning</td>
     <td>Zakelijke uren</td>
     <td>Zakelijke uren</td>
     <td>24x5</td>
