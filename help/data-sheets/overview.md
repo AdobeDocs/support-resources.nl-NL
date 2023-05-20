@@ -4,7 +4,7 @@ description: Dit artikel bevat een overzicht van de opties voor klantenondersteu
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
 workflow-type: tm+mt
-source-wordcount: '1990'
+source-wordcount: '1984'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ De plannen van de Steun van Adobe gaan boven en verder reactief probleem het opl
 | P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 4 uur tijdens normale kantooruren in Adobe | 1 uur voor regionale Adobe | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 | P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | 1 werkdag | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Belangrijkste kenmerken
 
@@ -152,7 +152,7 @@ Standaardondersteuning voor Adobe Commerce: Managed Services-producten die op of
 | P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 2 uur tijdens de normale kantooruren van de Adobe | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 | P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Adviserende diensten starten - Geleidelijke activiteiten
 

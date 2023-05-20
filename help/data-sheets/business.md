@@ -4,7 +4,7 @@ description: Adobe Experience Cloud Business Support Services biedt volledige to
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '869'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Adobe Experience Cloud Business Support Services biedt volledige toegang tot tea
     <td></td>
   </tr>
   <tr>
-    <td>Technisch accountmanager</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td></td>
   </tr>
@@ -131,7 +131,7 @@ Adobe Experience Cloud Business Support Services biedt volledige toegang tot tea
 | <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties kunnen worden voortgezet. | Zakelijke uren/<br>6 uur | Zakelijke uren/<br> 4 uur |
 | <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Zakelijke dagen/<br>3 dagen | Zakelijke dag/<br>1 dag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Functies voor Business Support
 

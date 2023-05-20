@@ -4,7 +4,7 @@ description: Adobe Experience Cloud Online Support Services bieden beperkte toeg
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '754'
 ht-degree: 3%
 
 ---
@@ -49,7 +49,7 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technisch accountmanager</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td></td>
     <td></td>
@@ -167,7 +167,7 @@ Adobe Experience Cloud Online Support Services bieden beperkte toegang tot telef
 | <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | Zakelijke uren/<br>6 uur | Zakelijke uren/<br> 4 uur | Zakelijke uren/<br>2 uur | 24x5/<br>1 uur |
 | <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Zakelijke dagen/<br>3 dagen | Zakelijke dag/<br>1 dag | Zakelijke dag/<br> 1 dag | Zakelijke dag/<br> 1 dag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Online ondersteuning {#online-support-1}
 

@@ -1,10 +1,11 @@
 ---
 title: Elite-ondersteuning voor Creative Cloud en Adobe Document Cloud
 description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. Dit wordt verbeterd met het ELITE-ondersteuningsplan.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
+exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '1097'
-ht-degree: 0%
+source-wordcount: '1094'
+ht-degree: 1%
 
 ---
 
@@ -46,7 +47,7 @@ Met diepe ervaring in uw toepasselijke Creative Cloud en oplossingen van het Doc
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technisch accountmanager</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -172,9 +173,9 @@ Met diepe ervaring in uw toepasselijke Creative Cloud en oplossingen van het Doc
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Technisch accountmanager" src="assets/dmenamedsupportengineer.png"/>
+    <img alt="Technical Account Manager" src="assets/dmenamedsupportengineer.png"/>
     <div>
-    <p><b>Technisch accountmanager</b></p>
+    <p><b>Technical Account Manager</b></p>
     <p>Een aangewezen Technische Manager van de Rekening om voor uw Ervaring van de Elite steun te controleren en te pleiten en de pro-actieve diensten te verlenen om uw bedrijfswaarde te maximaliseren.</p>
     </div>
   </td>
@@ -318,7 +319,7 @@ Met diepe ervaring in uw toepasselijke Creative Cloud en oplossingen van het Doc
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
 | [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionale bedrijfsuren en taalondersteuning
 

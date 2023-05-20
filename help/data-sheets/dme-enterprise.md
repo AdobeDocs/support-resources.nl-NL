@@ -1,9 +1,10 @@
 ---
 title: Enterprise Support voor Creative Cloud en Adobe Document Cloud
 description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. Dit wordt versterkt met het ENTERPRISE-steunplan.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
+exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -46,7 +47,7 @@ Uw ondersteuningsteam kan ook helpen de levering van de extra voordelen van ENTE
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technisch accountmanager</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td></td>
   </tr>
@@ -289,7 +290,7 @@ Uw ondersteuningsteam kan ook helpen de levering van de extra voordelen van ENTE
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
 | [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionaal bereik van de ondersteuning van Adobe, lokale bedrijfsuren en taalondersteuning
 

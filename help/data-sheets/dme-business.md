@@ -1,10 +1,11 @@
 ---
 title: Business Support voor Creative Cloud en Adobe Document Cloud
 description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. Dit wordt verbeterd met het BUSINESS-ondersteuningsplan. De steun van het BEDRIJF omvat prioritaire verpletterende voor steungevallen om snellere verbinding aan hogere steunmiddelen op voorgelegde gevallen te verzekeren.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
+exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 0%
+source-wordcount: '812'
+ht-degree: 1%
 
 ---
 
@@ -46,7 +47,7 @@ BUSINESS-klanten profiteren ook van toegang tot onze technische supportteams voo
     <td></td>
   </tr>
   <tr>
-    <td>Technisch accountmanager</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td></td>
   </tr>
@@ -261,7 +262,7 @@ BUSINESS-klanten profiteren ook van toegang tot onze technische supportteams voo
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
 | [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionale bedrijfsuren en taalondersteuning
 
