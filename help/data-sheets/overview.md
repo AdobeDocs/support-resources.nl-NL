@@ -2,9 +2,9 @@
 title: Overzicht van Adobe-supportplannen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '1748'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,9 @@ De plannen van de Steun van Adobe gaan boven en verder reactief probleem het opl
 
 ## Ultieme ondersteuning: Contactpersonen voor benoemde ondersteuning
 
-Onder Ultimate Support heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) contactpersonen voor benoemde support per AEC-product (verhoogd van vier (4) in totaal voor alle AEC-producten voor ondersteuning door experts).
+Sorry, nogmaals. Nu, denk ik moeten wij de volgende beschrijving in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en verbeteren:
+
+Onder Ultimate Support heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) contactpersonen voor benoemde support per AEC-product (verhoogd van vier (4) per AEC-product voor ondersteuning door experts).
 
 Contactpersonen voor benoemde ondersteuning kunnen problemen via alle beschikbare kanalen indienen en zo nodig communiceren met het technische ondersteuningsteam voor Adobe namens de klant Een (1) dergelijke contactpersoon voor benoemde ondersteuning kan ook worden aangewezen als accountbeheerder van de klant, zodat u via het door Adobe geleverde ondersteuningsportaal updates voor de service kunt uitvoeren op de lijst met benoemde ondersteuningscontactpersonen en de instellingen voor beperkte machtigingen.
 
