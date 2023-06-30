@@ -2,9 +2,9 @@
 title: Overzicht van Adobe-supportplannen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
+source-wordcount: '1727'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ De plannen van de Steun van Adobe gaan boven en verder reactief probleem het opl
 | P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | 1 werkdag | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 
 ## Ultieme ondersteuning: Contactpersonen voor benoemde ondersteuning
-
-Sorry, nogmaals. Nu, denk ik moeten wij de volgende beschrijving in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en verbeteren:
 
 Onder Ultimate Support heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) contactpersonen voor benoemde support per AEC-product (verhoogd van vier (4) per AEC-product voor ondersteuning door experts).
 
