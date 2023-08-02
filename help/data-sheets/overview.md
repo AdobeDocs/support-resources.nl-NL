@@ -2,9 +2,9 @@
 title: Overzicht van Adobe-supportplannen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
+source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
 workflow-type: tm+mt
-source-wordcount: '1727'
+source-wordcount: '1756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De plannen van de Steun van Adobe gaan boven en verder reactief probleem het opl
 | **Ondersteuningskanalen** | Online, chat, telefoon, Experience League, forums, zelfhulpvideo&#39;s | Persoonlijke online/chat, geprioriteerde telefoon, Experience League, gepersonaliseerde Ultimate-forums |
 | **Ondersteuningsteam** | Samengevoegd team van deskundigen | Aangewezen Technical Account Manager, Support Services Manager en samengevoegd team van technische experts |
 | **Technische ondersteuning** | <ul><li>Standaardoutputbeheer </li><li>P1 24x7 probleemondersteuning</li><li>P2/P3/P4 ondersteuning voor kantooruren</li><li>Gepoold escalatiebeheer</li></ul> | <ul><li>Prioritair beheer van uitval</li><li>P1 24x7 probleemondersteuning</li><li>P2/P3 24x5-probleemondersteuning</li><li>P4-ondersteuning voor kantooruren</li><li>Aangewezen deskundige escalatiebeheer</li></ul> |
-| **Proactieve technische en operationele ondersteuning** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | <ul><li>Routekaart-revisies, planning van de dienstlevering </li><li>Onderhoud en bewaking</li><li> Revisies voor upgrades en migratie</li><li>Voorbereiden en beoordelen van release </li><li>Kennisoverdracht, probleemoplossing </li><li> Gebeurtenisplanning (beperkt, zie add-on voor gebeurtenisbeheer)</li><li> Advies starten</li></ul> |
+| **Proactieve technische en operationele ondersteuning** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | <ul><li>Routekaart-revisies, planning van de dienstlevering </li><li>Onderhoud en bewaking</li><li> Upgrade en migratie uitvoeren</li><li>Voorbereiden en beoordelen van release </li><li>Kennisoverdracht, probleemoplossing </li><li> Gebeurtenisplanning (beperkt, zie add-on voor gebeurtenisbeheer)</li><li> Advies starten</li></ul> |
 
 {style="table-layout:fixed"}
 
@@ -29,24 +29,25 @@ De plannen van de Steun van Adobe gaan boven en verder reactief probleem het opl
 
 | Invoegtoepassingen | Expert Support Plan | Ultieme supportplan |
 |--- |--- |--- |
-| **Invoegtoepassing gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
-| **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
+| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
+| **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
 | **Geavanceerde invoegtoepassing voor cloudondersteuning**<br> Topservice en waarborg voor klanten van Adobe Experience Manager as a Cloud Service | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
 | **Invoegtoepassing Mentor Sessions**<br> Verstrekt op vaardigheid-gebaseerd leren in een just-in-time opleidingsmethode | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 | **Invoegtoepassing ontwikkelaarsverhoging**<br> Verleent toegang tot de deskundigen van de gebiedstechniek die met break-fix werk kunnen helpen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Toevoeging van de bundel voor prioritaire wachtrij**<br> Sla de regel over, zodat uw tickets eerst worden bewerkt met extra toegang tot Mentor Sessions en Developer Boost | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 
 {style="table-layout:fixed"}
 
 ## Gerichte initiële responstijden voor ondersteuning
 
-| Prioriteit | Definitie | Gerichte responstijd - ondersteuning door experts | Gerichte responstijd - Ultieme ondersteuning | Klantenverbintenis |
+| Prioriteit | Definitie | Gerichte responstijd - ondersteuning door experts | Gerichte reactietijd - Ultieme ondersteuning | Klantenverbintenis |
 |---|---|---|---|---|
-| P1 | **Kritieke zakelijke impact:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 1 uur | 15 minuten | De klant verbindt zich ertoe om 24x7 voortdurend contact op te nemen met de Klantenondersteuning van Adobe tot aan de mitigatie. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan Adobe een P1-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
+| P1 | **Kritieke gevolgen voor bedrijven:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 1 uur | 15 minuten | De klant verbindt zich ertoe om 24x7 voortdurend contact op te nemen met de Klantenondersteuning van Adobe tot aan de mitigatie. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan Adobe een P1-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
 | P2 | **Belangrijke gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | 2 uur tijdens de normale kantooruren van de Adobe | 30 minuten tijdens regionale kantooruren in Adobe | De steun van Adobe zal Contacten van de Steun tijdens slechts genoemde Adobe steunen. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van een supportreactie van de Contacten van de Named Support, kan Adobe een P2-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
-| P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 4 uur tijdens normale kantooruren in Adobe | 1 uur voor regionale Adobe | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
+| P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 4 uur tijdens normale kantooruren in Adobe | 1 uur tijdens regionale kantooruren van Adobe | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 | P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | 1 werkdag | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 
-## Ultieme ondersteuning: Contactpersonen voor benoemde ondersteuning
+## Ultieme ondersteuning: contactpersonen voor benoemde ondersteuning
 
 Onder Ultimate Support heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) contactpersonen voor benoemde support per AEC-product (verhoogd van vier (4) per AEC-product voor ondersteuning door experts).
 
@@ -70,7 +71,7 @@ Contactpersonen voor benoemde ondersteuning kunnen problemen via alle beschikbar
     <p><strong>Live telefonische en online technische ondersteuning</strong></p>
   </td>
   <td>
-    <ul><li>Voorvallen van prioriteit 1: 24x7x365 via telefoon of online support</li><li>Voorvallen van prioriteit 2-4: Ondersteuning beschikbaar tijdens regionale kantooruren via chat of online support.</li></ul>
+    <ul><li>Voorvallen van prioriteit 1: 24x7x365 via telefoon of online support</li><li>Prioriteit 2-4 incidenten: ondersteuning beschikbaar tijdens regionale kantooruren via chat of online support.</li></ul>
   </td>
 </tr>
 <tr>
@@ -86,7 +87,7 @@ Contactpersonen voor benoemde ondersteuning kunnen problemen via alle beschikbar
     <p><strong>Talen</strong></p>
   </td>
   <td>
-    <ul><li>Ondersteuning voor Japans taalgebruik is beschikbaar tijdens regionale kantooruren in Japan, met uitzondering van feestdagen of Adobe dagen korting. Japanse ondersteuning is niet beschikbaar voor Adobe Commerce.</li><li>Met de bovenstaande uitzondering wordt alle ondersteuning alleen in het Engels verstrekt.</li></ul>
+    <ul><li>Ondersteuning voor Japans taalgebruik is beschikbaar tijdens regionale kantooruren in Japan, met uitzondering van feestdagen of vrije dagen van Adobe. Japanse ondersteuning is niet beschikbaar voor Adobe Commerce.</li><li>Met de bovenstaande uitzondering wordt alle ondersteuning alleen in het Engels verstrekt.</li></ul>
   </td>
 </tr>
 <tr>
@@ -105,13 +106,13 @@ Contactpersonen voor benoemde ondersteuning kunnen problemen via alle beschikbar
 |---|---|---|---|
 | 18:30 | 20:09 | 20:09 | 20:09 |
 
-## Aanvullende voorwaarden van toepassing op Adobe Commerce op Managed Services (voorheen Magento Commerce Pro: Managed Services)
+## Aanvullende voorwaarden die op Managed Services op Adobe Commerce van toepassing zijn (voorheen Magento Commerce Pro: Managed Services)
 
-Standaardondersteuning voor Adobe Commerce: Managed Services-producten die op of na 20 september 2021 in licentie zijn gegeven of door de Klant zijn vernieuwd, vallen onder de beoogde responstijden die in de onderstaande tabel zijn vermeld en die in de plaats komen van de beoogde responstijden voor ondersteuning zoals aangegeven in de bovenstaande tabel. Met uitzondering van de onderstaande tabel gelden alle overige voorwaarden voor ondersteuning voor Adobe Commerce: Managed Services blijft ongewijzigd. Voor de duidelijkheid gelden de onderstaande betreffende antwoordtijden alleen voor serviceverzoeken met betrekking tot Adobe Commerce: Managed Services, en geen andere AEC-producten.
+Standaardondersteuning voor Adobe Commerce: voor Managed Services-producten die een licentie hebben gekregen of door de klant zijn vernieuwd op of na 20 september 2021, gelden de beoogde responstijden die in de onderstaande tabel zijn vermeld en die in de plaats komen van de beoogde responstijden voor ondersteuning, zoals aangegeven in de bovenstaande tabel. Behalve zoals in de onderstaande tabel is aangegeven, blijven alle overige voorwaarden voor ondersteuning voor Adobe Commerce: Managed Services ongewijzigd. Voor de duidelijkheid gelden de onderstaande betreffende responstijden alleen voor serviceverzoeken die betrekking hebben op Adobe Commerce: Managed Services, en niet voor andere AEC-producten.
 
 | Prioriteit | Definitie | Gerichte initiële responstijd | Klantenverbintenis |
 |---|---|---|---|
-| P1 | **Kritieke zakelijke impact:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 30 minuten | De klant verbindt zich ertoe om 24x7 voortdurend contact op te nemen met de Klantenondersteuning van Adobe tot aan de mitigatie. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan Adobe een P1-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
+| P1 | **Kritieke gevolgen voor bedrijven:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 30 minuten | De klant verbindt zich ertoe om 24x7 voortdurend contact op te nemen met de Klantenondersteuning van Adobe tot aan de mitigatie. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan Adobe een P1-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
 | P2 | **Belangrijke gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | 1 uur tijdens normale kantooruren van Adobe | De steun van Adobe zal Contacten van de Steun tijdens slechts genoemde Adobe steunen. Als de Klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van een supportreactie van de Contacten van de Named Support, kan Adobe een P2-serviceaanvraag verlagen tot een lager prioriteitsniveau. |
 | P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 2 uur tijdens de normale kantooruren van de Adobe | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
 | P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | Adobe Customer Support zal alleen contact opnemen met Adobe voor support tijdens kantooruren. |
@@ -150,7 +151,7 @@ Standaardondersteuning voor Adobe Commerce: Managed Services-producten die op of
 </tbody>
 </table>
 
-## Activiteiten op het gebied van velddiensten: Menu
+## Activiteiten op het gebied van veldservice: Menu
 
 | Activiteitstypen | Oplossingen | Beschrijving |
 |---|---|---|
@@ -159,7 +160,7 @@ Standaardondersteuning voor Adobe Commerce: Managed Services-producten die op of
 | Oplossing voor problemen (aangepast) | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel | Technische problemen oplossen en problemen oplossen voor aangepaste code of niet-standaardconfiguraties, waarbij wordt bevestigd dat het probleem geen kernprobleem of configuratieprobleem is |
 | AEM advies as a Cloud Service adoptie | Experience Manager | Richtsnoeren en aanbevelingen met betrekking tot verbetering/migratie-haalbaarheid, architectuur en modernisering |
 | Basis gebruik Hoofdletterontwikkeling &amp; Steun | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel, Marketo Engage | De ontwikkeling van een geval voor eenmalig gebruik en beperkte uitvoeringssteun voor een specifieke kleine/basiscampagne, test, verpersoonlijking of andere oplossingsactiviteit |
-| Rapportage en analyse van oplossingen | Analyse, Audience Manager, Doel | Evalueer nieuwe rapporterings- en analysemogelijkheden en verstrek basisopstelling of configuratie van één of meerdere rapporten en/of dashboards |
+| Rapportage en analyse van oplossingen | Analyse, Audience Manager, Doel | Evalueer nieuwe rapportage- en analysemogelijkheden en verstrek basisopstelling of configuratie van een of meer rapporten en/of dashboards |
 | Routekaart voor looptijd | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel, Marketo Engage | Ontwikkeling van een praktijkscenario voor verdere rijpheid en groei |
 | Deskside Coaching | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel | Inschakelen van specifieke functies of beste praktijken voor een of meer oplossingen |
 
