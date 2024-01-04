@@ -1,22 +1,22 @@
 ---
-user-guide-title: Bronnen voor ondersteuning
-user-guide-description: Bronnen voor ondersteuning voor Adobe Experience Cloud en Adobe Experience Platform.
+user-guide-title: Bronnen voor succesplannen
+user-guide-description: Succesplannen en ondersteuningsmiddelen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
-feature: Support
-source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
+feature: Success Plans
+source-git-commit: 65ee13adb8e35d6714d0ebe705b788b1a535400f
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 4%
+source-wordcount: '66'
+ht-degree: 0%
 
 ---
 
 
-# Bronnen voor ondersteuning {#data-sheets}
+# Bronnen voor succesplannen {#data-sheets}
 
-+ [Overzicht van Adobe-supportplannen](overview.md)
-+ Ondersteuningsplannen voor Adobe vóór 16 juni 2022{#prior-plans}
-   + [Overzicht van eerdere Adobe-ondersteuningsplannen](overview-prior-plans.md)
-   + Experience Cloud Services {#data-sheets}
++ [Overzicht van succesplannen voor Adobe](overview.md)
++ Ondersteuningsplannen voor Adoben vóór 16 juni 2022{#prior-plans}
+   + [Overzicht van ondersteuningsplannen voor eerdere Adoben](overview-prior-plans.md)
+   + Experience Cloud {#data-sheets}
       + [Overzicht van Adobe-ondersteuning](dx-overview.md)
       + [Online](online.md)
       + [Zakelijk](business.md)
