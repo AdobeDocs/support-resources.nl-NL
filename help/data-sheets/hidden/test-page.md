@@ -3,7 +3,7 @@ title: Testpagina (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 26b2032221c1e17ed0a71e556d6acc3f8914dd22
+source-git-commit: 438daab643e13e14484ab1ced6c25a6c0e9f74cb
 workflow-type: tm+mt
 source-wordcount: '1015'
 ht-degree: 1%
@@ -254,7 +254,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Aanvullende informatie" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Gegevens vrijgeven</strong></a>
     <p>Bekijk alle releasegegevens voor Adobe Commerce-patches en -services.</p>
   </td>
@@ -262,7 +262,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Installatie" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Installatie</strong></a>
     <p>Leer hoe u Adobe Commerce installeert voor implementaties op locatie.</p>
   </td>
@@ -270,7 +270,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Configuratie" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Configuratie</strong></a>
     <p>Configureer functies en services voor uw Adobe Commerce-toepassing.</p>
   </td>
@@ -278,7 +278,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Gegevensmigratie" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Gegevensmigratie</strong></a>
     <p>Leer over het proces van de gegevensmigratie tussen Magento 1 en Magento 2.</p>
   </td>
@@ -288,7 +288,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Upgrade</strong></a>
     <p>Leer hoe u uw Adobe Commerce-project kunt upgraden om uw winkel veilig en efficiënt te laten werken.</p>
   </td>
@@ -296,7 +296,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Verwijzing naar opdrachtregelprogramma&apos;s" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Referentie voor opdrachtregelprogramma's</strong></a>
     <p>Meer informatie over opdrachten, argumenten en opties voor de opdrachtregelprogramma's van Adobe Commerce.</p>
   </td>
@@ -304,7 +304,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Prestaties" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Aanbevolen werkwijzen voor prestaties</strong></a>
     <p>Gebruik deze aanbevelingen om de prestaties van uw Adobe Commerce-implementatie te optimaliseren.</p>
   </td>
@@ -312,7 +312,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Tools" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Gereedschappen</strong></a>
     <p>Meer informatie over tools die je met Adobe Commerce kunt gebruiken.</p>
   </td>
@@ -322,7 +322,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
       <img alt="Implementatie" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Afspeelmap voor implementatie</strong></a>
     <p>Leer meer over strategieën voor het plannen en implementeren van een geslaagde Adobe Commerce-site.</p>
   </td>
@@ -330,7 +330,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Bewerkingen" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Operationeel afspelen</strong></a>
     <p>Leer hoe te om uw ondernemingen operationeel klaar te krijgen om een succesvolle e-commercesite in werking te stellen.</p>
   </td>
@@ -338,7 +338,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Handel op schaal</strong></a>
     <p>Leer hoe u op schaal ervaringen kunt bieden met Adobe Commerce met Adobe Experience Manager.</p>
   </td>
@@ -346,7 +346,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
     <a href="/help/data-sheets/business.md">
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
-    <p></p>
+    <br>
     <a href="/help/data-sheets/business.md"><strong>Beveiliging en naleving</strong></a>
     <p>Leer hoe Adobe Commerce-verkopers verantwoordelijk zijn voor het onderhouden van een veilige omgeving.</p>
   </td>
