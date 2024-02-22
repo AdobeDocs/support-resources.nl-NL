@@ -3,10 +3,10 @@ title: Testpagina (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 8956f958d373f1c67f4ffddf48388f7611ce00ea
+source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 0%
+source-wordcount: '1015'
+ht-degree: 1%
 
 ---
 
@@ -126,3 +126,217 @@ Downloaden [TXT-bestand](assets/dots.txt)
 Downloaden [XLSX-bestand](assets/4-module_version.xlsx)
 
 Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+
+## HTML-tabel met div
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Aanvullende informatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Gegevens vrijgeven</strong></a>
+      <p>Bekijk alle releasegegevens voor Adobe Commerce-patches en -services.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Installatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Installatie</strong></a>
+      <p>Leer hoe u Adobe Commerce installeert voor implementaties op locatie.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Configuratie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Configuratie</strong></a>
+      <p>Configureer functies en services voor uw Adobe Commerce-toepassing.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Gegevensmigratie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Gegevensmigratie</strong></a>
+      <p>Leer over het proces van de gegevensmigratie tussen Magento 1 en Magento 2.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Upgrade</strong></a>
+      <p>Leer hoe u uw Adobe Commerce-project kunt upgraden om uw winkel veilig en efficiënt te laten werken.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Verwijzing naar opdrachtregelprogramma&apos;s" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Referentie voor opdrachtregelprogramma's</strong></a>
+      <p>Meer informatie over opdrachten, argumenten en opties voor de opdrachtregelprogramma's van Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Prestaties" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Aanbevolen werkwijzen voor prestaties</strong></a>
+      <p>Gebruik deze aanbevelingen om de prestaties van uw Adobe Commerce-implementatie te optimaliseren.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Tools" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Gereedschappen</strong></a>
+      <p>Meer informatie over tools die je met Adobe Commerce kunt gebruiken.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Afspeelmap voor implementatie</strong></a>
+      <p>Leer meer over strategieën voor het plannen en implementeren van een geslaagde Adobe Commerce-site.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Bewerkingen" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Operationeel afspelen</strong></a>
+      <p>Leer hoe te om uw ondernemingen operationeel klaar te krijgen om een succesvolle e-commercesite in werking te stellen.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Handel op schaal</strong></a>
+      <p>Leer hoe u op schaal ervaringen kunt bieden met Adobe Commerce met Adobe Experience Manager.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Beveiliging en naleving</strong></a>
+      <p>Leer hoe Adobe Commerce-verkopers verantwoordelijk zijn voor het onderhouden van een veilige omgeving.</p>
+    </div>
+  </td>
+</tr>
+</table>
+
+## HTML-tabel zonder div
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Aanvullende informatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Gegevens vrijgeven</strong></a>
+    <p>Bekijk alle releasegegevens voor Adobe Commerce-patches en -services.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Installatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Installatie</strong></a>
+    <p>Leer hoe u Adobe Commerce installeert voor implementaties op locatie.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Configuratie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Configuratie</strong></a>
+    <p>Configureer functies en services voor uw Adobe Commerce-toepassing.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Gegevensmigratie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Gegevensmigratie</strong></a>
+    <p>Leer over het proces van de gegevensmigratie tussen Magento 1 en Magento 2.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Upgrade</strong></a>
+    <p>Leer hoe u uw Adobe Commerce-project kunt upgraden om uw winkel veilig en efficiënt te laten werken.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Verwijzing naar opdrachtregelprogramma&apos;s" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Referentie voor opdrachtregelprogramma's</strong></a>
+    <p>Meer informatie over opdrachten, argumenten en opties voor de opdrachtregelprogramma's van Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Prestaties" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Aanbevolen werkwijzen voor prestaties</strong></a>
+    <p>Gebruik deze aanbevelingen om de prestaties van uw Adobe Commerce-implementatie te optimaliseren.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Tools" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Gereedschappen</strong></a>
+    <p>Meer informatie over tools die je met Adobe Commerce kunt gebruiken.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementatie" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Afspeelmap voor implementatie</strong></a>
+    <p>Leer meer over strategieën voor het plannen en implementeren van een geslaagde Adobe Commerce-site.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Bewerkingen" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Operationeel afspelen</strong></a>
+    <p>Leer hoe te om uw ondernemingen operationeel klaar te krijgen om een succesvolle e-commercesite in werking te stellen.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Handel op schaal</strong></a>
+    <p>Leer hoe u op schaal ervaringen kunt bieden met Adobe Commerce met Adobe Experience Manager.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Beveiliging en naleving</strong></a>
+    <p>Leer hoe Adobe Commerce-verkopers verantwoordelijk zijn voor het onderhouden van een veilige omgeving.</p>
+  </td>
+</tr>
+</table>
