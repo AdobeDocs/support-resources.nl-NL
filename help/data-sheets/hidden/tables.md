@@ -3,16 +3,18 @@ title: Tabellen
 description: Werken met markeringstabellen en HTML-tabellen.
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
 
 # Tabellen
 
-Matt was hier opnieuw en opnieuw
+Matt was hier telkens weer -
+
+EDS
 
 Standaard Markering ondersteunt alleen basistabellen. Voor AdobeDocs Markdown, hebt u de volgende opties:
 
