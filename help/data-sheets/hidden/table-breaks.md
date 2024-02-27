@@ -3,14 +3,16 @@ title: Tabeleinden
 description: Testen van verschillende tabeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 6%
+source-wordcount: '270'
+ht-degree: 5%
 
 ---
 
 # Tabeleinden
+
+Niet veel om hier te zien.
 
 ## Standaardtabel met markeringen `<br>`
 
