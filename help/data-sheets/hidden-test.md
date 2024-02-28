@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium downloaden"
 badgeExam: label="Examen ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,16 @@ ht-degree: 0%
 # Verborgen testpagina
 
 Activeren? Opnieuw verzenden om 15:10 uur. Zal het om 15:30 live gaan?
+
+## Knoppen
+
+[Standaardknop](https://www.adobe.com/)
+
+**[Primaire knop](https://www.adobe.com/)**
+
+_[Secundaire knop](https://www.adobe.com/)_
+
+**_[Tertiair voor knop](https://www.adobe.com/)_**
 
 ## Voorvertoning van probleem
 
@@ -118,10 +128,10 @@ Badges gebruiken kleuren die zijn gedefinieerd in Adobe Spectrum:
 | Type | Badge |
 |---|---|
 | Informatief (standaard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positief | [!BADGE Nieuwe functie]{type=Positive url="https://www.example.com" tooltip="Ga naar example.com"} |
-| Negatief | [!BADGE Stopzetten]{type=negative tooltip="Deze functie is nu levenseinde"} |
-| Neutraal | [!BADGE Misschien]{type=Neutral tooltip="Een rider viel van het paard..."} |
-| Waarschuwing | [!BADGE Opgelet]{type=Caution tooltip="Gele status"} |
+| Positief | [!BADGE Nieuwe functie]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Ga naar voorbeeld.com&quot;} |
+| Negatief | [!BADGE Stopzetten]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutraal | [!BADGE Misschien]{type=Neutrale tooltip=&quot;Een liniaal viel van het paard...&quot;} |
+| Waarschuwing | [!BADGE Opgelet]{type=Caution tooltip=&quot;Gele status&quot;} |
 
 Syntaxisvoorbeelden
 
