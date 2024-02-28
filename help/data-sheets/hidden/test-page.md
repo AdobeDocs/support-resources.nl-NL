@@ -3,9 +3,9 @@ title: Testpagina (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1028'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 1%
 # Testpagina (verborgen)
 
 Verborgen testpagina
+
+## Knoppen
+
+[Standaardknop](https://www.adobe.com/)
+
+**[Primaire knop](https://www.adobe.com/)**
+
+_[Secundaire knop](https://www.adobe.com/)_
+
+**_[Tertiair voor knop](https://www.adobe.com/)_**
 
 ## Afbeeldingen (EXLM-412)
 
