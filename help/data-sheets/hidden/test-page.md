@@ -3,9 +3,9 @@ title: Testpagina (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 1%
 
 ---
@@ -17,14 +17,6 @@ Verborgen testpagina
 ## Welkom bij AEM EDS!
 
 Publicatietest
-
-**Emoji**
-
-Dit wordt genegeerd.
-
-Dat is zo grappig! :joy:
-
-:smiley:
 
 ## Knoppen
 
@@ -41,12 +33,6 @@ _[Secundaire knop](https://www.adobe.com/)_
 ### Afbeelding met aanwijstekst
 
 ![alt text - package.png](assets/package.png "Tekst boven - Dit is package.png")
-
-### Tekst centreren
-
-<p align="center">Ik ben gecentreerd</p>
-
-<center>Ik ben gecentreerd</center>
 
 ### Zoombare afbeeldingen
 
@@ -131,7 +117,7 @@ Zie vette koptekst hierboven.
 
 Het pictogram wordt rechts uitgelijnd, de dieve afbeelding wordt gecentreerd op 200 pixels, de spiegelafbeelding rechts op 50%.
 
-| <center>Links | Midden | Rechts</center> |
+| Links | Midden | Rechts |
 |---|---|---|
 | ![alt-tekst](assets/package.png "align=right"){align=right} | ![alt-tekst](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![alt-tekst](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 

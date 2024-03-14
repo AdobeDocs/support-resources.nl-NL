@@ -3,9 +3,9 @@ user-guide-title: Bronnen voor succesplannen
 user-guide-description: Succesplannen en ondersteuningsmiddelen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: ed472a699d30b12f3632cf658ae05ac420f931d3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 0%
       + [Elite](dme-elite.md)
 + [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Verborgen testbestand](hidden-test.md)
++ [Oplossingen voor verborgen fouten](hidden/bug-fixes.md)
 + [Testtegel Verborgen EDS](hidden/test-page.md)
 + [Test voor verborgen omleidingen](hidden/test-redirection.md)
 + [Hulplijn Verborgen syntaxis](hidden/syntax-style-guide.md)
