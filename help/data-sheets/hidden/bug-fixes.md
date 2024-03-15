@@ -3,14 +3,20 @@ title: Bugfixes (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 2%
 
 ---
 
 # Bugfixes
+
+## Inline badges werken niet
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE Notities]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE Tabellen]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Handleiding voor syntaxisstijl]{type=Positive}
 
 ## UGP-10560 - Badges in inklapbare gedeelten
 
