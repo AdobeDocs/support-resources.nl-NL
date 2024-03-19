@@ -2,9 +2,9 @@
 title: Overzicht van succesplannen voor Adobe
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
+source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
 workflow-type: tm+mt
-source-wordcount: '1830'
+source-wordcount: '1801'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,39 @@ De plannen van het Succes van de Adobe gaan boven en verder reactief probleem he
 |--- |--- |--- |
 |  | Met het Expert Succesplan hebt u toegang tot **24x7 deskundige zorg** voor technische het oplossen van problemen en begeleiding op uw kritieke bedrijfskwesties. Of je vindt snelle oplossingen door te tikken op onze zelfgeleide bronnen, exclusieve best practices en een online gemeenschap van experts en collega&#39;s in de Adobe. <p> *Bij alle Adobe Experience Cloud-licenties inbegrepen.* | Met het Ultimate Success-plan zult u ervaren **strategische begeleiding en proactieve technische gezondheid om hoogwaardige digitale ervaringen te bieden**. Uw milieu van de Adobe zal door een team van deskundigen worden gesteund die met uw zaken vertrouwd zijn en zich op het uitvoeren van een roadmap gericht die op uw doelstellingen en prioriteiten voor bedrijfseffect wordt gericht. |
 | **Succesteam** | Samengevoegd team van supporttechnici | Omvat: <ul><li> Aangewezen Technical Account Manager </li><li> Aangewezen Klantsuccesbeheer </li><li> Aangewezen Manager van de Diensten van de Steun</li><li> Gepoold team van technische technici en strategische deskundigen die Succesversnellers leveren </li><li> Samengevoegd team van supporttechnici </li></ul> |
-| **Proactieve technische en operationele ondersteuning** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | Omvat: <ul><li>Revisies voor upgrades en migratie, voorbereiding release </li><li>Overzicht van routekaarten voor producten</li><li> Gerichte technische en strategische routekaarten</li><li>Belangrijke voorbereiding en planning van gebeurtenissen</li><li>Planning voor relevante en tijdige activering</li><li>Technische beste praktijken en industriestandaarden</li><li>Aanmoedigen/uitlijnen met productteams</li><li>Uniform plan om belangrijke bedrijfsdoelstellingen te bereiken - Wederzijdse Actieplan (MAP)</li></ul> |
+| **Proactieve technische en operationele ondersteuning** | Niet inbegrepen | Omvat: <ul><li>Revisies voor upgrades en migratie, voorbereiding release </li><li>Overzicht van routekaarten voor producten</li><li> Gerichte technische en strategische routekaarten</li><li>Belangrijke voorbereiding en planning van gebeurtenissen</li><li>Planning voor relevante en tijdige activering</li><li>Technische beste praktijken en industriestandaarden</li><li>Aanmoedigen/uitlijnen met productteams</li><li>Uniform plan om belangrijke bedrijfsdoelstellingen te bereiken - Wederzijdse Actieplan (MAP)</li></ul> |
 | **Technische ondersteuning** | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2, P3, P4**: ondersteuning voor kantooruren</li><li>Standaardoutputbeheer</li><li>Gepoold escalatiebeheer</li></ul> | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2/P3**: 24x5-ondersteuning voor uitgaven</li><li>**P4**: ondersteuning voor kantooruren</li><li>Prioritair beheer van uitval</li><li>Aangewezen deskundige escalatiebeheer</li></ul> |
-| **Accelerators met succes** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | Succesvolle versnellers die regelmatig door TAM en CSM worden gepland<p>*(zie Accelerator-catalogus met succes voor meer informatie)* |
+| **Accelerators met succes** | Niet inbegrepen | Succesvolle versnellers die regelmatig door TAM en CSM worden gepland<p>*(zie Accelerator-catalogus met succes voor meer informatie)* |
 | **Ondersteuningskanalen** | Online, telefoon, Experience League, forums | Persoonlijk online portaal, telefoon, Experience League, forums met prioriteit |
 
 {style="table-layout:fixed"}
+
+<!--
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/green_checkmark.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![not available icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+-->
 
 ## Support-invoegtoepassingen
 
 | Invoegtoepassingen | Plan met succes voor experts | Plan voor ultieme successen |
 |--- |--- |--- |
-| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
-| **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
-| **Geavanceerde invoegtoepassing voor cloudondersteuning**<br> Topservice en waarborg voor klanten van Adobe Experience Manager as a Cloud Service | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
-| **Invoegtoepassing Mentor Sessions**<br> Verstrekt op vaardigheid-gebaseerd leren in een just-in-time opleidingsmethode | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
-| **Invoegtoepassing ontwikkelaarsverhoging**<br> Verleent toegang tot de deskundigen van de gebiedstechniek die met break-fix werk kunnen helpen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
-| **Toevoeging van de bundel voor prioritaire wachtrij**<br> Sla de regel over, zodat uw tickets eerst worden bewerkt met extra toegang tot Mentor Sessions en Developer Boost | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | Beschikbaar |
+| **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | Niet beschikbaar | Beschikbaar |
+| **Geavanceerde invoegtoepassing voor cloudondersteuning**<br> Topservice en waarborg voor klanten van Adobe Experience Manager as a Cloud Service | Beschikbaar | Beschikbaar |
+| **Invoegtoepassing Mentor Sessions**<br> Verstrekt op vaardigheid-gebaseerd leren in een just-in-time opleidingsmethode | Beschikbaar | Opgenomen |
+| **Invoegtoepassing ontwikkelaarsverhoging**<br> Verleent toegang tot de deskundigen van de gebiedstechniek die met break-fix werk kunnen helpen | Beschikbaar | Opgenomen |
+| **Toevoeging van de bundel voor prioritaire wachtrij**<br> Sla de regel over, zodat uw tickets eerst worden bewerkt met extra toegang tot Mentor Sessions en Developer Boost | Beschikbaar | Opgenomen |
 
 {style="table-layout:fixed"}
 
