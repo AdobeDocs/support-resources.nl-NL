@@ -2,9 +2,9 @@
 title: Overzicht van succesplannen voor Adobe
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,7 @@ De plannen van het Succes van de Adobe gaan boven en verder reactief probleem he
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ De plannen van het Succes van de Adobe gaan boven en verder reactief probleem he
 
 | Invoegtoepassingen | Plan met succes voor experts | Plan voor ultieme successen |
 |--- |--- |--- |
-| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | Beschikbaar |
+| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | Beschikbaar | Beschikbaar |
 | **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | Niet beschikbaar | Beschikbaar |
 | **Geavanceerde invoegtoepassing voor cloudondersteuning**<br> Topservice en waarborg voor klanten van Adobe Experience Manager as a Cloud Service | Beschikbaar | Beschikbaar |
 | **Invoegtoepassing Mentor Sessions**<br> Verstrekt op vaardigheid-gebaseerd leren in een just-in-time opleidingsmethode | Beschikbaar | Opgenomen |
