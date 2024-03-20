@@ -2,9 +2,9 @@
 title: Overzicht van succesplannen voor Adobe
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: e1290f63ff691ff2c5bce15df442a225e9554b74
+source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1801'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,7 @@ ht-degree: 0%
 
 De plannen van het Succes van de Adobe gaan boven en verder reactief probleem het oplossen van problemen om u een nieuw soort gepersonaliseerde ervaring te brengen die uw bedrijfsstappen voor om het even welke kwestie zal houden. Uw team van de Adobe maakt gebruik van diepgaande technische expertise, diverse mogelijkheden en een geavanceerde methodologie om u het juiste niveau van ondersteuning, expertise en technische en strategische begeleiding te bieden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on)
-
+>[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on){transcript=true}
 
 ## Vergelijking van de succesplannen van Expert en Ultimate
 
