@@ -3,9 +3,9 @@ title: Bugfixes (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 1%
 
 ---
@@ -180,6 +180,10 @@ _woensdag 9 augustus 2022_
 ## [!BADGE Afgeschaft]{type=negative}
 
 Zie bovenstaande kop. En de volgende.
+
+## Testen op automatisch activeren
+
+Ik heb dit op vrijdagmiddag toegevoegd maar heb niet op Nu publiceren geklikt.
 
 ### [!BADGE Beta]{type=Informative}
 
