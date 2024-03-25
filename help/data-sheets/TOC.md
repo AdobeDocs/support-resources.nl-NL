@@ -3,9 +3,9 @@ user-guide-title: Bronnen voor succesplannen
 user-guide-description: Succesplannen en ondersteuningsmiddelen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,12 @@ ht-degree: 0%
 + [Testtegel Verborgen EDS](hidden/test-page.md)
 + [Test voor verborgen omleidingen](hidden/test-redirection.md)
 + [Hulplijn Verborgen syntaxis](hidden/syntax-style-guide.md)
-+ [Verborgen tabeleinden](hidden/table-breaks.md)
 + [Testen met verborgen afbeeldingen](hidden/tables.md)
 + [Verborgen-notitietest](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
