@@ -3,7 +3,8 @@ title: Tabellen
 description: Werken met markeringstabellen en HTML-tabellen.
 hide: true
 hidefromtoc: true
-source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
+exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
+source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
 ht-degree: 0%
@@ -239,11 +240,11 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lood" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Workflow voor Adobe lead</strong></a>
+    <a href="note-test.md"><strong>Workflow voor Adobe lead</strong></a>
     </div>
     <em>Hoofdbewerkingsworkflow voor hoofdschrijvers.</em>
     <br>
@@ -276,11 +277,11 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lood" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Workflow voor Adobe lead</strong></a>
+    <a href="note-test.md"><strong>Workflow voor Adobe lead</strong></a>
     </div>
     <em>Hoofdbewerkingsworkflow voor hoofdschrijvers.</em>
     <br>
