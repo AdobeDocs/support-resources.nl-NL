@@ -1,42 +1,43 @@
 ---
-user-guide-title: Bronnen voor succesplannen
-user-guide-description: Succesplannen en ondersteuningsmiddelen voor Adobe Experience Cloud en Adobe Experience Platform.
+user-guide-title: Bronnen voor Success-lidmaatschappen
+user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
+source-git-commit: 3a532dcd728c6fd8a74f4b77285a13483a2a75e3
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 92%
 
 ---
 
 
-# Bronnen voor succesplannen {#data-sheets}
+# Bronnen voor Success-lidmaatschappen {#data-sheets}
 
-+ [Overzicht van succesplannen voor Adobe](overview.md)
-+ Ondersteuningsplannen voor Adoben vóór 16 juni 2022{#prior-plans}
-   + [Overzicht van ondersteuningsplannen voor eerdere Adoben](overview-prior-plans.md)
-   + Experience Cloud {#data-sheets}
++ [Overzicht van Adobe Success-lidmaatschappen](overview.md)
++ [Telefoonnummer bijwerken](phone-numbers.md)
++ Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
+   + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
+   + Experience Cloud Services {#data-sheets}
       + [Overzicht van Adobe-ondersteuning](dx-overview.md)
       + [Online](online.md)
-      + [Zakelijk](business.md)
+      + [Bedrijven](business.md)
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Handleiding voor klantenondersteuning](support-guide.md)
-   + Creative Cloud en Document Cloud {#dme-data-sheets}
-      + [Creative Cloud en Document Cloud](dme-overview.md)
-      + [Standaard](dme-standard.md)
-      + [Zakelijk](dme-business.md)
+   + Creative Cloud en Document Cloud Services {#dme-data-sheets}
+      + [Creative Cloud en Document Cloud Services](dme-overview.md)
+      + [Standard](dme-standard.md)
+      + [Bedrijven](dme-business.md)
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Verborgen testbestand](hidden-test.md)
 + [Oplossingen voor verborgen fouten](hidden/bug-fixes.md)
-+ [Testtegel Verborgen EDS](hidden/test-page.md)
++ [Verborgen EDS-testtegel](hidden/test-page.md)
 + [Test voor verborgen omleidingen](hidden/test-redirection.md)
-+ [Hulplijn Verborgen syntaxis](hidden/syntax-style-guide.md)
-+ [Testen met verborgen afbeeldingen](hidden/tables.md)
-+ [Verborgen-notitietest](hidden/note-test.md)
++ [Handleiding voor verborgen syntaxis](hidden/syntax-style-guide.md)
++ [Test voor verborgen afbeeldingen](hidden/tables.md)
++ [Test voor verborgen opmerking](hidden/note-test.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
