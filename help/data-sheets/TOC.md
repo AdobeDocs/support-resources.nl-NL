@@ -3,10 +3,10 @@ user-guide-title: Bronnen voor Success-lidmaatschappen
 user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 3a532dcd728c6fd8a74f4b77285a13483a2a75e3
+source-git-commit: e3696800099959a07f8880d112d5f98afa200771
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 92%
+source-wordcount: '88'
+ht-degree: 96%
 
 ---
 
@@ -14,7 +14,6 @@ ht-degree: 92%
 # Bronnen voor Success-lidmaatschappen {#data-sheets}
 
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
-+ [Telefoonnummer bijwerken](phone-numbers.md)
 + Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
    + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
