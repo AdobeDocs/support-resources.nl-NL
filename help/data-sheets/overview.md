@@ -1,89 +1,72 @@
 ---
-title: Overzicht van succesplannen voor Adobe
+title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
 workflow-type: tm+mt
-source-wordcount: '1801'
-ht-degree: 0%
+source-wordcount: '1832'
+ht-degree: 100%
 
 ---
 
-# Overzicht van succesplannen voor Adobe
+# Overzicht van Adobe Success-lidmaatschappen
 
-De plannen van het Succes van de Adobe gaan boven en verder reactief probleem het oplossen van problemen om u een nieuw soort gepersonaliseerde ervaring te brengen die uw bedrijfsstappen voor om het even welke kwestie zal houden. Uw team van de Adobe maakt gebruik van diepgaande technische expertise, diverse mogelijkheden en een geavanceerde methodologie om u het juiste niveau van ondersteuning, expertise en technische en strategische begeleiding te bieden.
+De Adobe Success-lidmaatschappen gaan verder dan reactieve probleemoplossing en bieden u een nieuw soort gepersonaliseerde ervaring waarmee uw bedrijf elk probleem een stap voor blijft. Uw Adobe-team maakt gebruik van uitgebreide technische expertise, diverse mogelijkheden en een geavanceerde methodologie om u het juiste niveau van ondersteuning, expertise en technische en strategische begeleiding te bieden die u nodig hebt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on){transcript=true}
 
-## Vergelijking van de succesplannen van Expert en Ultimate
+## Vergelijking van Success-lidmaatschappen voor Expert en Ultimate
 
-|  | Plan met succes voor experts | Plan voor ultieme successen |
+|  | Success-lidmaatschap voor Expert | Ultimate Success-lidmaatschap |
 |--- |--- |--- |
-|  | Met het Expert Succesplan hebt u toegang tot **24x7 deskundige zorg** voor technische het oplossen van problemen en begeleiding op uw kritieke bedrijfskwesties. Of je vindt snelle oplossingen door te tikken op onze zelfgeleide bronnen, exclusieve best practices en een online gemeenschap van experts en collega&#39;s in de Adobe. <p> *Bij alle Adobe Experience Cloud-licenties inbegrepen.* | Met het Ultimate Success-plan zult u ervaren **strategische begeleiding en proactieve technische gezondheid om hoogwaardige digitale ervaringen te bieden**. Uw milieu van de Adobe zal door een team van deskundigen worden gesteund die met uw zaken vertrouwd zijn en zich op het uitvoeren van een roadmap gericht die op uw doelstellingen en prioriteiten voor bedrijfseffect wordt gericht. |
-| **Succesteam** | Samengevoegd team van supporttechnici | Omvat: <ul><li> Aangewezen Technical Account Manager </li><li> Aangewezen Klantsuccesbeheer </li><li> Aangewezen Manager van de Diensten van de Steun</li><li> Gepoold team van technische technici en strategische deskundigen die Succesversnellers leveren </li><li> Samengevoegd team van supporttechnici </li></ul> |
-| **Proactieve technische en operationele ondersteuning** | Niet inbegrepen | Omvat: <ul><li>Revisies voor upgrades en migratie, voorbereiding release </li><li>Overzicht van routekaarten voor producten</li><li> Gerichte technische en strategische routekaarten</li><li>Belangrijke voorbereiding en planning van gebeurtenissen</li><li>Planning voor relevante en tijdige activering</li><li>Technische beste praktijken en industriestandaarden</li><li>Aanmoedigen/uitlijnen met productteams</li><li>Uniform plan om belangrijke bedrijfsdoelstellingen te bereiken - Wederzijdse Actieplan (MAP)</li></ul> |
-| **Technische ondersteuning** | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2, P3, P4**: ondersteuning voor kantooruren</li><li>Standaardoutputbeheer</li><li>Gepoold escalatiebeheer</li></ul> | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2/P3**: 24x5-ondersteuning voor uitgaven</li><li>**P4**: ondersteuning voor kantooruren</li><li>Prioritair beheer van uitval</li><li>Aangewezen deskundige escalatiebeheer</li></ul> |
-| **Accelerators met succes** | Niet inbegrepen | Succesvolle versnellers die regelmatig door TAM en CSM worden gepland<p>*(zie Accelerator-catalogus met succes voor meer informatie)* |
-| **Ondersteuningskanalen** | Online, telefoon, Experience League, forums | Persoonlijk online portaal, telefoon, Experience League, forums met prioriteit |
+|  | Met het Expert Success-lidmaatschap hebt u toegang tot **24x7 deskundige ondersteuning** voor technische probleemoplossing en begeleiding bij uw kritieke bedrijfsproblemen. Of u kunt snelle oplossingen vinden door gebruik te maken van onze zelfstudiebronnen, exclusieve best practices en een online community van Adobe-experts en collega&#39;s. <p> *Bij alle Adobe Experience Cloud-licenties inbegrepen.* | Met het Ultimate Success-lidmaatschap krijgt u **strategische begeleiding en proactieve technische status om goed presterende digitale ervaringen te leveren**. Uw Adobe-omgeving wordt ondersteund door een team van experts die bekend zijn met uw bedrijf en gericht zijn op het uitvoeren van een roadmap die is afgestemd op uw doelstellingen en prioriteiten voor zakelijke impact. |
+| **Succesteam** | Samengesteld team van ondersteuningstechnici | Omvat: <ul><li> Aangewezen Technische accountmanager </li><li> Aangewezen Customer Success Manager </li><li> Aangewezen Support Services Manager</li><li> Samengesteld team van technische specialisten en strategische deskundigen die Succes Accelerators leveren </li><li> Samengesteld team van ondersteuningstechnici </li></ul> |
+| **Proactieve technische en operationele ondersteuning** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | Omvat: <ul><li>Revisies voor upgrades en migratie, voorbereiding van release </li><li>Evaluaties van productroadmaps</li><li> Afgestemde technische en strategische roadmaps</li><li>Voorbereiding en planning van belangrijke gebeurtenissen</li><li>Planning voor relevante en tijdige activering</li><li>Technische best practices en sectorbegeleiding</li><li>Adviseren/afstemmen met productteams</li><li>Een uniform plan om de belangrijkste bedrijfsdoelstellingen te bereiken - Wederzijds actieplan (MAP)</li></ul> |
+| **Technische ondersteuning** | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2, P3, P4**: ondersteuning tijdens kantooruren</li><li>Beheer van standaard storingen</li><li>Samengesteld escalatiebeheer</li></ul> | Omvat: <ul><li>**P1**: 24x7 probleemondersteuning</li><li>**P2/P3**: 24x5-ondersteuning bij problemen</li><li>**P4**: ondersteuning tijdens kantooruren</li><li>Prioriteit gegeven aan het beheer van storingen</li><li>Aangewezen deskundig escalatiebeheer</li></ul> |
+| **Success Accelerators** | ![niet inbegrepen pictogram](assets/Cross_red_circle.svg){width="20"} Niet inbegrepen | Success Accelerators die regelmatig door TAM en CSM worden gepland<p>*(zie Success Accelerator-catalogus voor meer informatie)* |
+| **Ondersteuningskanalen** | Online, telefoon, Experience League, forums | Gepersonaliseerd online portal, telefoon met prioriteit, Experience League, forums |
 
 {style="table-layout:fixed"}
 
-<!--
-![not included icon](assets/Cross_red_circle.svg){width="20"}
-![not included icon](assets/Cross_red_circle.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![included icon](assets/green_checkmark.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/green_checkmark.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![included icon](assets/green_checkmark.svg){width="20"}
-![not available icon](assets/Cross_red_circle.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
--->
+## Add-ons voor ondersteuning
 
-## Support-invoegtoepassingen
-
-| Invoegtoepassingen | Plan met succes voor experts | Plan voor ultieme successen |
+| Add-ons | Success-lidmaatschap voor Expert | Ultimate Success-lidmaatschap |
 |--- |--- |--- |
-| **Invoegtoepassing Gebeurtenisbeheer**<br> Biedt end-to-end leiderschap en steun die wordt vereist om de volledige levenscyclus van zeer belangrijke gebeurtenissen te beheren | Beschikbaar | Beschikbaar |
-| **Technical Account Director-invoegtoepassing**<br> Uw toonaangevende technische hulpbron die leiderschapstoezicht biedt, de betrokkenheid van managers bezit en het bestuur verzekert om uw bedrijfsresultaten te maximaliseren | Niet beschikbaar | Beschikbaar |
-| **Geavanceerde invoegtoepassing voor cloudondersteuning**<br> Topservice en waarborg voor klanten van Adobe Experience Manager as a Cloud Service | Beschikbaar | Beschikbaar |
-| **Invoegtoepassing Mentor Sessions**<br> Verstrekt op vaardigheid-gebaseerd leren in een just-in-time opleidingsmethode | Beschikbaar | Opgenomen |
-| **Invoegtoepassing ontwikkelaarsverhoging**<br> Verleent toegang tot de deskundigen van de gebiedstechniek die met break-fix werk kunnen helpen | Beschikbaar | Opgenomen |
-| **Toevoeging van de bundel voor prioritaire wachtrij**<br> Sla de regel over, zodat uw tickets eerst worden bewerkt met extra toegang tot Mentor Sessions en Developer Boost | Beschikbaar | Opgenomen |
+| **Add-on voor gebeurtenisbeheer**<br>: biedt end-to-end leiderschap en ondersteuning die nodig zijn om de gehele levenscyclus van belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
+| **Add-on voor Technical Account Director**<br> Uw belangrijkste technische resource die toezicht houdt op het leiderschap, eigenaar is van de betrokkenheid van managers en zorgt voor governance om uw bedrijfsresultaten te maximaliseren | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
+| **Geavanceerde add-on voor cloudondersteuning**<br> Topzorg en waardegarantie voor klanten van Adobe Experience Manager as a Cloud Service | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
+| **Add-on voor mentorsessies**<br> Biedt op vaardigheden gebaseerd leren via een just-in-time trainingsmethode | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Add-on voor Developer Boost**<br> Dit verleent toegang tot de technische experts die met herstelwerk kunnen helpen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Add-on voor Prioriteitswachtrijbundel**<br> Sla de wachtrij over, zodat uw tickets het eerst worden behandeld met extra toegang tot mentorsessies en Developer Boost | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 
 {style="table-layout:fixed"}
 
 ## Gerichte initiële responstijden voor ondersteuning
 
-| Prioriteit | Definitie | Gerichte responstijd - ondersteuning door experts | Gerichte reactietijd - Ultieme ondersteuning | Klantenverbintenis |
+| Prioriteit | Definitie | Gerichte responstijd: ondersteuning voor Expert | Gerichte responstijd: ondersteuning voor Ultimate | Klantbetrokkenheid |
 |---|---|---|---|---|
-| P1 | **Kritieke gevolgen voor bedrijven:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 1 uur | 15 minuten | De klant verbindt zich tot een continue, 24x7-service met de Adobe van Klantenondersteuning tot aan de limitering. Als de Klantenondersteuning van de Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan de Adobe een P1-serviceverzoek verlagen naar een lager prioriteitsniveau. |
-| P2 | **Belangrijke gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | 2 uur tijdens de normale kantooruren van de Adobe | 30 minuten gedurende de regionale kantooruren van Adobe | De steun van de Adobe zal de Genoemde Contacten van de Steun tijdens slechts de kantooruren van de Adobe contacteren. Als de Klantenondersteuning van de Adobe geen kritieke informatie kan verkrijgen voor het beheer van een supportreactie van de Contacten van de Named Support, kan de Adobe een P2-serviceverzoek verlagen naar een lager prioriteitsniveau. |
-| P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 4 uur tijdens de normale kantooruren van de Adobe | 1 uur tijdens de regionale kantooruren van Adobe | De Klantenondersteuning van de Adobe neemt alleen tijdens de kantooruren van de Adobe contact op met de Contacten voor benoemde support. |
-| P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | 1 werkdag | De Klantenondersteuning van de Adobe neemt alleen tijdens de kantooruren van de Adobe contact op met de Contacten voor benoemde support. |
+| P1 | **Kritische impact op het bedrijf:** <br>de productiefuncties van de klant zijn uitgevallen of er is sprake van aanzienlijk gegevensverlies of verslechtering van de dienstverlening. Er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 1 uur | 15 minuten | De klant verplicht zich tot voortdurende, 24x7 samenwerking met Adobe-klantenondersteuning totdat het probleem is opgelost. Als de klantenondersteuning van Adobe er niet in slaagt kritieke informatie te verkrijgen voor het beheren van de ondersteuningsreactie van Named Support Contacts, kan Adobe een P1-serviceverzoek verlagen naar een lager prioriteitsniveau. |
+| P2 | **Grote impact op het bedrijf:** <br>de bedrijfsfuncties van de klant hebben een grote verslechtering van de service of mogelijk gegevensverlies, of een belangrijke functie is beïnvloed. | 2 uur tijdens de normale kantooruren van Adobe | 30 minuten tijdens de regionale kantooruren van Adobe | De ondersteuning van Adobe neemt alleen tijdens kantooruren van Adobe contact op met Named Support Contacts. Als de klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van een ondersteuningsreactie van de Named Support Contacts, kan Adobe een P2-serviceverzoek verlagen naar een lager prioriteitsniveau. |
+| P3 | **Minimale gevolgen voor het bedrijf:** <br>de bedrijfsfuncties van de klant ondergaan een geringe verslechtering van de service, maar er bestaat een oplossing/tijdelijke oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 4 uur tijdens de normale kantooruren van Adobe | 1 uur tijdens de regionale kantooruren van Adobe | De klantenondersteuning van Adobe neemt alleen tijdens de kantooruren van Adobe contact op met Named Support Contacts. |
+| P4 | **Geen gevolgen voor het bedrijf:** <br>algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | 1 werkdag | De klantenondersteuning van Adobe neemt alleen tijdens de kantooruren van Adobe contact op met Named Support Contacts. |
 
-## Ultieme ondersteuning: contactpersonen voor benoemde ondersteuning
+## Ondersteuning voor Ultimate: Named Support Contacts
 
-Onder Ultimate Support heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) contactpersonen voor benoemde support per AEC-product (verhoogd van vier (4) per AEC-product voor ondersteuning door experts).
+Onder Ultimate-ondersteuning heeft de klant recht op een uitgebreide capaciteit van maximaal vijftien (15) Named Support Contacts per AEC-product (verhoogd van vier (4) per AEC-producten voor Expert-ondersteuning).
 
-Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen problemen indienen en zo nodig samenwerken met het technische ondersteuningsteam van de Adobe namens de klant. Een (1) dergelijke contactpersoon voor benoemde support kan ook worden aangewezen als accountbeheerder van de klant, zodat u via het door de Adobe verschafte ondersteuningsportaal updates voor de service kunt uitvoeren op de lijst met benoemde ondersteuningscontactpersonen en de instellingen voor beperkte machtigingen.
+Named Support Contacts kunnen problemen indienen via alle beschikbare kanalen en indien nodig namens de klant communiceren met het technische ondersteuningsteam van Adobe. Eén (1) dergelijke Named Support Contact kan ook worden aangewezen als accountbeheerder van de klant, waardoor zelfservice-updates voor de lijst met Named Support Contacts, evenals beperkte machtigingsinstellingen, mogelijk zijn via het door Adobe geleverde ondersteuningsportaal.
 
-## Adobe digitale leerservices
+## Adobe Digital Learning Services
 
-***De ultieme ondersteuning verbeteren met een leerabonnement***
+***Ondersteuning voor Ultimate verbeteren met een Learning-lidmaatschap***
 
-**Bouw een Adobe geschoolde arbeidskrachten** met persoonlijke leertrajecten voor individuen en teams
+**Bouw een bekwaam Adobe-team** met persoonlijke leertrajecten voor individuen en teams
 
-**Prestaties en investeringen maximaliseren** door snelle vaardigheidsontwikkeling en ononderbroken product en oplossingskennis
+**Prestaties en investeringen maximaliseren** door snelle vaardigheidsontwikkeling en doorlopende product- en oplossingskennis
 
-**Realiseer bedrijfsdoelstellingen met een van begin tot eind het leren strategie** dat u in staat stelt de digitale volwassenheid van goedkeuring aan optimalisering te drijven
+**Bedrijfsdoelen realiseren met een end-to-end leerstrategie** waarmee u digitale volwassenheid kunt stimuleren, van adoptie tot optimalisatie
 
-## Ondersteuningsservices - Regio&#39;s, Uren en Talen
+## Ondersteuningsservices: regio&#39;s, tijden en talen
 
 <table style="table-layout:auto">
 <tr>
@@ -91,7 +74,7 @@ Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen proble
     <p><strong>Live telefonische en online technische ondersteuning</strong></p>
   </td>
   <td>
-    <ul><li>Voorvallen van prioriteit 1: 24x7x365 via telefoon of online support</li><li>Prioriteit 2-4 incidenten: ondersteuning beschikbaar tijdens regionale kantooruren via chat of online support.</li></ul>
+    <ul><li>Incidenten met prioriteit 1: 24x7x365 via telefoon of online ondersteuningscase</li><li>Incidenten met prioriteit 2-4: ondersteuning beschikbaar tijdens regionale kantooruren via chat of online ondersteuningscasus.</li></ul>
   </td>
 </tr>
 <tr>
@@ -99,7 +82,7 @@ Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen proble
     <p><strong>Regionale kantooruren</strong></p>
   </td>
   <td>
-    <ul><li>De toepasselijke regionale kantooruren zijn gebaseerd op het factuuradres in de verkooporder of aankoopdocumenten.</li><li>Als de Adobe wordt gecontacteerd voor steun door iemand anders dan de aangewezen Genoemde Contacten van de Steun, kan de Adobe verzoeken dat het steungeval door een Benoemde Contact van de Steun opnieuw wordt voorgelegd.</li></ul>
+    <ul><li>De toepasselijke regionale kantooruren zijn gebaseerd op het factuuradres in de verkooporder of inkoopdocumenten.</li><li>Als er voor ondersteuning contact wordt opgenomen met Adobe door iemand anders dan de aangewezen Named Support Contacts, kan Adobe verzoeken dat het ondersteuningsverzoek opnieuw wordt ingediend door een Named Support Contact.</li></ul>
   </td>
 </tr>
 <tr>
@@ -107,7 +90,7 @@ Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen proble
     <p><strong>Talen</strong></p>
   </td>
   <td>
-    <ul><li>Ondersteuning voor Japanse talen is beschikbaar tijdens regionale kantooruren in Japan, met uitzondering van feestdagen of vrije dagen voor Adobe. Japanse ondersteuning is niet beschikbaar voor Adobe Commerce.</li><li>Met de bovenstaande uitzondering wordt alle ondersteuning alleen in het Engels verstrekt.</li></ul>
+    <ul><li>Ondersteuning voor Japans is beschikbaar tijdens regionale kantooruren in Japan, met uitzondering van feestdagen of vrije dagen voor Adobe. Ondersteuning voor Japans is niet beschikbaar voor Adobe Commerce.</li><li>Met de bovenstaande uitzondering wordt alle ondersteuning uitsluitend in het Engels geleverd.</li></ul>
   </td>
 </tr>
 <tr>
@@ -115,7 +98,7 @@ Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen proble
     <p><strong>Toegang tot ondersteuning</strong></p>
   </td>
   <td>
-    <ul><li>De klant zal Adobe Support toegang verlenen tot de toepasselijke klantensystemen via hulpmiddelen voor externe ondersteuning die door de Adobe worden beheerd voor het oplossen van problemen en supportservices.</li></ul>
+    <ul><li>De klant zal de ondersteuning van Adobe toegang verlenen tot de toepasselijke klantensystemen via tools voor externe ondersteuning die door Adobe worden beheerd voor het oplossen van problemen en supportservices.</li></ul>
   </td>
 </tr>
 </table>
@@ -124,66 +107,66 @@ Contactpersonen voor benoemde support kunnen via alle beschikbare kanalen proble
 
 | Amerika | Europa, Midden-Oosten en Afrika | Azië, Stille Oceaan | Japan |
 |---|---|---|---|
-| 18:30 | 20:09 | 20:09 | 20:09 |
+| 6:00 - 17:30 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur |
 
-## Aanvullende voorwaarden die op Managed Services op Adobe Commerce van toepassing zijn (voorheen Magento Commerce Pro: Managed Services)
+## Aanvullende voorwaarden die van toepassing zijn op Adobe Commerce voor Managed Services (voorheen Magento Commerce Pro: Managed Services)
 
-Standaardondersteuning voor Adobe Commerce: voor Managed Services-producten die een licentie hebben gekregen of door de klant zijn vernieuwd op of na 20 september 2021, gelden de beoogde responstijden die in de onderstaande tabel zijn vermeld en die in de plaats komen van de beoogde responstijden voor ondersteuning, zoals aangegeven in de bovenstaande tabel. Behalve zoals in de onderstaande tabel is aangegeven, blijven alle overige voorwaarden voor ondersteuning voor Adobe Commerce: Managed Services ongewijzigd. Voor de duidelijkheid gelden de onderstaande betreffende responstijden alleen voor serviceverzoeken die betrekking hebben op Adobe Commerce: Managed Services, en niet voor andere AEC-producten.
+Standaardondersteuning voor Adobe Commerce: voor Managed Services-producten met een licentie of die door de klant zijn verlengd op of na 20 september 2021, gelden de beoogde responstijden die in de onderstaande tabel zijn vermeld en die in de plaats komen van de beoogde responstijden voor ondersteuning, zoals aangegeven in de bovenstaande tabel. Behalve zoals in de onderstaande tabel is aangegeven, blijven alle overige voorwaarden voor ondersteuning voor Adobe Commerce: Managed Services ongewijzigd. Voor de duidelijkheid: de onderstaande betreffende responstijden gelden alleen voor serviceverzoeken die betrekking hebben op Adobe Commerce: Managed Services en niet voor andere AEC-producten.
 
-| Prioriteit | Definitie | Gerichte initiële responstijd | Klantenverbintenis |
+| Prioriteit | Definitie | Gerichte initiële responstijd | Klantbetrokkenheid |
 |---|---|---|---|
-| P1 | **Kritieke gevolgen voor bedrijven:** <br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 30 minuten | De klant verbindt zich tot een continue, 24x7-service met de Adobe van Klantenondersteuning tot aan de limitering. Als de Klantenondersteuning van de Adobe geen kritieke informatie kan verkrijgen voor het beheer van de supportrespons van Contacten voor benoemde support, kan de Adobe een P1-serviceverzoek verlagen naar een lager prioriteitsniveau. |
-| P2 | **Belangrijke gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | 1 uur tijdens de normale kantooruren van de Adobe | De steun van de Adobe zal de Genoemde Contacten van de Steun tijdens slechts de kantooruren van de Adobe contacteren. Als de Klantenondersteuning van de Adobe geen kritieke informatie kan verkrijgen voor het beheer van een supportreactie van de Contacten van de Named Support, kan de Adobe een P2-serviceverzoek verlagen naar een lager prioriteitsniveau. |
-| P3 | **Minimale gevolgen voor het bedrijf:** <br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | 2 uur tijdens de normale kantooruren van de Adobe | De Klantenondersteuning van de Adobe neemt alleen tijdens de kantooruren van de Adobe contact op met de Contacten voor benoemde support. |
-| P4 | **Geen gevolgen voor het bedrijf:** <br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | De Klantenondersteuning van de Adobe neemt alleen tijdens de kantooruren van de Adobe contact op met de Contacten voor benoemde support. |
+| P1 | **Kritische impact op het bedrijf:** <br>de productiefuncties van de klant zijn uitgevallen of er is sprake van aanzienlijk gegevensverlies of verslechtering van de service. Er is onmiddellijke aandacht vereist om de functionaliteit en bruikbaarheid te herstellen. | 30 minuten | De klant verplicht zich tot voortdurende, 24x7 samenwerking met Adobe-klantenondersteuning totdat het probleem is opgelost. Als de klantenondersteuning van Adobe er niet in slaagt kritieke informatie te verkrijgen voor het beheren van de ondersteuningsreactie van Named Support Contacts, kan Adobe een P1-serviceverzoek verlagen naar een lager prioriteitsniveau. |
+| P2 | **Grote impact op het bedrijf:** <br>de bedrijfsfuncties van de klant ondergaan een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | 1 uur tijdens de normale kantooruren van de Adobe | De ondersteuning van Adobe neemt alleen tijdens kantooruren van Adobe contact op met Named Support Contacts. Als de klantenondersteuning van Adobe geen kritieke informatie kan verkrijgen voor het beheer van een ondersteuningsreactie van de Named Support Contacts, kan Adobe een P2-serviceverzoek verlagen naar een lager prioriteitsniveau. |
+| P3 | **Minimale impact op het bedrijf:** <br>de bedrijfsfuncties van de klant hebben een kleine verslechtering van de service, maar er bestaat een oplossing/tijdelijke oplossing waardoor de bedrijfsfuncties normaal kunnen blijven werken. | 2 uur tijdens de normale kantooruren van Adobe | De klantenondersteuning van Adobe neemt alleen tijdens de kantooruren van Adobe contact op met Named Support Contacts. |
+| P4 | **Geen gevolgen voor het bedrijf:** <br>algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | 1 werkdag | De klantenondersteuning van Adobe neemt alleen tijdens de kantooruren van Adobe contact op met Named Support Contacts. |
 
 {style="table-layout:auto"}
 
-## Adviserende diensten starten - Geleidelijke activiteiten
+## Starten van Adviesservices - gefaseerde proactieve activiteiten
 
 <table>
 <tbody>
   <tr>
     <td>Kick-off </td>
-    <td>De start van het project, richt zich op doelstellingen en chronologie, het plan van de projectsamenwerking, identificeert middelen, belanghebbenden, en vestigend projectleider </td>
-    <td>Kick-offdek, inclusief plan voor projectsamenwerking </td>
+    <td>Start van het project, afstemmen op doelen en tijdlijnen, projectsamenwerkingsplan, identificeren van middelen en belanghebbenden en instellen van projectcadans </td>
+    <td>Kick-off deck inclusief projectsamenwerkingsplan </td>
   </tr>
   <tr>
     <td>Definiëren </td>
-    <td>Zakelijke vereisten, KPI's, gebruiksgevallen - specifieke oplossingen of meerdere oplossingen (indien van toepassing), gereedheidsstrategie voor klanten, evaluatie en aanbevelingen. Een solide basis leggen voor een geslaagde nieuwe implementatie  </td>
-    <td>Beoordeling en Recommendations-document </td>
+    <td>Zakelijke vereisten, KPI's, gebruiksgevallen: specifieke oplossingen of meerdere oplossingen (indien van toepassing), gereedheidsstrategie voor klanten, evaluatie en aanbevelingen. Een solide basis leggen voor een geslaagde nieuwe implementatie  </td>
+    <td>Document met evaluaties en aanbevelingen </td>
   </tr>
   <tr>
     <td>Ontwerp </td>
-    <td>Advisering op het gebied van best practices, technische specificatie en architectuurcontrole van het ontwerp van de oplossing en, indien nodig, evaluatie van meerdere oplossingen. Controleren of de implementatie zo goed mogelijk werkt </td>
+    <td>Advies over best practices, technische specificatie en architectuurbeoordeling van het oplossingsontwerp en evaluatie van meerdere oplossingen indien nodig. Controleren of de implementatie op de best mogelijke manier werkt </td>
     <td></td>
   </tr>
   <tr>
     <td>Go-Live </td>
-    <td>Tips en trucs adviseren, de implementatie van de oplossing, eigenschappen, en integratie voor "geschikt voor gebruik"bevestigen, en nauwkeurigheid voor lanceringsbereidheid status. Afhankelijk van de oplossing kan het testen van prestaties/belasting omvatten </td>
+    <td>Advies over best practices, valideren van de implementatie van oplossingen, functies en integraties voor 'geschikt voor gebruik' en nauwkeurigheid voor de gereedheidsstatus voor lancering. Kan prestatie-/belastingtests omvatten, afhankelijk van de oplossing </td>
     <td></td>
   </tr>
   <tr>
-    <td>Na starten </td>
-    <td>Inschakelen, advies over gevallen van rijpheid, overzicht van de service en overdracht aan ondersteuning en/of veldservices </td>
+    <td>Na de start </td>
+    <td>Inschakelen, advies over volwassenheid van gebruiksscenario's, samenvatting van de opdracht en overdracht aan ondersteuning en/of buitendienstactiviteiten </td>
     <td>Overzicht van betrokkenheid </td>
   </tr>
 </tbody>
 </table>
 
-## Activiteiten op het gebied van veldservice: Menu
+## Activiteiten van buitendienstactiviteiten: menu
 
 | Activiteitstypen | Oplossingen | Beschrijving |
 |---|---|---|
-| Gezondheidsbeoordeling | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel, Marketo Engage | Gerichte beoordeling van de uitvoeringsgezondheid van een specifieke toepassing |
-| Ondersteuning voor implementatie en integratie van functies | Analyse, Audience Manager, Doel, Campagne, Experience Manager | Basislijnsteun voor de opstelling en de configuratie van één enkele eenvoudige oplossingsimplementatie of integratie |
-| Oplossing voor problemen (aangepast) | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel | Technische problemen oplossen en problemen oplossen voor aangepaste code of niet-standaardconfiguraties, waarbij wordt bevestigd dat het probleem geen kernprobleem of configuratieprobleem is |
-| AEM advies as a Cloud Service adoptie | Experience Manager | Richtsnoeren en aanbevelingen met betrekking tot verbetering/migratie-haalbaarheid, architectuur en modernisering |
-| Basis gebruik Hoofdletterontwikkeling &amp; Steun | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel, Marketo Engage | De ontwikkeling van een geval voor eenmalig gebruik en beperkte uitvoeringssteun voor een specifieke kleine/basiscampagne, test, verpersoonlijking of andere oplossingsactiviteit |
-| Rapportage en analyse van oplossingen | Analyse, Audience Manager, Doel | Evalueer nieuwe rapportage- en analysemogelijkheden en verstrek basisopstelling of configuratie van een of meer rapporten en/of dashboards |
-| Routekaart voor looptijd | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel, Marketo Engage | Ontwikkeling van een praktijkscenario voor verdere rijpheid en groei |
-| Deskside Coaching | Analyse, Audience Manager, Doel, Campagne, Experience Manager, Handel | Inschakelen van specifieke functies of beste praktijken voor een of meer oplossingen |
+| Statusbeoordeling | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Gerichte evaluatie van de status van de implementatie van een specifieke applicatie |
+| Ondersteuning voor implementatie en integratie van functies | Analytics, Audience Manager, Target, Campaign, Experience Manager | Basissteun voor de instelling en configuratie van één enkele eenvoudige oplossingsimplementatie of -integratie |
+| Oplossing voor problemen (aangepast) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Technische problemen oplossen en problemen oplossen voor aangepaste code of niet-standaardconfiguraties, waarbij wordt bevestigd dat het probleem geen kernprobleem of configuratieprobleem is |
+| Adoptie-advies voor AEM as a Cloud Service | Experience Manager | Richtlijnen en aanbevelingen voor verbetering/haalbaarheid van migratie, architectuur en modernisering |
+| Ontwikkeling van en ondersteuning bij basisgebruiksscenario&#39;s | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Ontwikkeling van eenmalig gebruik en beperkte uitvoeringsondersteuning voor een specifieke kleine/basiscampagne, test, personalisatie of andere oplossingsactiviteit |
+| Rapportage en analyse van oplossingen | Analytics, Audience Manager, Target | Evalueer nieuwe rapportage- en analysemogelijkheden en verstrek basisopstelling of configuratie van een of meer rapporten en/of dashboards |
+| Roadmap voor looptijd | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Ontwikkeling van een gebruiksroadmap voor verdere volwassenheid en groei |
+| Deskside Coaching | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Inschakelen van specifieke functies of best practices voor een of meer oplossingen |
 
 >[!NOTE]
 >
->Field Services zijn niet bedoeld als vervanging van Adobe Consulting-services. De Diensten van het gebied steunen de klant post-LAS implementatie en vullen om het even welke grotere raadplegende overeenkomst aan.
+>Buitendienstactiviteiten zijn niet bedoeld als vervanging van Adobe Consulting-services. Buitendienstactiviteiten ondersteunen de klant na de LAS-implementatie en vormen een aanvulling op elke grotere adviesopdracht.
