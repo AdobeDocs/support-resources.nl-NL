@@ -1,19 +1,19 @@
 ---
-title: Enterprise-ondersteuning
-description: Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellingen voor serviceniveau (SLT's), voordelen van technische expertise en een advocaat in de vorm van een Benoemde supporttechnicus.
+title: Ondersteuning voor bedrijven
+description: Adobe Experience Cloud Enterprise Support Services bieden verbeterde Service Level Targets (SLT's) voor ondersteuning, voordelen van technische expertise en een belangenbehartiger in de vorm van een Named Support Engineer.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: tm+mt
-source-wordcount: '1189'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '1213'
+ht-degree: 100%
 
 ---
 
-# Enterprise-ondersteuning
+# Ondersteuning voor bedrijven
 
 ![pictogram](assets/EnterpriseBanner.png)
 
-Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellingen voor serviceniveau (SLT&#39;s), voordelen van technische expertise en een advocaat in de vorm van een Benoemde supporttechnicus.
+Adobe Experience Cloud Enterprise Support Services bieden verbeterde Service Level Targets (SLT&#39;s) voor ondersteuning, voordelen van technische expertise en een belangenbehartiger in de vorm van een Named Support Engineer.
 
 <table>
 <thead>
@@ -21,7 +21,7 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
     <th></th>
     <th></th>
     <th>Online ondersteuning</th>
-    <th>Enterprise-ondersteuning</th>
+    <th>Ondersteuning voor bedrijven</th>
   </tr>
 </thead>
 <tbody>
@@ -33,33 +33,33 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
   </tr>
   <tr>
     <td rowspan="3">Toegewezen experts<br></td>
-    <td>Hoofd accountondersteuning</td>
+    <td>Account Support Lead</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Benoemde supporttechnicus</td>
+    <td>Named Support Engineer</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technical Account Manager</td>
+    <td>Technisch accountmanager</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="12">Ondersteuningsservices</td>
     <td>Online ondersteuning</td>
-    <td>Zakelijke uren</td>
+    <td>Kantooruren</td>
     <td>24x5</td>
   </tr>
   <tr>
-    <td>24x7x365 P1 Issue Support</td>
+    <td>24x7x365 P1-probleemondersteuning</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Contacten voor benoemde ondersteuning (per product)</td>
+    <td>Named Support Contacts (per product)</td>
     <td>4</td>
     <td>10</td>
   </tr>
@@ -79,57 +79,57 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
     <td>2</td>
   </tr>
   <tr>
-    <td>Professionele sessies per jaar</td>
+    <td>Expertsessies per jaar</td>
     <td></td>
     <td>2</td>
   </tr>
   <tr>
-    <td>Beoordelingen van kwesties</td>
+    <td>Beoordelingen van cases</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Gebeurtenisbeheer</td>
+    <td>Gebeurtenissenbeheer</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Omgevingsrevisie, onderhoud en bewaking</td>
+    <td>Omgevingsevaluatie, onderhoud en bewaking</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Release, migratie, upgrade en evaluatie van productroutekaart</td>
+    <td>Release, migratie, upgrade en evaluatie van roadmap van producten</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ondersteuningsactiviteiten voor cloud - Experience Managers als cloud</td>
+    <td>Cloud-ondersteuningsactiviteiten - Experience Manager als Cloud</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="2">Veldservices</td>
-    <td>Beginnen met adviesservices - Eerste jaar van nieuwe oplossing</td>
+    <td rowspan="2">Buitendienstactiviteiten</td>
+    <td>Lancering van adviesservices - eerste jaar van nieuwe oplossing</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Veldserviceactiviteiten</td>
+    <td>Buitendienstactiviteiten</td>
     <td></td>
     <td>✔</td>
   </tr>
 </tbody>
 </table>
 
-## Doelen op serviceniveau: Eerste reactie
+## Doelen op serviceniveau: initiële respons
 
-| Prioriteit | Online ondersteuning | Enterprise-ondersteuning |
+| Prioriteit | Online ondersteuning | Ondersteuning voor bedrijven |
 |--- |--- |--- |
-| <b>PRIORITEIT 1</b><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>30 minuten |
-| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed. | Zakelijke uren/<br>4 uur | 24x5/<br>1 uur |
-| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | Zakelijke uren/<br>6 uur | Zakelijke uren/<br> 2 uur |
-| <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Zakelijke dagen/<br>3 dagen | Zakelijke dag/<br>1 dag |
+| <b>PRIORITEIT 1</b><br>De productiefuncties van de klant zijn uitgevallen of er is sprake van aanzienlijk gegevensverlies of verslechtering van de service. Er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen. | 24x7/<br>1 uur | 24x7/<br>30 minuten |
+| <b>PRIORITEIT 2</b><br>De bedrijfsfuncties van de klant hebben te maken met een grote verslechtering van de service of mogelijk gegevensverlies, of een belangrijke functie is aangetast. | Kantooruren/<br>4 uur | 24x5/<br>1 uur |
+| <b>PRIORITEIT 3</b><br>De bedrijfsfuncties van de klant ondergaan een geringe verslechtering van de service, maar er bestaat een oplossing/tijdelijke oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet. | Kantooruren/<br>6 uur | Kantooruren/<br> 2 uur |
+| <b>PRIORITEIT 4</b><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek. | Werkdagen/<br>3 dagen | Werkdag/<br>1 dag |
 
 {style="table-layout:auto"}
 
@@ -138,24 +138,24 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Beoordelingen van kwesties" src="assets/casereviews.png"/>
+    <img alt="Beoordelingen van cases" src="assets/casereviews.png"/>
     <div>
-    <p><b>Beoordelingen van kwesties</b></p>
-    <p>Regelmatige geplande evaluatie van open supportverzoeken, waarbij de klant zich moet richten op de beschrijving van de zaak, het effect op het bedrijf, de status, de prioriteit en de overeenstemming over de volgende stappen die nodig zijn om een snelle oplossing te garanderen.</p>
+    <p><b>Beoordelingen van cases</b></p>
+    <p>Regelmatig geplande evaluatie van openstaande ondersteuningsverzoeken, waardoor de klant op één lijn komt met de casusbeschrijving, de zakelijke impact, de status, de prioriteit en overeenstemming over de volgende stappen die nodig zijn om een snelle oplossing te garanderen.</p>
     </div>
   </td>
   <td>
-    <img alt="Benoemde supporttechnicus" src="assets/namedsupportengineer.png"/>
+    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>Benoemde supporttechnicus</b></p>
-    <p>Een aangewezen steuningenieur die met uw oplossingsmilieu en bedrijfsdoelstellingen vertrouwd wordt. De NSE is een ervaren supporttechnicus die u helpt uw Enterprise Support-ervaring te coördineren.</p>
+    <p><b>Named Support Engineer</b></p>
+    <p>Een aangewezen ondersteuningsingenieur die vertrouwd raakt met uw oplossingsomgeving en bedrijfsdoelstellingen. De NSE is een ervaren ondersteuningstechnicus die u helpt bij het coördineren van uw Enterprise-ondersteuningservaring.</p>
     </div>
   </td>
   <td>
-    <img alt="Professionele sessies" src="assets/expertsessions.png"/>
+    <img alt="Expertsessies" src="assets/expertsessions.png"/>
     <div>
-    <p><b>Professionele sessies</b></p>
-    <p>Een sessie van 60 minuten die zich richt op een specifieke productfunctie en hoe deze kan worden gebruikt om algemene bedrijfsproblemen op te lossen.</p>
+    <p><b>Expertsessies</b></p>
+    <p>Een sessie van 60 minuten voor een specifieke productfunctie en hoe deze kan worden gebruikt om algemene bedrijfsproblemen op te lossen.</p>
     </div>
   </td>
 </tr>
@@ -164,14 +164,14 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
     <img alt="Escalatiebeheer" src="assets/EscalationManagement.png"/>
     <div>
     <p><b>Escalatiebeheer</b></p>
-    <p>Een aangewezen contactpunt binnen Adobe dat escalatiehulp, regelmatige updates kan verlenen en ervoor zorgt dat prioriteit wordt gegeven aan uw meest kritieke open steunverzoeken.</p>
+    <p>Een aangewezen contactpunt binnen Adobe dat escalatiehulp en regelmatige updates kan verlenen en kan zorgen voor prioriteit voor uw meest dringende open ondersteuningsverzoeken.</p>
     </div>
   </td>
   <td>
     <img alt="Servicebeoordelingen" src="assets/ServiceReviews.png"/>
     <div>
     <p><b>Servicebeoordelingen</b></p>
-    <p>Een halfjaarlijkse uitgebreide evaluatie van de services, voordelen en ondersteuningscijfers van het Adobe Enterprise-programma.</p>
+    <p>Een halfjaarlijkse uitgebreide review van Adobe Enterprise-programmaservices, voordelen en ondersteuningsstatistieken.</p>
     </div>
   </td>
   <td>
@@ -179,26 +179,26 @@ Adobe Experience Cloud Enterprise Support Services biedt uitgebreide doelstellin
 </tr>
 </table>
 
-## Ondersteuningsactiviteiten voor cloud - AEM
+## Cloud Support Activities - AEM
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <div>
-    <p><b>Bestuur voor AEM as a Cloud Service</b></p>
-    <p>Technisch en operationeel bestuur om AEM as a Cloud Service klanten te helpen zich aan industriestandaarden en beste praktijken voor AEM as a Cloud Service te houden.</p>
+    <p><b>Governance voor AEM as a Cloud Service</b></p>
+    <p>Technische en operationele governance om klanten van AEM as a Cloud Service te helpen bij het naleven van industriestandaarden en best practices voor AEM as a Cloud Service.</p>
     </div>
   </td>
   <td>
     <div>
     <p><b>Services met toegevoegde waarde voor AEM as a Cloud Service</b></p>
-    <p>Identificeer, herzie en verstrek aanbevelingen over aangepaste oplossingsadoptiegebieden die mogelijkheden voor optimalisering hebben.</p>
+    <p>Identificeer, evalueer en geef aanbevelingen over gebieden voor de adoptie van aangepaste oplossingen die mogelijkheden bieden voor optimalisatie.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Aanpassingsbeste praktijken voor AEM as a Cloud Service</b></p>
-    <p>Aanpassing van best practices en kerncomponenten op het gebied van aanpassing in AEM as a Cloud Service bevorderen.</p>
+    <p><b>Best practices voor aanpassing voor AEM as a Cloud Service</b></p>
+    <p>Stimuleer de acceptatie van best practices voor aanpassingen en kerncomponenten in AEM as a Cloud Service.</p>
     </div>
   </td>
 </tr>
@@ -216,8 +216,8 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <img alt="Forums" src="assets/CommunityForums.png"/>
     <div>
     <p>Communityforums</p>
-    <p><b>Onlineforums</b></p>
-    <p>Doorlopende online toegang tot een groeiende database met technische oplossingen, productdocumentatie, veelgestelde vragen en meer. Verbind met artsen en andere klanten op de Gemeenschap van Adobe om beste praktijken en geleerde lessen te delen.</p>
+    <p><b>Online forums</b></p>
+    <p>Doorlopend online toegang tot een groeiende database met technische oplossingen, productdocumentatie, veelgestelde vragen en meer. Kom in contact met professionals en andere klanten in de Adobe-community om best practices en geleerde lessen te delen.</p>
     </div>
   </td>
   <td>
@@ -225,105 +225,105 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>24x7x365 P1</p>
     <p><b>Telefonische ondersteuning</b></p>
-    <p>Geautoriseerde gebruikers of Contacten voor benoemde ondersteuning kunnen via alle beschikbare kanalen problemen indienen (waaronder telefoon voor P1) en namens uw bedrijf communiceren met ons team voor technische ondersteuning.</p>
+    <p>Geautoriseerde gebruikers of Named Support Contacts kunnen via alle beschikbare kanalen problemen indienen (waaronder telefonisch voor P1) en namens uw bedrijf communiceren met ons team voor technische ondersteuning.</p>
     </div>
   </td>
   <td>
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
-    <p><b>Zelfgeleide reizen</b></p>
-    <p>De Makers van de ervaring worden gemaakt met Experience League. Klanten kunnen hun mogelijkheden van het Beheer van de Ervaring van de Klant met gepersonaliseerde het leren beginnen om vaardigheden te ontwikkelen, met een mondiale gemeenschap van edelen in dienst te nemen, en loopbaanbevordering erkenning te verdienen.</p>
+    <p><b>Zelfgestuurde trajecten</b></p>
+    <p>Experience Makers worden gemaakt met Experience League. Klanten kunnen hun vaardigheden op het gebied van Customer Experience Management verbeteren met gepersonaliseerd leren om vaardigheden te ontwikkelen, in contact te komen met een wereldwijde community van collega's en een erkenning te krijgen die hun carrière vooruit helpt.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Kantooruren" src="assets/Webinar.png"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Kantooruren</p>
+    <p>Office Hours</p>
     <p><b>Webinars</b></p>
-    <p>Office Hours is een initiatief van het klantenondersteuningsteam van Adobe. Deze sessies zijn ontworpen om deelnemers te informeren en te helpen problemen op te lossen en tips en trucs te bieden om met Adobe Experience Cloud succesvol te zijn.</p>
+    <p>Office Hours is een initiatief van het klantenondersteuningsteam van Adobe. Deze sessies zijn ontworpen om deelnemers te informeren en te helpen problemen op te lossen, en tips en trucs te bieden om Adobe Experience Cloud succesvol te kunnen gebruiken.</p>
     </div>
   </td>
   <td>
-    <img alt="Live Chat-ondersteuning" src="assets/LiveChat.png"/>
+    <img alt="Ondersteuning via live chat" src="assets/LiveChat.png"/>
     <div>
-    <p>Live Chatondersteuning *</p>
-    <p><b>Chatondersteuning</b></p>
-    <p>Begin een praatjezitting om antwoorden &amp; hulp bij het voorleggen van gevallen te krijgen.</p>
+    <p>Ondersteuning via live chat *</p>
+    <p><b>Ondersteuning via chat</b></p>
+    <p>Start een chatsessie om antwoorden en hulp te krijgen bij het indienen van een case.</p>
     <p>* <i>Niet alle producten hebben live chatondersteuning.</i></p>
     </div>
   </td>
   <td>
     <img alt="Zelfhulp" src="assets/SelfHelpPortal.png"/>
     <div>
-    <p>Zelfhulpportalen</p>
-    <p><b>24x7 ondersteuningsportaal</b></p>
-    <p>Toegang op aanvraag tot het online portal voor zelfondersteuning om ondersteuningsverzoeken in te dienen, de status van een geval te bekijken en door andere bronnen te bladeren, zoals onze knowledgebase, nieuws en waarschuwingen, aanbevolen tips en nog veel meer.</p>
+    <p>Zelfhulp-portals</p>
+    <p><b>24x7 ondersteuningsportal</b></p>
+    <p>On-demand toegang tot de online zelfhulp-ondersteuningsportal om ondersteuningsverzoeken in te dienen, de status van aanvragen te bekijken en door andere bronnen te bladeren, zoals onze kennisbank, nieuws en waarschuwingen, aanbevolen tips en meer.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Advies starten
+## Launch Advisory
 
-Voor klanten die een **nieuwe Adobe Experience Cloud-oplossing**, Opstartadvies is een *kernpakket van adviesdiensten* en aanbevelingen die bewezen zijn om succesvolle plaatsingen te steunen en tijd-aan-waarde te versnellen.
+Voor klanten die een **nieuwe Adobe Experience Cloud-oplossing** implementeren, is Launch Advisory een *kernset van adviesservices* en aanbevelingen waarvan bewezen is dat deze succesvolle implementaties ondersteunen en de waarde-opbrengst versnellen.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-De de oplossingsdeskundigen van de Adobe helpen vereisten, architectuur, ontwikkelingsproces bevestigen, en lanceringsoverzichten met beste op praktijk-gebaseerde begeleiding aan klanten en implementatiepartners.
+Experts van Adobe-oplossingen helpen bij het valideren van vereisten, architectuur, ontwikkelingsproces en evaluaties van de gereedheid voor lanceringen met op best practices gebaseerde begeleiding voor klanten en implementatiepartners.
 
-De Advisering van de lancering zal zich op uw projectprogramma door gemeenschappelijke mijlpalen (Kickoff, Bepaal, Ontwerp, Go-live en de Lancering van de Post) richten om te begeleiden, te bevestigen, te beoordelen en aanbevelingen te doen. Belangrijkste te leveren items zijn:
+Launch Advisory sluit aan bij uw projectplanning via gemeenschappelijke mijlpalen (Kickoff, Define, Design, Go-live en Post Launch) om u te begeleiden, valideren, beoordelen en aanbevelingen te doen. De belangrijkste punten zijn onder meer:
 
-* Kickoff (met inbegrip van het plan van de projectsamenwerking) dek
-* Beoordelingsdocumenten en aanbevelingen
+* Kickoff-deck (inclusief projectsamenwerkingsplan).
+* Evaluatie- en aanbevelingsdocumenten
 * Overzicht van betrokkenheid
 
 <!--
 ![Launch Advisory Chart](assets/launch-advisory.png)
 -->
 
-## Veldserviceactiviteiten
+## Buitendienstactiviteiten
 
-Field Services wordt gebruikt voor **snelle resolutie**, gericht klantsucces en versneld **time-to-value**. Als het advies van de Lancering actief is, zal er zijn **geen velddiensten in jaar 1** voor elk oplossingsproduct dat onder een Adobe Support-contract valt.
+Buitendienstactiviteiten worden gebruikt voor **snelle resolutie**, gericht klantsucces en versnelde **waardelevering**. Als Launch Advisory actief is, zijn er **geen buitendienstactiviteiten in jaar 1** voor elk oplossingsproduct dat onder een Adobe-ondersteuningscontract valt.
 
-Als Enterprise-klant komt u in aanmerking voor **2 activiteiten per jaar** van de volgende twee tracks: **Technisch** en/of **Strategisch**.
+Als Enterprise-klant komt u in aanmerking voor **twee activiteiten per jaar** van de volgende twee tracks: **Technisch** en/of **Strategisch**.
 
-**Technische aspecten** ervoor te zorgen dat de klanten technisch gezond zijn en hun instrumenten optimaal kunnen gebruiken. Specifiek, omvatten deze soorten activiteiten steun en aanbevelingen met betrekking tot platformconfiguraties, integratie en het oplossen van problemen.
+**Technische trackactiviteiten** zorgen ervoor dat klanten technisch in orde zijn en dat ze de adoptie van hun tools maximaliseren. Specifiek omvatten deze activiteiten ondersteuning en aanbevelingen met betrekking tot platformconfiguraties, integraties en probleemoplossing.
 
 Beschikbare soorten technische activiteiten:
 
-* Gezondheidscontrole
-* Platform
+* Statuscontrole
+* Platformcontrole
 * Inschakelen van functieset
 * Basisintegratie en -configuraties
-* Oplossingen voor klanten
-* Ondersteuning voor cloudservice
+* Probleemoplossing voor klantoplossingen
+* Ondersteuning voor cloudservices
 
-**Strategische baanactiviteiten** de plaats van kansen om waarde te verzekeren wordt gerealiseerd van de oplossingen van de Adobe van een klant. Deze omvatten supportaanbevelingen met betrekking tot strategie, meting en rijpheid om de realisatie van waarden over een of meer Adobe-oplossingen te stimuleren.
+**Strategische trackactiviteiten** zoeken naar mogelijkheden om ervoor te zorgen dat waarde wordt gerealiseerd uit de Adobe-oplossingen van een klant. Ze omvatten ondersteuningsaanbevelingen met betrekking tot strategie, metingen en volwassenheid om de waarderealisatie van een of meer Adobe-oplossingen te stimuleren.
 
 Beschikbare soorten strategische activiteiten:
 
-* Routekaart voor looptijd
-* Ontwikkeling/meting van hoofdletters gebruiken
+* Roadmap voor looptijd
+* Ontwikkeling/meting van gebruikscases
 * Rapportage en analyse
-* Inschakelen van tips en trucs
+* Inschakelen van best practices
 
 ## Bronnen
 
-| Resource | Beschrijving |
+| Bron | Beschrijving |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League is hoe Adobe bedrijven helpt de waarde te bereiken die ze van hun Adobe-investering verwachten. Het is de verenigde plaats waar de klanten kunnen leren, verbinden, en groeien langs een gepersonaliseerde weg aan succes dat zelfhulpleerprogramma&#39;s, productdocumentatie, instructeur-geleide opleiding, gemeenschap en technische steun omvat. |
-| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-cursussen zijn toegankelijk vanuit Experience League. De leercursussen integreren zowel op bestelling als instructeur-geleide lessen. Hier kunt u vaardigheden opdoen die erkende marktwaarde hebben en hen plaatsen om succes in uw organisaties te drijven. |
-| [Productieproblemen en systeemstoringen](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
-| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League is de manier waarop Adobe bedrijven waarde helpt bereiken die ze van hun investering in Adobe verwachten. Het is de centrale plek waar klanten kunnen leren, verbinding kunnen maken en kunnen groeien op een persoonlijk pad naar succes, inclusief tutorials voor zelfhulp, productdocumentatie, training onder leiding van een instructeur, community- en technische ondersteuning. |
+| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-cursussen zijn toegankelijk vanuit Experience League. De cursussen kunnen on demand zijn, of onder leiding van een instructeur. Hier kunt u vaardigheden opdoen met een erkende marktwaarde die uw organisaties succesvol maken. |
+| [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com geeft de statusinformatie weer van alle Adobe-producten en -services die worden geïmplementeerd in omgevingen met meerdere tenants. Klanten kunnen lidmaatschapsvoorkeuren kiezen om e-mailmeldingen te ontvangen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Voorbeelden zijn gepland onderhoud of serviceproblemen van verschillende ernst. |
+| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
 
-## Regionaal bereik van de ondersteuning van Adobe, lokale bedrijfsuren en taalondersteuning
+## Regionaal bereik van Adobe-ondersteuning, lokale openingstijden en taalondersteuning
 
-Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door het het facturerings adres van de klant (via de het koopdocument van de Orde van de Verkoop of andere Adobe van de Steun) aan één van de volgende regio&#39;s aan te passen:
+Het regionale bereik van Adobe-ondersteuning wordt bepaald op basis van het factuuradres van de klant (via de verkooporder of een ander aankoopdocument van Adobe-ondersteuning) voor een van de volgende regio&#39;s:
 
 <table>
 <thead>
@@ -336,15 +336,15 @@ Het regionale toepassingsgebied van de Steun van de Adobe wordt gevestigd door h
 </thead>
 <tbody>
   <tr>
-    <td>18:30</td>
-    <td>20:09</td>
-    <td>20:09</td>
-    <td>21:05</td>
+    <td>6:00 - 17:30 uur</td>
+    <td>9:00 - 17:00 uur</td>
+    <td>9:00 - 17:00 uur</td>
+    <td>09:00 -  17:30 uur</td>
   </tr>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Taalondersteuning is alleen beschikbaar in het Engels en Japans.</i></p>
-      <p><i>P2, P3, P4 gevallen zijn beperkt tot kantooruren alleen in Japan.</i></p>
+      <p><i>P2-, P3-, P4-cases zijn in Japan beperkt tot kantooruren.</i></p>
     </td>
   </tr>
 </tbody>

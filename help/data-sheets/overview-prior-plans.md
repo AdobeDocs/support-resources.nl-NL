@@ -1,23 +1,23 @@
 ---
-title: Overzicht van eerdere Adobe-ondersteuningsplannen
+title: Overzicht van eerdere lidmaatschappen voor Adobe Support
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
 source-git-commit: 9b2223eca555b44484cbd042a2020f068e11f54b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Overzicht van eerdere Adobe-ondersteuningsplannen
+# Overzicht van eerdere lidmaatschappen voor Adobe Support
 
 >[!NOTE]
 >
->Deze plannen hebben betrekking op de steunplannen voor Adobe van vóór 16 juni 2022. Voor de huidige ondersteuningsplannen raadpleegt u [Overzicht van Adobe Support-aanbieding](overview.md).
+>Dit lidmaatschap heeft betrekking op Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022. Voor de huidige ondersteuningslidmaatschappen raadpleegt u [Overzicht van Adobe-ondersteuningsaanbod](overview.md).
 
-De organisatie van de Steun van Adobe is geëngageerd aan uw succes. Alle abonnementen omvatten een niveau van steun dat gemakkelijke toegang tot onze hooggekwalificeerde technische middelen voor technische bijstand verleent.
+De Adobe Support-organisatie zet zich in voor uw succes. Alle lidmaatschappen omvatten een ondersteuningsniveau dat gemakkelijke toegang biedt tot onze hoogopgeleide technische bronnen voor technische hulp.
 
-Voor uitgebreidere behoeften bieden wij de diensten van de Steun van Adobe die toegang tot genoemde steunberoeps en zittingen voor pro-actieve begeleiding en de dienstoverzichten omvatten. Hoe complex uw supportbehoeften ook zijn, Adobe biedt de technische en operationele expertise die nodig is om u te helpen optimale prestaties en een optimale waarde van uw Adobe-oplossing te behalen.
+Voor uitgebreidere behoeften bieden we Adobe-ondersteuningsservices, waaronder toegang tot benoemde ondersteuningsprofessionals en sessies voor proactieve mentoring en evaluaties van services. Hoe complex uw ondersteuningsbehoeften ook zijn, Adobe biedt de technische en operationele expertise die u nodig hebt om u te helpen topprestaties en optimale waarde uit uw Adobe-oplossing te halen.
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,17 +28,17 @@ Voor uitgebreidere behoeften bieden wij de diensten van de Steun van Adobe die t
     <div>
     <a href="dx-overview.md"><strong>Experience Cloud-ondersteuning</strong></a>
     </div>
-    <p>Ondersteuningsopties voor producten van Experience Cloud en Experience Platform</p>
+    <p>Ondersteuningsopties voor Experience Cloud- en Experience Platform-producten</p>
     <br>
   </td>
   <td>
     <a href="dme-overview.md">
-      <img alt="Zakelijk" src="assets/CCDCThumbnail.png">
+      <img alt="Bedrijven" src="assets/CCDCThumbnail.png">
     </a>
     <div>
     <a href="dme-overview.md"><strong>Ondersteuning voor Creative Cloud Enterprise en Document</strong></a>
     </div>
-    <p>Ondersteuningsopties voor producten van Creative Cloud en Document Cloud</p>
+    <p>Ondersteuningsopties voor Creative Cloud- en Document Cloud-producten</p>
     <br>
   </td>
 </tr>

@@ -3,38 +3,38 @@ title: Overzicht van Creative Enterprise- en Document Cloud-ondersteuningsservic
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Creative Cloud en Document Cloud. Deze opties zijn onder andere Standard, Business, Enterprise en Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Ondersteuningsservices voor Creative Cloud Enterprise en Document Cloud
 
-Adobe Creative Cloud en de organisatie van de klantenondersteuning van Document Cloud zijn geëngageerd aan uw succes. Alle toepassingen beschikken over een supportniveau dat eenvoudig toegang biedt tot onze hooggekwalificeerde technische middelen voor technische ondersteuning.
+Adobe Creative Cloud en de klantenondersteuning van Document Cloud zetten zich in voor uw succes. Alle applicaties omvatten een ondersteuningsniveau dat gemakkelijke toegang biedt tot onze hoogopgeleide technische hulpmiddelen voor technische assistentie.
 
-Voor uitgebreidere behoeften bieden we Adobe Support-plannen die toegang tot benoemde supportprofessionals en sessies voor proactieve mentoring en servicecontroles bevatten. Hoe complex uw supportbehoeften ook zijn, Adobe biedt de technische en operationele expertise die nodig is om u te helpen maximale prestaties en optimale waarde te behalen met uw Adobe-toepassingen.
+Voor meer uitgebreide behoeften bieden we Adobe-ondersteuningslidmaatschappen die toegang bieden tot benoemde ondersteuningsprofessionals en sessies voor proactieve begeleiding en servicebeoordelingen. Hoe complex uw ondersteuningsbehoeften ook zijn, Adobe biedt de technische en operationele expertise die u nodig hebt om u te helpen topprestaties en optimale waarde uit uw Adobe-applicaties te halen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="dme-standard.md">
-    <img alt="Standaard" src="assets/STANDARDSupportThumbnailCC.png"/>
+    <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Standaardondersteuning</strong></a> (weergave <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Standaardondersteuning</strong></a> (<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>24x7 toegang voor Erkende Gebruikers (Admins) tot onze technische ondersteuningsteams via chat of telefoon en de mogelijkheid om verzoeken om hulp via ons ondersteunings-webportaal in te dienen. </p>
+    <p>24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze technische ondersteuningsteams via chat of telefoon, evenals de mogelijkheid om verzoeken om hulp in te dienen via ons webportaal voor ondersteuning. </p>
     <br>
   </td>
   <td>
     <a href="dme-business.md">
-      <img alt="Zakelijk" src="assets/BusinessSupportThumbnailCC.png">
+      <img alt="Bedrijven" src="assets/BusinessSupportThumbnailCC.png">
     </a>
     <div>
-    <a href="dme-business.md"><strong>Business Support</strong></a> (weergave <a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-business.md"><strong>Ondersteuning voor bedrijven</strong></a> (<a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>Prioriteit die voor steungevallen verplettert om snellere verbinding aan hogere steun en de capaciteit te verzekeren om een Lood van de Steun van de Rekening te hefboomwerking om regelmatige mededelingen en updates voor uw meest kritieke van steunverzoeken te ontvangen.</p>
+    <p>Prioriteitsroutering voor ondersteuningsaanvragen om een snellere verbinding met senior ondersteuning te garanderen en de mogelijkheid om een Account Support Lead in te zetten om regelmatige communicatie en updates te ontvangen voor uw meest kritische ondersteuningsverzoeken.</p>
     <br>
   </td>
 </tr>
@@ -44,9 +44,9 @@ Voor uitgebreidere behoeften bieden we Adobe Support-plannen die toegang tot ben
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnailxx.png"/>
     </a>
     <div>
-    <a href="dme-enterprise.md"><strong>Enterprise-ondersteuning</strong></a> (weergave <a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-enterprise.md"><strong>Enterprise-ondersteuning</strong></a> (<a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>De aangewezen technische contact in het Team van de Steun van de Adobe met diepe ervaring in uw oplossing zal in partnerschap met u en uw technische teams werken om geschikte oplossing van alle steunverzoeken te verzekeren.</p>
+    <p>De aangewezen technische contactpersoon in het Adobe Support Team met uitgebreide ervaring in uw oplossing werkt samen met u en uw technische teams om ervoor te zorgen dat alle ondersteuningsverzoeken tijdig worden opgelost.</p>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Voor uitgebreidere behoeften bieden we Adobe Support-plannen die toegang tot ben
       <img alt="Elite" src="assets/EliteSupportThumbnailcc.png">
     </a>
     <div>
-    <a href="dme-elite.md"><strong>Elite-ondersteuning</strong></a> (weergave <a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-elite.md"><strong>Elite-ondersteuning</strong></a> (<a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>Aangewezen technisch contact in het team van de Steun van de Adobe en een Technische Manager van de Rekening die in partnerschap met u werkt om beste-in-klasse pro-actieve steun te verlenen om u te verzekeren maximaliseert uw investering en u te helpen problemen vermijden alvorens zij gebeuren.</p>
+    <p>Aangewezen technische contactpersoon in het Adobe Support Team en een Technical Account Manager die met u samenwerkt om proactieve ondersteuning van topklasse te bieden, zodat u uw investering kunt maximaliseren en problemen kunt voorkomen voordat ze zich voordoen.</p>
     <br>
   </td>
 </tr>

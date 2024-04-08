@@ -1,19 +1,19 @@
 ---
 title: Overzicht van Experience Cloud Support Services
-description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud. Tot deze opties behoren Online, Zakelijk, Enterprise en Elite.
+description: Dit artikel biedt een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud. Tot deze opties behoren Online, Bedrijven, Enterprise en Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Overzicht van Experience Cloud Support Services
 
-De Adobe Experience Cloud-organisatie voor klantenondersteuning zet zich in voor uw succes. Alle abonnementen omvatten een niveau van steun dat gemakkelijke toegang tot onze hooggekwalificeerde technische middelen voor technische bijstand verleent.
+De Adobe Experience Cloud Customer Support-organisatie zet zich in voor uw succes. Alle lidmaatschappen omvatten een ondersteuningsniveau dat gemakkelijke toegang biedt tot onze hoogopgeleide technische bronnen voor technische hulp.
 
-Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die toegang tot genoemde steunberoeps, versnelde dienst-vlakke reactiedoelstellingen, en zittingen voor pro-actieve begeleiding en de dienstoverzichten omvatten. Hoe complex uw supportbehoeften ook zijn, Adobe biedt technische en operationele expertise die nodig is om u te helpen optimale prestaties en een optimale waarde van uw Adobe-oplossing te behalen.
+Voor uitgebreidere behoeften bieden we Adobe-ondersteuningsservices, waaronder toegang tot benoemde ondersteuningsprofessionals, versnelde responsdoelen op serviceniveau en sessies voor proactieve mentoring en evaluaties van services. Hoe complex uw ondersteuningsbehoeften ook zijn, Adobe biedt de technische en operationele expertise die u nodig hebt om u te helpen topprestaties en optimale waarde uit uw Adobe-oplossing te halen.
 
 <table style="table-layout:fixed">
 <tr>
@@ -22,19 +22,19 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
     <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Online ondersteuning</strong></a> (weergave <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="online.md"><strong>Online ondersteuning</strong></a> (<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> bekijken)
     </div>
     <p>Beperkte toegang tot telefonische ondersteuning</p>
     <br>
   </td>
   <td>
     <a href="business.md">
-      <img alt="Zakelijk" src="assets/BusinessSupportThumbnail.png">
+      <img alt="Bedrijven" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Business Support</strong></a> (weergave <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="business.md"><strong>Ondersteuning voor bedrijven</strong></a> (<a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>Volledige toegang tot ondersteuningsteams voor Adobe en tot een medewerker voor accountbeheer</p>
+    <p>Volledige toegang tot de technische ondersteuningsteams van Adobe en een Account Support Lead voor accountbeheer</p>
     <br>
   </td>
 </tr>
@@ -44,9 +44,9 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise-ondersteuning</strong></a> (weergave <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="enterprise.md"><strong>Enterprise-ondersteuning</strong></a> (<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>De verbeterde doelstellingen van het Niveau van de Steun van de Dienst (SLTs), voordelen van technische deskundigheid en een pleitbezorger in de vorm van een Benoemde Ingenieur van de Steun</p>
+    <p>Verbeterde Service Level Targets (SLT's) voor ondersteuning, voordelen van technische expertise en een belangenbehartiger in de vorm van een Named Support Engineer</p>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Voor uitvoerigere behoeften, bieden wij de diensten van de Steun van Adobe die t
       <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite-ondersteuning</strong></a> (weergave <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="elite.md"><strong>Elite-ondersteuning</strong></a> (<a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> bekijken)
     </div>
-    <p>Best-in-class Service Level Targets (SLTs), proactieve steun en partnerschap met een Technische Manager van de Rekening en een Benoemde Ingenieur van de Steun</p>
+    <p>Best-in-class Service Level Targets (SLT's), proactieve ondersteuning en samenwerking met een technische accountmanager en een Named Support Engineer</p>
     <br>
   </td>
 </tr>

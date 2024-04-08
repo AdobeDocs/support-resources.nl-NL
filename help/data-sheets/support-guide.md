@@ -1,20 +1,20 @@
 ---
-title: Experience Cloud Customer Support Guide
-description: Deze gids van de Steun van de Klant helpt u vertrouwd worden met ons de steundienstenaanbod, programma's, de dienst, procedures, en vertelt u hoe u ons wereldwijd kunt bereiken.
+title: Handleiding voor Experience Cloud-klantenondersteuning
+description: Deze handleiding voor klantenondersteuning helpt u vertrouwd te raken met het aanbod, de programma's, services en procedures van onze Experience Cloud-ondersteuning en hoe u ons wereldwijd kunt bereiken.
 exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
 source-git-commit: c0836675d4f8f16a26740c41d266320fa44c2393
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud Customer Support Guide
+# Handleiding voor Experience Cloud-klantenondersteuning
 
-Of u nu op zoek bent naar één-op-één experts of zelfhulp, u hebt de juiste plaats gevonden voor hulp van wereldklasse.
+Of u nu op zoek bent naar één-op-één experts of zelfhulpbronnen, u hebt de juiste plek gevonden voor hulp van wereldklasse.
 
-We streven ernaar uw succes te waarborgen door toonaangevende services en support van wereldklasse te leveren. Onze filosofie is eenvoudig: Wij zijn klantvoorstanders. Ons ondersteuningsteam bestaat uit vakmensen uit verschillende sectoren en achtergronden. Deze professionals hebben ervaring met technologiebeheer en beschikken over uitgebreide kennis van onze uitgebreide softwareportfolio.
+We streven ernaar uw succes te waarborgen door toonaangevende services en support van wereldklasse te leveren. Onze filosofie is eenvoudig: wij behartigen de belangen van klanten. Ons ondersteuningsteam bestaat uit professionals uit verschillende bedrijfstakken en met verschillende achtergronden. Deze professionals hebben ervaring met technologiebeheer en hebben een enorme kennis van onze uitgebreide softwareportfolio.
 
-Deze ondersteuningsgids is gemaakt om u te helpen vertrouwd te raken met ons supportaanbod, onze programma&#39;s, onze service, onze procedures en hoe u ons wereldwijd kunt bereiken.
+Deze ondersteuningshandleiding helpt u vertrouwd te raken met het aanbod, de programma&#39;s, service en procedures van onze ondersteuning en hoe u ons wereldwijd kunt bereiken.
 
-[Ondersteuningsgids PDF weergeven](assets/ExperienceCloudCustomerSupportGuide.pdf)
+[Ondersteuningshandleiding in PDF bekijken](assets/ExperienceCloudCustomerSupportGuide.pdf)

@@ -1,11 +1,11 @@
 ---
 title: Standaardondersteuning voor Adobe Creative Cloud en Adobe Document Cloud
-description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. De standaardondersteuning omvat 24x7 toegang tot onze hulpmiddelen voor zelfondersteuning, waaronder artikelen over HelpX en contact met andere klanten van de Adobe-community.
+description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen. Deze bronnen maken deel uit van uw Adobe Enterprise-ondersteuning. Standaardondersteuning omvat 24x7 toegang tot onze resources voor zelfondersteuning, waaronder artikelen over HelpX en de betrokkenheid bij andere klanten in de Adobe-community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: tm+mt
-source-wordcount: '729'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '777'
+ht-degree: 100%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 1%
 
 ![pictogram](assets/StandardBanner.png)
 
-Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen dat deel uitmaakt van uw Adobe Enterprise-abonnement. De standaardondersteuning omvat 24x7 toegang tot onze hulpmiddelen voor zelfondersteuning, waaronder artikelen over HelpX en contact met andere klanten van de Adobe-community.
+Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen. Deze bronnen maken deel uit van uw Adobe Enterprise-ondersteuning. Standaardondersteuning omvat 24x7 toegang tot onze resources voor zelfondersteuning, waaronder artikelen over HelpX en de betrokkenheid bij andere klanten in de Adobe-community.
 
-U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocumentatie en actuele releaseopmerkingen die zijn gepubliceerd op <http://www.adobe.com>. Onze standaardondersteuning omvat ook 24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze teams voor technische ondersteuning via chat of telefonisch, en de mogelijkheid om aanvragen voor hulp via ons webportaal voor ondersteuning in te loggen.
+U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocumentatie en actuele aanvullende opmerkingen die zijn gepubliceerd op <http://www.adobe.com>. Onze standaardondersteuning omvat ook 24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze teams voor technische ondersteuning via chat of telefonisch, en de mogelijkheid om aanvragen voor hulp in te dienen via onze webportal voor ondersteuning.
 
 [PDF-versie weergeven](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -25,9 +25,9 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <th></th>
     <th></th>
     <th>Standaardondersteuning</th>
-    <th>Business Support</th>
-    <th>Enterprise-ondersteuning</th>
-    <th>Elite-ondersteuning</th>
+    <th>Ondersteuning voor bedrijven</th>
+    <th>Ondersteuning voor bedrijven</th>
+    <th>Ondersteuning voor Elite</th>
   </tr>
 </thead>
 <tbody>
@@ -35,25 +35,25 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Niveaus betaalde ondersteuning ($)</td>
+    <td colspan="3">Niveaus van betaalde ondersteuning ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Toegewezen experts<br></td>
-    <td>Hoofd accountondersteuning</td>
+    <td>Account Support Lead</td>
     <td></td>
     <td>✔</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Benoemde supporttechnicus</td>
+    <td>Named Support Engineer</td>
     <td></td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Technical Account Manager</td>
+    <td>Technisch accountmanager</td>
     <td></td>
     <td></td>
     <td></td>
@@ -75,14 +75,14 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <td>✔</td>
   </tr>
   <tr>
-    <td>Webcaseverzendingen</td>
+    <td>Indienen van webcases</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Prioriteit hoofdlettergebruik</td>
+    <td>Routering van cases met prioriteit</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
@@ -103,14 +103,14 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <td>✔</td>
     <td>✔</td>
   </tr>
-    <td>Proactieve bewaking van hoofdletters</td>
+    <td>Proactieve bewaking van cases</td>
     <td></td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Toegang tot ondersteuning in de regio</td>
+    <td>Toegang tot regionale ondersteuning</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -124,7 +124,7 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <td>4/jaar</td>
   </tr>
   <tr>
-    <td>Beoordelingen van kwesties</td>
+    <td>Beoordelingen van cases</td>
     <td></td>
     <td></td>
     <td>1/maand</td>
@@ -138,28 +138,28 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
     <td>✔</td>
   </tr>
   <tr>
-    <td>Routeoverzicht</td>
+    <td>Revisie van roadmap</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Aanvullende benoemde ondersteuningscontactpersonen</td>
+    <td>Meer Named Support Contacts</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Upgrade/migratieplanning</td>
+    <td>Upgrade-/migratieplanning</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Voorbereiding en planning van de release</td>
+    <td>Voorbereiding en planning van release</td>
     <td></td>
     <td></td>
     <td></td>
@@ -175,35 +175,35 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
 </tbody>
 </table>
 
-## Doelen op serviceniveau: Eerste reactie {#service-level-targets}
+## Doelen op serviceniveau: initiële respons {#service-level-targets}
 
 <table>
 <thead>
   <tr>
     <th>Prioriteit</th>
     <th>Standaardondersteuning</th>
-    <th>Business Support</th>
-    <th>Enterprise-ondersteuning</th>
-    <th>Elite-ondersteuning</th>
+    <th>Ondersteuning voor bedrijven</th>
+    <th>Ondersteuning voor bedrijven</th>
+    <th>Ondersteuning voor Elite</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong>PRIORITEIT 1</strong><br>De bedrijfsfuncties van de klant op het gebied van de productie zijn defect of hebben een aanzienlijk verlies aan gegevens of een aanzienlijke verslechtering van de service en er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen.</td>
+    <td><strong>PRIORITEIT 1</strong><br>De bedrijfsproductiefuncties van de klant werken niet of hebben een aanzienlijk gegevensverlies of zijn aanzienlijke verslechterd qua service, en er is onmiddellijk aandacht nodig om de functionaliteit en bruikbaarheid te herstellen.</td>
     <td>24x7/<br>30 minuten</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Klanten die een Plan van de Steun voor de toepasselijke Producten en Diensten van de Adobe kopen ontvangen prioritaire geval het verpletteren van zaken aan de ingenieurs van de Steun van de Adobe snel.</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Klanten die een ondersteuningslidmaatschap aanschaffen voor betreffende Adobe-producten en -services, ontvangen een prioriteitsroutering van cases waardoor cases snel worden doorgestuurd naar de ondersteuningstechnici van Adobe.</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 2</strong><br>De bedrijfsfuncties van de klant hebben een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed.</td>
+    <td><strong>PRIORITEIT 2</strong><br>De bedrijfsfuncties van de klant zijn aanzienlijk verslechterd qua service of er is sprake van mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed.</td>
     <td>24x7/<br>1 uur</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 3</strong><br>De bedrijfsfuncties van de klant hebben een geringe verslechtering van de service, maar er bestaat een oplossing/oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet.</td>
-    <td>Zakelijke dag/<br>4 uur</td>
+    <td><strong>PRIORITEIT 3</strong><br>De bedrijfsfuncties van de klant zijn enigszins verslechterd qua service, maar er bestaat een oplossing/tijdelijke oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet.</td>
+    <td>Werkdag/<br>4 uur</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 4</strong><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek.</td>
-    <td>Zakelijke dag/<br>1 dag</td>
+    <td><strong>PRIORITEIT 4</strong><br>Algemene vraag over de huidige productfunctionaliteit of een verbeteringsverzoek.</td>
+    <td>Werkdag/<br>1 dag</td>
   </tr>
 </tbody>
 </table>
@@ -214,7 +214,7 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
 
 ## Standaardondersteuning {#standard-support-options}
 
-Adobe Klantenondersteuning biedt toegang tot bronnen voor documentatie en betrokkenheid met andere experts en klanten voor optimale werkwijzen. Er zijn ook verschillende kanalen beschikbaar voor vragen en het indienen van zaken
+Adobe-klantenondersteuning biedt toegang tot bronnen voor documentatie en samenwerking met andere experts en klanten voor best practices. Er zijn ook verschillende kanalen beschikbaar voor vragen en het indienen van cases
 
 <table style="table-layout:fixed">
 <tr>
@@ -222,41 +222,41 @@ Adobe Klantenondersteuning biedt toegang tot bronnen voor documentatie en betrok
     <img alt="Forums" src="assets/community-forums-icon.png"/>
     <div>
     <p><b>Communityforums</b></p>
-    <p>Doorlopende online toegang tot een groeiende database met technische oplossingen, productdocumentatie, veelgestelde vragen en meer. Verbind met artsen en andere klanten op de Gemeenschap van Adobe om beste praktijken en geleerde lessen te delen.</p>
+    <p>Doorlopend online toegang tot een groeiende database met technische oplossingen, productdocumentatie, veelgestelde vragen en meer. Kom in contact met professionals en andere klanten in de Adobe-community om best practices en geleerde lessen te delen.</p>
     </div>
   </td>
   <td>
     <img alt="Zelfhulp" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Self-Help Portal</b></p>
-    <p>Toegang op aanvraag tot het online portal voor zelfondersteuning om ondersteuningsverzoeken in te dienen, de status van een geval te bekijken en door andere bronnen te bladeren, zoals onze knowledgebase, nieuws en waarschuwingen, aanbevolen tips en nog veel meer.</p>
+    <p><b>Zelfhulpportal</b></p>
+    <p>On-demand toegang tot de online zelfhulp-ondersteuningsportal om ondersteuningsverzoeken in te dienen, de status van aanvragen te bekijken en door andere bronnen te bladeren, zoals onze kennisbank, nieuws en waarschuwingen, aanbevolen tips en meer.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Live Chat-ondersteuning" src="assets/dmechat.png"/>
+    <img alt="Ondersteuning via live chat" src="assets/dmechat.png"/>
     <div>
-    <p><b>Chatondersteuning</b></p>
-    <p>Geautoriseerde gebruikers (beheerders) kunnen een chatsessie starten met ondersteuning voor Adobe om antwoorden te krijgen en hulp te bieden bij het verzenden van zaken</p>
-    <p><i>Afhankelijk van lokale uren.</i></p>
+    <p><b>Ondersteuning via chat</b></p>
+    <p>Geautoriseerde gebruikers (beheerders) kunnen een chatsessie starten met Adobe-ondersteuning om antwoorden en hulp te krijgen bij het indienen van cases</p>
+    <p><i>Afhankelijk van lokale tijden.</i></p>
     </div>
   </td>
   <td>
     <img alt="Telefonische ondersteuning" src="assets/dmephone.png"/>
     <div>
     <p><b>Telefonische ondersteuning</b></p>
-    <p>Geautoriseerde gebruikers (Admins) kunnen telefonisch contact opnemen met de ondersteuning van Adobe om antwoorden te krijgen en hulp te bieden bij het verzenden van zaken.</p>
-    <p><i>Afhankelijk van lokale uren.</i></p>
+    <p>Geautoriseerde gebruikers (beheerders) kunnen Adobe-ondersteuning bellen voor antwoorden en hulp bij het indienen van cases.</p>
+    <p><i>Afhankelijk van lokale tijden.</i></p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Web Case" src="assets/dmewebcase.png"/>
+    <img alt="Webcase" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Webcaseverzending</b></p>
-    <p>Geautoriseerde gebruikers (beheerders) kunnen op elk gewenst moment onbeperkte webgevallen indienen voor ondersteuningsproblemen die door ons team voor technische ondersteuning kunnen worden beoordeeld.</p>
+    <p><b>Webcase indienen</b></p>
+    <p>Geautoriseerde gebruikers (beheerders) kunnen op elk gewenst moment onbeperkte webcases indienen voor ondersteuningsproblemen die door ons team voor technische ondersteuning kunnen worden beoordeeld.</p>
     </div>
   </td>
 </tr>
@@ -264,18 +264,18 @@ Adobe Klantenondersteuning biedt toegang tot bronnen voor documentatie en betrok
 
 ## Bronnen
 
-| Resource | Beschrijving |
+| Bron | Beschrijving |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League is een plaats waar de klanten van Adobe zelfhulp zelfstudies, productdocumentatie, instructeur-geleide opleiding, gemeenschap en steun voor bepaalde producten van Adobe Creative Cloud en van het Document kunnen vinden. |
-| [Adobe-ondersteuningscommunity](https://community.adobe.com/) | De Gemeenschap van de Steun van de Adobe is de plaats om vragen te stellen, antwoorden te vinden, van deskundigen te leren en uw kennis te delen. |
-| [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com brengt de gezondheidsinformatie van alle producten en de diensten van de Adobe over die in multi-huurdersomgevingen worden opgesteld. Klanten kunnen hun abonnementsvoorkeuren kiezen om e-mailberichten op te halen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Dit kan het geplande onderhoud of de dienstkwesties van verschillende niveaus van strengheid omvatten. |
-| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen met betrekking tot het aanbod van de Diensten van de Steun. |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League is een plek waar Adobe-klanten zelfhulptutorials, productdocumentatie, training onder leiding van een instructeur, community en ondersteuning voor bepaalde Adobe Creative Cloud- en Document-producten kunnen vinden. |
+| [Adobe-ondersteuningscommunity](https://community.adobe.com/) | De Adobe-ondersteuningscommunity is de plaats om vragen te stellen, antwoorden te vinden, van experts te leren en uw kennis te delen. |
+| [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com geeft de statusinformatie weer van alle Adobe-producten en -services die worden geïmplementeerd in omgevingen met meerdere tenants. Klanten kunnen lidmaatschapsvoorkeuren kiezen om e-mailmeldingen te ontvangen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Voorbeelden zijn gepland onderhoud of serviceproblemen van verschillende ernst. |
+| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
 
 {style="table-layout:auto"}
 
-## Regionale bedrijfsuren en taalondersteuning
+## Regionale kantooruren en taalondersteuning
 
-De lokale kantooruren van Adobe richten zich op het het facturerings gebied van de klant.
+De lokale kantooruren van Adobe zijn afgestemd op de factureringsregio van de klant.
 
 <table>
 <thead>
@@ -289,13 +289,13 @@ De lokale kantooruren van Adobe richten zich op het het facturerings gebied van 
 <tbody>
   <tr>
     <td>24x7</td>
-    <td>20:09</td>
-    <td>20:09</td>
-    <td>21:05</td>
+    <td>9:00 - 17:00 uur</td>
+    <td>9:00 - 17:00 uur</td>
+    <td>09:00 -  17:30 uur</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Ondersteuning voor de Amerikaanse taal is alleen beschikbaar in het Engels.</p>
+      <p><sup>1</sup>Taalondersteuning voor Amerika is alleen beschikbaar in het Engels.</p>
     </td>
   </tr>
 </tbody>
@@ -303,4 +303,4 @@ De lokale kantooruren van Adobe richten zich op het het facturerings gebied van 
 
 ![pictogram](assets/bottom-banner.png)
 
-*Neem contact op met uw Named Account Manager (NAM) of Customer Success Manager (CSM) voor meer informatie over Adobe Support-aanbiedingen en het juiste niveau voor u.*
+*Neem contact op met uw Named Account Manager (NAM) of Customer Success Manager (CSM) voor meer informatie over het aanbod van Adobe-ondersteuning en het juiste niveau voor u.*
