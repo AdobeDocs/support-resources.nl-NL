@@ -4,10 +4,10 @@ description: Deze pagina is verborgen in de zoekopdracht en in de inhoudsopgave
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 3f608c18ab513a6b149a49b59de3c827dce0587f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 50%
+source-wordcount: '53'
+ht-degree: 33%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 50%
 + [Bestand 1 testen](hidden/note-test.md)
 + [Bestand 2 testen](hidden-test.md)
 + [Omleidingstest](hidden/test-redirection.md)
++ [Automatische test](hidden/autoactivate.md)
+
+## Nieuwe sectie
+
+Ik klik niet op Nu publiceren, dus als je dit ziet, werkt automatisch activeren.
