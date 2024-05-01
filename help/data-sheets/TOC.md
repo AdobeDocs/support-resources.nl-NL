@@ -3,10 +3,10 @@ user-guide-title: Bronnen voor Success-lidmaatschappen
 user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 84d3ad629fc207c38400fc15416809c6edbe891c
+source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 89%
+source-wordcount: '116'
+ht-degree: 86%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 89%
 + [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Verborgen overzicht](hidden-overview.md)
 + [Verborgen nieuwe test](hidden-new-test.md)
++ [Verborgen nieuwe test 2](hidden-new-test-2.md)
 + [Verborgen testbestand](hidden-test.md)
 + [Oplossingen voor verborgen fouten](hidden/bug-fixes.md)
 + [Verborgen EDS-testtegel](hidden/test-page.md)

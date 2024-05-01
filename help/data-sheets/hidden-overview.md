@@ -4,10 +4,10 @@ description: Deze pagina is verborgen in de zoekopdracht en in de inhoudsopgave
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: d637118bc6b2600f803e0b31db889be7335eaa4e
+source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 32%
+source-wordcount: '60'
+ht-degree: 30%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 32%
 
 + [Bugfixes](hidden/bug-fixes.md)
 + [Verborgen nieuwe test](hidden-new-test.md)
++ [Verborgen nieuwe test 2](hidden-new-test-2.md)
 + [Handleiding voor verborgen syntaxis](hidden/syntax-style-guide.md)
 + [Testtegel voor afbeelding](hidden/test-page.md)
 + [Tabeltest](hidden/tables.md)
