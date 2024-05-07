@@ -4,10 +4,10 @@ description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 25%
+source-wordcount: '1926'
+ht-degree: 24%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 25%
 ## Autoactiveringstest
 
 Deze bugs moeten allemaal worden opgelost.
+
+## UGP-10866 Koppelingen niet vet in schaduwvakken
+
+>[!BEGINSHADEBOX]
+
+**Inhoudsopgave**
+
+* [Aan de slag met de AI Assistant](note-test.md)
+* **[E-mailgeneratie met AI Assistant](syntax-style-guide.md)**
+* [SMS genereren met de AI Assistant](test-page.md)
+* [Push generation met de AI Assistant](tables.md)
+* [Inhoud experimenteren met de AI Assistant](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Geen schaduw
+
+**Inhoudsopgave**
+
+* [Aan de slag met de AI Assistant](note-test.md)
+* **[E-mailgeneratie met AI Assistant](syntax-style-guide.md)**
+* [SMS genereren met de AI Assistant](test-page.md)
+* [Push generation met de AI Assistant](tables.md)
+* [Inhoud experimenteren met de AI Assistant](test-redirection.md)
+
 
 ## UGP-10584 Inlinebadges werken niet
 
