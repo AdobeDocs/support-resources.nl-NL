@@ -4,9 +4,9 @@ user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Ad
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 81%
 
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
 + De Crux-podcast{#crux-podcast}
-   + [EP.1 - Billy Georgaros](episode1.md)
-     [EP.2 - Karrie Benjamin](episode2.md)
-     [EP.3. George Kotsinis](episode3.md)
-     [EP.4 - Jessica Ouellette](episode4.md)
-     [EP.5 - Corey Blackburn](episode5.md)
+   + [Afl. 1 - Billy Georgaros](episode1.md)
+     [Afl. 2 - Karrie Benjamin](episode2.md)
+     [Afl. 3 - George Kotsinis](episode3.md)
+     [Afl. 4 - Jessica Ouellette](episode4.md)
+     [Afl. 5 - Corey Blackburn](episode5.md)
 + Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
    + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
