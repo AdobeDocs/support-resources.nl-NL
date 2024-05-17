@@ -2,10 +2,10 @@
 title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 8ed1a2a189ad715277aa48b578468ad90f8c18cf
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 83%
 
 ---
 
@@ -107,6 +107,41 @@ Named Support Contacts kunnen problemen indienen via alle beschikbare kanalen en
 | Amerika | Europa, Midden-Oosten en Afrika | Azië, Stille Oceaan | Japan |
 |---|---|---|---|
 | 6:00 - 17:30 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur |
+
+## Levenscyclus van draagtas - Binnenkort beschikbaar
+
+In deze documentatie worden verbeteringen in de levenscyclus van de DX Support-Adobe beschreven, met als doel de communicatie te verbeteren en zo snel mogelijk oplossingen voor klanten te bieden om het succes van de klant te helpen garanderen. Hieronder ziet u de tijdlijnen en meldingen voor verschillende scenario&#39;s die tijdens het ondersteuningsproces worden aangetroffen:
+
+**Herinneringen voor follow-up van kwestie**
+
+| Melding | Status kwestie | Timing van meldingen | Aantal dagen voor sluitingsstatus kwestie |
+|--- |--- |--- |--- |
+| **1e** | Respons of resolutie in behandeling opgegeven | 24 uur / 1 dag | 5 dagen |
+| **2de** | Reactie of resolutie in behandeling | 72 uur / 3 dagen | 3 dagen |
+| **3de** | Respons of resolutie in behandeling opgegeven | 120 uur / 5 dagen | 1 dag |
+| **4e** | Respons of resolutie in behandeling gewijzigd in &quot;Automatisch gesloten&quot; | 144 uur / 6 dagen | gesloten |
+
+**Scenario&#39;s in detail**
+
+**Aanvullende informatie is vereist van een klant**
+
+In dit scenario, wanneer de extra informatie van een klant wordt vereist, worden de volgende stappen genomen:
+
+* De technicus verzendt een update die om informatie verzoekt en de casestatus wordt geplaatst aan &quot;In afwachting van Reactie&quot;.
+* Op de eerste, derde en vijfde dag nadat de status is ingesteld op &quot;Reactie in behandeling&quot;, worden vervolgmeldingen verzonden naar de klant die om de aanvullende informatie verzoekt.
+* Als de klant zes dagen nadat de status is ingesteld op &quot;Reactie in behandeling&quot; geen antwoord heeft gegeven, wordt de zaak gesloten en wordt een melding van afsluiting verzonden.
+
+Klanten kunnen een gesloten kwestie binnen 14 dagen opnieuw openen om verder te gaan met de communicatie. Na 14 dagen kan een nieuwe steunzaak worden geopend om de communicatie over een eerder gesloten zaak voort te zetten.
+
+**Technicus biedt een oplossing**
+
+In dit scenario, wanneer een ingenieur een oplossing aanbiedt, worden de volgende stappen genomen:
+
+* De technicus stuurt een update met een voorgestelde oplossing en de casestatus is ingesteld op &quot;Opgegeven resolutie&quot;.
+* Op de eerste, derde en vijfde dag nadat de status is ingesteld op &quot;Opgeloste oplossing&quot;, worden vervolgmeldingen verzonden naar de klant die om bevestiging van de opgegeven oplossing verzoekt.
+* Als de klant zes dagen nadat de status op &quot;Opgeloste resolutie&quot; was ingesteld, geen antwoord heeft gegeven, wordt de zaak gesloten en wordt een sluitingsmelding verzonden.
+
+Klanten kunnen een gesloten kwestie binnen 14 dagen opnieuw openen om verder te gaan met de communicatie. Na 14 dagen kan een nieuwe steunzaak worden geopend om de communicatie over een eerder gesloten zaak voort te zetten.
 
 ## Aanvullende voorwaarden die van toepassing zijn op Adobe Commerce voor Managed Services (voorheen Magento Commerce Pro: Managed Services)
 
