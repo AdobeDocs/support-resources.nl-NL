@@ -1,9 +1,10 @@
 ---
 title: Adobe Crux-podcasts
-description: Episode 4 in de CRUX Podcast serie
-source-git-commit: ecd2bd42884bba0cbda03cf2ad27f2918d2e2317
+description: Episode 5 in de CRUX Podcast serie
+exl-id: e2a34465-2b0c-4565-8000-78f1ac8c97d0
+source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
