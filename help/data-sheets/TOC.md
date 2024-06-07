@@ -4,9 +4,9 @@ user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Ad
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 93%
      [Afl. 3 - George Kotsinis](episode3.md)
      [Afl. 4 - Jessica Ouellette](episode4.md)
      [Afl. 5 - Corey Blackburn](episode5.md)
-     [EP.6 - Kelly Oja](episode6.md)
-     [EP.7 - Chris Diaz](episode7.md)
-     [EP.8 - Vincent Lee](episode8.md)
+     [Ep.6 - Kelly Oja](episode6.md)
+     [Ep.7 - Chris Diaz](episode7.md)
+     [Ep.8 - Vincent Lee](episode8.md)
 + Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
    + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
