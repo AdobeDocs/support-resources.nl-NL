@@ -4,9 +4,9 @@ user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Ad
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
      [Ep.6 - Kelly Oja](episode6.md)
      [Ep.7 - Chris Diaz](episode7.md)
      [Ep.8 - Vincent Lee](episode8.md)
-     [EP.9 - Ren Wightman](episode9.md)
+     [Afl. 9 - Ren Wightman](episode9.md)
 + Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
    + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
@@ -39,7 +39,7 @@ ht-degree: 97%
       + [Bedrijven](dme-business.md)
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Verborgen overzicht](hidden-overview.md)
 + [Verborgen nieuwe test](hidden-new-test.md)
 + [Verborgen nieuwe test 2](hidden-new-test-2.md)
