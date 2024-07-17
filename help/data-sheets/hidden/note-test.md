@@ -3,7 +3,8 @@ description: Verbinding maken met de Widget-Data Warehouse - Productdocumentatie
 title: Verbinding maken met de Widget-Data Warehouse
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,13 +15,13 @@ ht-degree: 0%
 
 ## Nieuwe test
 
-<ol><li>Gebruik de `{{name}}` variable.</li></ol>
+<ol><li>Gebruik de ` {{name}} ` variabele.</li></ol>
 
-<ol><li>&amp;Accolade gebruiken;<code>name</code>&amp;Bron; Bron; Variabel.</li></ol>
+<ol><li>Gebruik &amp;trace;&amp;trace;<code>name</code>&amp;break;&amp; &amp;break; variable.</li></ol>
 
 ## Geneste test
 
-**Eerste**
+**eerst**
 
 >[!NOTE]
 >
@@ -45,11 +46,11 @@ ht-degree: 0%
 
 Als u toegang wilt krijgen tot uw Widget-gegevensopslagruimte, moet u naar de specifieke URL voor uw Widget-account navigeren.  U vindt deze toegangskoppeling door u aan te melden bij Marketo Measure en onderstaande stappen te volgen om naar de pagina met informatie over Data Warehouse te navigeren.
 
-1. Klik in Marketo Measure boven aan de pagina op **Mijn account** > **Instellingen**.
+1. In Marketo Measure, bij de bovenkant van de pagina, klik **Mijn Rekening** > **Montages**.
 
    ![](assets/adobe-logo-old.png)
 
-1. Klik in het linkermenu onder Beveiliging op **Data Warehouse**.
+1. Op het linkerzijmenu, onder Veiligheid, klik **Data Warehouse**.
 
    ![](assets/adobe-logo-old.png)
 
@@ -61,11 +62,11 @@ Als u toegang wilt krijgen tot uw Widget-gegevensopslagruimte, moet u naar de sp
    >
    >Dit is een alleen-lezen account dat beschikbaar is voor uw organisatie, en niet alleen voor een individuele gebruiker. Elke gebruiker binnen uw organisatie die toegang heeft tot Marketo Measure, kan dit account gebruiken om u aan te melden bij het account voor een widgetlezer.
 
-1. Klik op de koppeling in de URL van de widget. Hiermee gaat u naar de aanmeldingspagina van de widget waarin u uw gebruikersnaam en wachtwoord kunt invoeren. _Als u uw wachtwoord niet hebt, zie de stappen hieronder om het terug te stellen_.
+1. Klik op de koppeling in de URL van de widget. Hiermee gaat u naar de aanmeldingspagina van de widget waarin u uw gebruikersnaam en wachtwoord kunt invoeren. _als u uw wachtwoord niet hebt, zie de stappen hieronder om het_ terug te stellen.
 
    ![](assets/adobe-logo-old.png)
 
-1. Zodra het programma geopend, klik **Werkbladen** boven aan de pagina.
+1. Zodra het programma geopend, klik **Werkbladen** bij de bovenkant van de pagina.
 
    ![](assets/adobe-logo-old.png)
 
@@ -100,9 +101,9 @@ U zult een paar stukken van informatie moeten ingaan om uw gegevenspakhuis van W
    * De gebruikersnaam wordt vermeld op de pagina met informatie over Data Warehouse in Marketo Measure.
 * **Wachtwoord** (altijd vereist)
    * Dit is het wachtwoord dat u instelt als u zich voor het eerst hebt aangemeld bij uw Widget-account.  Als u uw wachtwoord opnieuw wilt instellen, raadpleegt u de bovenstaande stappen.
-* **Databasenaam** (niet altijd vereist)
+* **Naam van het Gegevensbestand** (niet altijd vereist)
    * De gegevens worden door de database opgeslagen in Widget. Het is de opslagbron. De databasenaam wordt vermeld op de pagina met informatie over de Data Warehouse in Marketo Measure.
-* **Warehouse-naam** (niet altijd vereist)
+* **Naam van het Warehouse** (niet altijd vereist)
    * Het pakhuis is wat vragen in Widget uitvoert. Het is de computerbron.  De pakhuisnaam is vermeld op de de informatiepagina van de Data Warehouse in Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
@@ -119,11 +120,11 @@ Marketo Measure kan alleen een rechtstreeks aandeel in het gegevenspakhuis inste
 
 **Beperkingen**
 
-Marketo Measure kan alleen een direct aandeel instellen als de account die toegang aanvraagt, zich in Azure East US 2 bevindt. We weten dat Widget een oplossing voor gegevensreplicatie tussen regio&#39;s biedt, maar we ondersteunen dit niet vanaf onze kant omdat we alleen gegevens hosten in de Azure East US 2-regio. U kunt deze functie benutten door uw eigen exemplaar in Azure East US 2 en [gegevens in verschillende gebieden repliceren](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} op uw bestaande instantie. De functie voor gegevensreplicatie van widget is echter alleen beschikbaar voor tabellen. Als u deze functie wilt gebruiken, moet u de gegevens eerst uit onze weergaven naar uw eigen tabellen kopiëren.
+Marketo Measure kan alleen een direct aandeel instellen als de account die toegang aanvraagt, zich in Azure East US 2 bevindt. We weten dat Widget een oplossing voor gegevensreplicatie tussen regio&#39;s biedt, maar we ondersteunen dit niet vanaf onze kant omdat we alleen gegevens hosten in de Azure East US 2-regio. U kunt hefboomwerking deze eigenschap door vestiging uw eigen instantie in Azure East US 2 en [ herhalend de gegevens over gebieden ](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html) {target="_blank"} aan uw bestaande instantie. De functie voor gegevensreplicatie van widget is echter alleen beschikbaar voor tabellen. Als u deze functie wilt gebruiken, moet u de gegevens eerst uit onze weergaven naar uw eigen tabellen kopiëren.
 
-**Toegang tot het delen**
+**Toegang hebbend tot het Aandeel**
 
-Nadat het aandeel voor de opgegeven account-id is gemaakt, moet u het [installatiestappen](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} binnen uw instantie Widget om tot de gegevens toegang te hebben.
+Zodra het aandeel voor verstrekte rekeningidentiteitskaart is gecreeerd, moet u de [ opstellingsstappen ](https://docs.widget.com/en/user-guide/data-share-consumers.html) voltooien {target="_blank"} binnen uw instantie Widget om tot de gegevens toegang te hebben.
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Voor meer gedetailleerde instructies en stappen om deze stappen uit te voeren vanuit de Widget-interface, raadpleegt u [Documentatie van widget rechtstreeks](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Voor meer gedetailleerde instructies en stappen om deze stappen van Widget UI te verwezenlijken, gelieve {de documentatie van 0} Widget direct ](https://docs.widget.com/en/user-guide/data-share-consumers.html) {target="_blank"} van verwijzingen te voorzien.[

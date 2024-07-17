@@ -3,10 +3,11 @@ title: Testpagina (verborgen)
 description: Testpagina voor interne testdoeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+exl-id: 40a9a186-54c4-409e-8afb-35e8e3c8503f
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '1026'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -16,47 +17,47 @@ Verborgen testpagina
 
 ## Welkom bij AEM EDS!
 
-Publicatietest
+Publish-test
 
 ## Knoppen
 
-[Standaardknop](https://www.adobe.com/)
+[Knop Standaard](https://www.adobe.com/)
 
-**[Primaire knop](https://www.adobe.com/)**
+**[Knop Primair](https://www.adobe.com/)**
 
-_[Secundaire knop](https://www.adobe.com/)_
+_[Knop Secundair](https://www.adobe.com/)_
 
-**_[Tertiair voor knop](https://www.adobe.com/)_**
+**_[Knop Tertiair](https://www.adobe.com/)_**
 
 ## Afbeeldingen (EXLM-412)
 
 ### Afbeelding met aanwijstekst
 
-![alt text - package.png](assets/package.png "Tekst boven - Dit is package.png")
+![ alt tekst - package.png ](assets/package.png " Tekst van de Hover - dit is package.png ")
 
 ### Zoombare afbeeldingen
 
 `![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}`
 
-**Normaal**
+**normaal**
 
-![Afbeelding duwen](assets/maui-dive.jpg "Duiken in Maui"){width=100 zoomable}
+![ duik beeld ](assets/maui-dive.jpg " Duikend in Maui ") {width=100 zoomable}
 
-**Opmerking**
+**Nota**
 
 >[!NOTE]
 >
 >Klik op de volgende afbeelding om een duiker weer te geven:
 >
->![Afbeelding duwen](assets/maui-dive.jpg "Duiken in Maui"){width=100 zoomable}
+>![ duik beeld ](assets/maui-dive.jpg " Duikend in Maui ") {width=100 zoomable}
 
-**Tabel**
+**Lijst**
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Groen<br>Rood<br>Blauw |
-| Maria | 23 | Geel<br>Bruin |
-| Bob | 60 | Zie afbeelding<br>![Afbeelding duwen](assets/maui-dive.jpg "Duiken in Maui"){width=100 zoomable} |
+| Juanya | 17 | Groen <br> Rood <br> Blauw |
+| Maria | 23 | Geel <br> bruin |
+| Bob | 60 | Zie beeld <br>![ duiken beeld ](assets/maui-dive.jpg " Duiken in Maui ") {width=100 zoomable} |
 
 {style="table-layout:fixed"}
 
@@ -64,29 +65,29 @@ _[Secundaire knop](https://www.adobe.com/)_
 
 width=200 (vergelijking met onderstaande tabel)
 
-![alt-tekst](assets/maui-dive.jpg "width = 200"){width=200}
+![ alt tekst ](assets/maui-dive.jpg " breedte = 200 ") {width= 200}
 
 width=50% (vergeleken met onderstaande tabel)
 
-![alt-tekst](assets/maui-flip.jpg "width = 50%"){width=50%}
+![ alt tekst ](assets/maui-flip.jpg " breedte = 50% ") {width=50%}
 
-### Tekstterugloop testen ![alt-tekst](assets/package.png "rechts uitgelijnd"){align="right"}
+### De omslag die ![ alt tekst ](assets/package.png " rechts-gericht "){align="right"} testen
 
-**Niet uitlijnen**
+**richt zich niet**
 
-![alt-tekst](assets/maui-dive.jpg "width = 100"){width=100} Het duiken van Cliff in Maui is niet zo moeilijk als je zou denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je.
+![ alt tekst ](assets/maui-dive.jpg " breedte = 100 ") {width= 100} het Duiken van de Cliff in Maui is niet zo moeilijk zoals men zou kunnen denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je.
 
-**Rechts uitlijnen**
+**richt rechts**
 
-Het duiken van Cliff in Maui is niet zo moeilijk als je zou denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je. ![alt-tekst](assets/maui-dive.jpg "100 breedte rechts uitlijnen"){width="100" align="right"}
+Het duiken van Cliff in Maui is niet zo moeilijk als je zou denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je. ![ alt tekst ](assets/maui-dive.jpg " 100 breedte richt zich rechts "){width="100" align="right"}
 
-**Links uitlijnen**
+**richt links**
 
-![alt-tekst](assets/maui-dive.jpg "100 breedte links uitlijnen"){width="100" align="left"} Het duiken van Cliff in Maui is niet zo moeilijk als je zou denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je.
+![ alt tekst ](assets/maui-dive.jpg " 100 breedte links richten "){width="100" align="left"} het Duiken van de Cliff in Maui is niet zo moeilijk zoals men zou kunnen denken. Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je.
 
-**Rechts uitgelijnd**
+**gespeld richt rechts**
 
-Cliff duiken in Maui is niet moeilijk. ![alt-tekst](assets/maui-dive.jpg "100 breedte rechts uitlijnen"){width="100" align="right"}
+Cliff duiken in Maui is niet moeilijk. ![ alt tekst ](assets/maui-dive.jpg " 100 breedte richt zich rechts "){width="100" align="right"}
 
 Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het maken van een veilige duik. Ga eerst hard weg van de klif en breid onmiddellijk uw armen uit en wijs uw tenen aan. Dit is de pose voor de camera. Ten tweede moet u uw lichaam in een redelijke landingsplaats manoeuvreren. Dit lijkt misschien paniek, maar het is slechts een emotie-gebaseerde aanpassing. Ten derde, spatten op een manier die je lichaam niet pijn doet. Ten vierde, kom op alsof je dit een miljoen keer gedaan hebt, en verveel je.
 
@@ -95,21 +96,21 @@ Er zijn echt vier stappen voor het maken van een duik, en vijf stappen voor het 
 
 Normaal
 
-![alt-tekst](assets/package.png "aanwijzen van tekst voor pictogram")
+![ alt tekst ](assets/package.png " aanwijzen tekst voor pictogram ")
 
 Rechtsonder uitlijnen
 
-![alt-tekst](assets/package.png "align=right"){align="right"}
+![ alt tekst ](assets/package.png " align=right "){align="right"}
 
-Rechts inline uitlijnen ![alt-tekst](assets/package.png "align=right"){align="right"}
+Richt rechts inline ![ alt tekst ](assets/package.png " align=right "){align="right"}
 
 breedte midden = 250
 
-![alt-tekst](assets/maui-dive.jpg "align=center"){align=&quot;center&quot; width=250}
+![ alt tekst ](assets/maui-dive.jpg " align=center ") {align= &quot;centrum&quot; width= 250}
 
 ### Uitlijning van kop
 
-**Vette kop** ![alt-tekst](assets/package.png "align=right"){align="right"}
+**Vette kop** ![ alt tekst ](assets/package.png " align=right "){align="right"}
 
 Zie vette koptekst hierboven.
 
@@ -119,21 +120,21 @@ Het pictogram wordt rechts uitgelijnd, de dieve afbeelding wordt gecentreerd op 
 
 | Links | Midden | Rechts |
 |---|---|---|
-| ![alt-tekst](assets/package.png "align=right"){align=right} | ![alt-tekst](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![alt-tekst](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
+| ![ alt tekst ](assets/package.png " align=right ") {align=right} | ![ alt tekst ](assets/maui-dive.jpg " align=center width=200 "){align="center" width="200"} | ![ alt tekst ](assets/maui-flip.jpg " align=right width=50% "){align="right" width="50%"} |
 
 ## Bestandsbijlagen (EXLM-1124)
 
-Downloaden [PDF](/help/data-sheets/assets/BusinessSupportDatasheet.pdf)
+Download [ PDF ](/help/data-sheets/assets/BusinessSupportDatasheet.pdf)
 
-Downloaden [JS](assets/main.js)
+Download [ JS ](assets/main.js)
 
-Downloaden [CSS](assets/main.css)
+Download [ CSS ](assets/main.css)
 
-Downloaden [TXT-bestand](assets/dots.txt)
+Download [ TXT- dossier ](assets/dots.txt)
 
-Downloaden [XLSX-bestand](assets/4-module_version.xlsx)
+Download [ XLSX- dossier ](assets/4-module_version.xlsx)
 
-Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+Het dossier van het ZIP van de download [ ](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
 
 ## HTML-tabel met div
 
@@ -144,7 +145,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Aanvullende informatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Gegevens vrijgeven</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> de Informatie van de Versie </strong></a>
       <p>Bekijk alle releasegegevens voor Adobe Commerce-patches en -services.</p>
     </div>
   </td>
@@ -153,7 +154,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Installatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Installatie</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Installatie </strong></a>
       <p>Leer hoe u Adobe Commerce installeert voor implementaties op locatie.</p>
     </div>
   </td>
@@ -171,7 +172,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Gegevensmigratie" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Gegevensmigratie</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Migratie van Gegevens </strong></a>
       <p>Leer over het proces van de gegevensmigratie tussen Magento 1 en Magento 2.</p>
     </div>
   </td>
@@ -182,7 +183,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Upgrade</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Verbetering </strong></a>
       <p>Leer hoe u uw Adobe Commerce-project kunt upgraden om uw winkel veilig en efficiënt te laten werken.</p>
     </div>
   </td>
@@ -191,7 +192,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Verwijzing naar opdrachtregelprogramma&apos;s" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Referentie voor opdrachtregelprogramma's</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> bevel-Lijn Verwijzing van Hulpmiddelen </strong></a>
       <p>Meer informatie over opdrachten, argumenten en opties voor de opdrachtregelprogramma's van Adobe Commerce.</p>
     </div>
   </td>
@@ -200,7 +201,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Prestaties" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Aanbevolen werkwijzen voor prestaties</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Beste praktijken van Prestaties </strong></a>
       <p>Gebruik deze aanbevelingen om de prestaties van uw Adobe Commerce-implementatie te optimaliseren.</p>
     </div>
   </td>
@@ -209,7 +210,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Tools" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Gereedschappen</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Hulpmiddelen </strong></a>
       <p>Meer informatie over tools die je met Adobe Commerce kunt gebruiken.</p>
     </div>
   </td>
@@ -220,7 +221,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Implementatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Afspeelmap voor implementatie</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Playbook van de Implementatie </strong></a>
       <p>Leer meer over strategieën voor het plannen en implementeren van een geslaagde Adobe Commerce-site.</p>
     </div>
   </td>
@@ -229,7 +230,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Bewerkingen" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Operationeel afspelen</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Operationeel Playbook </strong></a>
       <p>Leer hoe te om uw ondernemingen operationeel klaar te krijgen om een succesvolle e-commercesite in werking te stellen.</p>
     </div>
   </td>
@@ -238,7 +239,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Handel op schaal</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Commerce bij Schaal </strong></a>
       <p>Leer hoe u op schaal ervaringen kunt bieden met Adobe Commerce met Adobe Experience Manager.</p>
     </div>
   </td>
@@ -247,7 +248,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>Beveiliging en naleving</strong></a>
+      <a href="/help/data-sheets/business.md"><strong> Veiligheid en Naleving </strong></a>
       <p>Leer hoe Adobe Commerce-verkopers verantwoordelijk zijn voor het onderhouden van een veilige omgeving.</p>
     </div>
   </td>
@@ -263,7 +264,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Aanvullende informatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Gegevens vrijgeven</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> de Informatie van de Versie </strong></a>
     <p>Bekijk alle releasegegevens voor Adobe Commerce-patches en -services.</p>
   </td>
   <td valign="top">
@@ -271,7 +272,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Installatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Installatie</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Installatie </strong></a>
     <p>Leer hoe u Adobe Commerce installeert voor implementaties op locatie.</p>
   </td>
   <td valign="top">
@@ -279,7 +280,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Configuratie" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Configuratie</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Configuratie </strong></a>
     <p>Configureer functies en services voor uw Adobe Commerce-toepassing.</p>
   </td>
   <td valign="top">
@@ -287,7 +288,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Gegevensmigratie" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Gegevensmigratie</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Migratie van Gegevens </strong></a>
     <p>Leer over het proces van de gegevensmigratie tussen Magento 1 en Magento 2.</p>
   </td>
 </tr>
@@ -297,7 +298,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Upgrade</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Verbetering </strong></a>
     <p>Leer hoe u uw Adobe Commerce-project kunt upgraden om uw winkel veilig en efficiënt te laten werken.</p>
   </td>
   <td valign="top">
@@ -305,7 +306,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Verwijzing naar opdrachtregelprogramma&apos;s" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Referentie voor opdrachtregelprogramma's</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> bevel-Lijn Verwijzing van Hulpmiddelen </strong></a>
     <p>Meer informatie over opdrachten, argumenten en opties voor de opdrachtregelprogramma's van Adobe Commerce.</p>
   </td>
   <td valign="top">
@@ -313,7 +314,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Prestaties" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Aanbevolen werkwijzen voor prestaties</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Beste praktijken van Prestaties </strong></a>
     <p>Gebruik deze aanbevelingen om de prestaties van uw Adobe Commerce-implementatie te optimaliseren.</p>
   </td>
   <td valign="top">
@@ -321,7 +322,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Tools" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Gereedschappen</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Hulpmiddelen </strong></a>
     <p>Meer informatie over tools die je met Adobe Commerce kunt gebruiken.</p>
   </td>
 </tr>
@@ -331,7 +332,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
       <img alt="Implementatie" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Afspeelmap voor implementatie</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Playbook van de Implementatie </strong></a>
     <p>Leer meer over strategieën voor het plannen en implementeren van een geslaagde Adobe Commerce-site.</p>
   </td>
   <td valign="top">
@@ -339,7 +340,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Bewerkingen" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Operationeel afspelen</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Operationeel Playbook </strong></a>
     <p>Leer hoe te om uw ondernemingen operationeel klaar te krijgen om een succesvolle e-commercesite in werking te stellen.</p>
   </td>
   <td valign="top">
@@ -347,7 +348,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Handel op schaal</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Commerce bij Schaal </strong></a>
     <p>Leer hoe u op schaal ervaringen kunt bieden met Adobe Commerce met Adobe Experience Manager.</p>
   </td>
   <td valign="top">
@@ -355,7 +356,7 @@ Downloaden [ZIP-bestand](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
        <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>Beveiliging en naleving</strong></a>
+    <a href="/help/data-sheets/business.md"><strong> Veiligheid en Naleving </strong></a>
     <p>Leer hoe Adobe Commerce-verkopers verantwoordelijk zijn voor het onderhouden van een veilige omgeving.</p>
   </td>
 </tr>

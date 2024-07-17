@@ -7,7 +7,7 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
 source-wordcount: '1926'
-ht-degree: 24%
+ht-degree: 23%
 
 ---
 
@@ -21,10 +21,10 @@ Deze bugs moeten allemaal worden opgelost.
 
 >[!BEGINSHADEBOX]
 
-**Inhoudsopgave**
+**Lijst van inhoud**
 
 * [Aan de slag met de AI Assistant](note-test.md)
-* **[E-mailgeneratie met AI Assistant](syntax-style-guide.md)**
+* **[E-mailgeneratie met de Medewerker AI](syntax-style-guide.md)**
 * [SMS genereren met de AI Assistant](test-page.md)
 * [Push generation met de AI Assistant](tables.md)
 * [Inhoud experimenteren met de AI Assistant](test-redirection.md)
@@ -33,10 +33,10 @@ Deze bugs moeten allemaal worden opgelost.
 
 Geen schaduw
 
-**Inhoudsopgave**
+**Lijst van inhoud**
 
 * [Aan de slag met de AI Assistant](note-test.md)
-* **[E-mailgeneratie met AI Assistant](syntax-style-guide.md)**
+* **[E-mailgeneratie met de Medewerker AI](syntax-style-guide.md)**
 * [SMS genereren met de AI Assistant](test-page.md)
 * [Push generation met de AI Assistant](tables.md)
 * [Inhoud experimenteren met de AI Assistant](test-redirection.md)
@@ -46,9 +46,9 @@ Geen schaduw
 
 Deze badges moeten op dezelfde regel staan als de opsommingstekens.
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE Notities]{type=Informative}
-* [[!DNL Pendo]](tables.md) [!BADGE Tabellen]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Handleiding voor syntaxisstijl]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE  Nota&#39;s ]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE  Lijsten ]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE  Gids van de Stijl van de Syntaxis ]{type=Positive}
 
 ## UGP-10560 - Badges in inklapbare gedeelten
 
@@ -56,13 +56,14 @@ Deze badges moeten op dezelfde regel staan als de opsommingstekens.
 
 ### V1.16 Release
 
-_13 feb. 2023_
+_feb 13, 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Productvideo&#39;s worden nu ondersteund door de API voor catalogusservice.
-![Repareren](assets/package.png) Er wordt nu steun verleend voor bundelproducten met vaste prijzen.
-![Repareren](assets/package.png) Opties buiten de voorraad worden nu weergegeven in de PDP-widget.
+![ de Nieuwe ](assets/package.png) video&#39;s van het Product worden nu gesteund door de Dienst API van de Catalogus.
+](assets/package.png) de producten van de Reparatie van 0} {met vaste prijzen worden nu gesteund.
+![
+](assets/package.png) de uit-van-voorraad opties van 0} herstellen {worden nu getoond in PDP widget.![
 
 #### Bekende beperkingen
 
@@ -75,127 +76,128 @@ Deze functies worden nog niet ondersteund:
 De volgende beperkingen kunnen worden opgelost met behulp van het API-net en de Core GraphQL API:
 
 * Minimale geadverteerde prijs
-* [Tier-prijsstelling](https://www.adobe.com)
+* [ Rij tarifering ](https://www.adobe.com)
 
 ### V1.13 Release
 
 _vrijdag 12 oktober 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Catalogusservice ondersteunt de `inStock` markering voor productvarianten.
-![Nieuw](assets/package.png) `urlKey` en `externalId` zijn toegevoegd aan het GraphQL-schema.
-![Nieuw](assets/package.png) Downloadbare producten en cadeaukaarten worden nu ondersteund.
+![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt de `inStock` vlag voor productvarianten.
+![ Nieuw ](assets/package.png) `urlKey` en `externalId` zijn toegevoegd aan het schema van GraphQL.
+![ Nieuwe ](assets/package.png) Downloadbare producten en geschenkkaarten worden nu gesteund.
 
 ### V1.12 Release
 
 _woensdag 19 september 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](https://www.adobe.com).
-![Repareren](assets/package.png) Deze versie bevat insectenmoeilijke situaties en verbeteringen aan de de dienstkant.
+![ Nieuw ](https://www.adobe.com).
+![ Repareren ](assets/package.png) Deze versie bevat insectenmoeilijke situaties en verbeteringen op de de dienstkant.
 
 ### V1.11 Release
 
 _woensdag 18 juli 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Catalogusservice biedt nu ondersteuning voor de [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL-query voor Product Recommendations.
+![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt nu de [`recommendations` ](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) vraag van GraphQL voor Product Recommendations.
 
 ### V1.10 Release
 
 _woensdag 27 juni 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) De API voor catalogusservice ondersteunt nu &quot;verwante producten&quot;.
+![ Nieuwe ](assets/package.png) API van de Dienst van de Catalogus steunt nu &quot;verwante producten&quot;.
 
 ### V1.7-release
 
 _donderdag 12 april 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) De Catalogusservice schoont verwijderde productvarianten op.
-![Repareren](assets/package.png) Verbeterde schaalbaarheid en prestaties van de infrastructuur.
+![ Nieuwe ](assets/package.png) Dienst van de Catalogus ontruimt nu geschrapte productvarianten.
+![ verbeter ](assets/package.png) scalability van de Infrastructuur en prestatiesverbeteringen.
 
 ### V1.6-release
 
 _woensdag 28 maart 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Stalen toegevoegd aan de [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) query.
-![Nieuw](https://www.adobe.com).
+![ Nieuwe ](assets/package.png) Toegevoegde stalen aan de [`products` ](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) vraag.
+![ Nieuw ](https://www.adobe.com).
 
 ### V1.5-release
 
 _dinsdag 6 maart 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Toegevoegd [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL-functionaliteit
-![Repareren](assets/package.png) Verbeterde prestaties en API-schaalbaarheid.
+![ Nieuwe ](assets/package.png) Toegevoegde [`categories` ](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) functionaliteit van GraphQL.
+![ verbeter ](assets/package.png) Verbeterde prestaties en API scalability.
 
 ### V1.4 Release
 
 _woensdag 7 februari 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Gepubliceerde metapakket voor catalogusservices om installatiestappen te vereenvoudigen.
-![Repareren](assets/package.png) Schaalbaarheid van API&#39;s en prestatieverbeteringen.
+![ Nieuwe ](assets/package.png) Gepubliceerde catalogus-dienst metapakket om installatiestappen te vereenvoudigen.
+![ bevestig ](assets/package.png) API scalability en prestatiesverbeteringen.
 
 ### V1.3 Release
 
 _woensdag 17 januari 2023_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Vereenvoudigde en verbeterde ervaring bij het instappen.
-![Nieuw](assets/package.png) Er zijn nieuwe eindpunten van de sandbox van de klant beschikbaar voor preproductietests.
-![Nieuw](assets/package.png) Ondersteuning toegevoegd voor virtuele producten.
-![Repareren](assets/package.png) Schaalbaarheid van API&#39;s en prestatieverbeteringen.
+![ Nieuw ](assets/package.png) Vereenvoudigde en verbeterde de onboarding ervaring.
+![ Nieuwe ](assets/package.png) de nieuwe eindpunten van de klantenzandbak zijn beschikbaar voor preproductie het testen.
+![ Nieuwe ](assets/package.png) Steun die voor virtuele producten wordt toegevoegd.
+![ bevestig ](assets/package.png) API scalability en prestatiesverbeteringen.
 
 ### V1.1-release
 
 _zaterdag 18 november 2022_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Catalogusservice biedt nu ondersteuning voor de Adobe [API-net](https://developer.adobe.com/graphql-mesh-gateway/).
-![Repareren](assets/package.png) Verbeterde API-schaalbaarheid en algemene prestaties.
+![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt nu het 2} API Net van de Adobe ](https://developer.adobe.com/graphql-mesh-gateway/?lang=nl).
+[
+![ bevestig ](assets/package.png) Verbeterde API scalability en algemene prestaties.
 
 ### V1.0-release
 
 _woensdag 4 oktober 2022_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Ondersteuning voor gebundelde en gegroepeerde producten.
-![Nieuw](assets/package.png) Extra B2B-zichtbaarheidsoverschrijvingen. De producten zijn nu doorzoekbaar en kunnen aan de kar voor specifieke klantengroepen worden toegevoegd.
-![Repareren](assets/package.png) De service is nu stabieler en de prestaties zijn verbeterd.
+![ Nieuwe ](assets/package.png) steun nu gebundelde en gegroepeerde producten.
+![ Nieuwe ](assets/package.png) Toegevoegde B2B zichtoverschrijvingen. De producten zijn nu doorzoekbaar en kunnen aan de kar voor specifieke klantengroepen worden toegevoegd.
+](assets/package.png) de Dienst van 0} Repareren {is nu stabieler en heeft betere prestaties.![
 
-### 0.3 Release - bèta+
+### 0.3 Release - Beta+
 
 _dinsdag 12 september 2022_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) Afbeeldingen voor ondersteuning door varianten: productafbeeldingen worden geretourneerd op basis van de geselecteerde opties
-![Nieuw](assets/package.png) Rollen voor prijsondersteuning: alleen leden van specifieke klantengroepen de prijs van producten laten zien
-![Repareren](assets/package.png) Verbeterde stabiliteit en prestaties van de dienst
-![Nieuw](assets/package.png) Updates worden ontvangen wanneer producten uit de catalogus worden verwijderd
+![ Nieuwe ](assets/package.png) Beelden voor variantsteun: de productbeelden zijn teruggekeerd gebaseerd op de geselecteerde opties
+![ Nieuwe ](assets/package.png) Rollen voor prijssteun: sta slechts leden van specifieke klantengroepen toe om de prijs van producten te zien
+![ bevestig ](assets/package.png) Verbeterde stabiliteit en prestaties van de dienst
+![ Nieuwe ](assets/package.png) Updates worden ontvangen wanneer de producten van de catalogus worden geschrapt
 
-### Bètaversie
+### Beta Release
 
 _woensdag 9 augustus 2022_
 
-[!BADGE Ondersteund]{type=Informative tooltip="Ondersteund"}
+[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
 
-![Nieuw](assets/package.png) De `products` en `refineProduct` query&#39;s retourneren de volgende gegevens:
+![ Nieuw ](assets/package.png) de vragen `products` en `refineProduct` keren de volgende gegevens terug:
 
 * Vooraf gedefinieerde (systeem)productkenmerken.
 * Dynamische productkenmerken en filter deze op rol (pagina met productweergave/productlijst).
@@ -213,7 +215,7 @@ Zie bovenstaande kop. En de volgende.
 
 ## Testen op automatisch activeren
 
-Ik heb dit op vrijdagmiddag toegevoegd maar heb niet op Nu publiceren geklikt.
+Ik voegde dit toe op vrijdagmiddag maar klik niet op Publish Now.
 
 ### [!BADGE Bèta]{type=Informative}
 
@@ -229,7 +231,7 @@ Tekst voor `<div class="preview">`
 
 U kunt eigen Workfront-velden toevoegen aan uw aangepaste formulieren. Wanneer het aangepaste formulier aan een object is gekoppeld, wordt het veld gevuld met de objectgegevens. Het veld Beschrijving op een aangepast formulier dat aan een project is gekoppeld, wordt bijvoorbeeld toegevoegd aan de projectbeschrijving. (Het veld mag &quot;N.v.t.&quot; weergeven als er geen gegevens beschikbaar zijn.)
 
-1. Op de linkerkant van het scherm, vind **Oorspronkelijk veld** en sleep het naar een sectie op het canvas.
+1. Op de linkerkant van het scherm, vind **Inheems gebied** en sleep het aan een sectie op het canvas.
 1. Configureer rechts in het scherm de opties voor het aangepaste veld:
 
    <table style="table-layout:auto"> 
@@ -238,12 +240,12 @@ U kunt eigen Workfront-velden toevoegen aan uw aangepaste formulieren. Wanneer h
     <tbody> 
      <tr> 
       <td role="rowheader">Label</td> 
-      <td> <p>(Vereist) Typ een beschrijvend label dat boven het veld wordt weergegeven. U kunt het label op elk gewenst moment wijzigen.</p> <p><b>BELANGRIJK</b>: Gebruik geen speciale tekens in dit label. Ze worden niet correct weergegeven in rapporten.</p> </td> 
+      <td> <p>(Vereist) Typ een beschrijvend label dat boven het veld wordt weergegeven. U kunt het label op elk gewenst moment wijzigen.</p> <p><b> BELANGRIJK </b>: Gebruik geen speciale karakters in dit etiket. Ze worden niet correct weergegeven in rapporten.</p> </td> 
      </tr> 
      <tr> 
       <td role="rowheader">Naam</td> 
       <td> <p>(Vereist) Met deze naam geeft het systeem het veld aan.</p><p> Wanneer u het veld voor het eerst configureert en u typt het label, wordt het veld Naam automatisch aangepast. Maar de gebieden van het Etiket en van de Naam zijn niet gesynchroniseerd-dit geeft u de vrijheid om het etiket te veranderen dat uw gebruikers zien zonder het moeten de naam veranderen die het systeem ziet.</p>
-      <p><b>BELANGRIJK</b>:
+      <p><b> BELANGRIJK </b>:
       <ul> 
       <li>Hoewel dit mogelijk is, raden we u aan deze naam niet te wijzigen nadat u of andere gebruikers het aangepaste formulier in Workfront hebben gebruikt. Als u dat doet, herkent het systeem niet langer het veld waar er nu naar kan worden verwezen in andere gebieden van Workfront.</p> </li>
       <li> <p>Elke veldnaam moet uniek zijn in het Workfront-exemplaar van uw organisatie. Op deze manier kunt u een formulier hergebruiken dat al voor een ander aangepast formulier is gemaakt.</p> </li>
@@ -264,11 +266,11 @@ U kunt eigen Workfront-velden toevoegen aan uw aangepaste formulieren. Wanneer h
     </tbody> 
    </table>
 
-1. Als u de wijzigingen wilt opslaan, klikt u op **Toepassen** en ga naar een andere sectie om door te gaan met het samenstellen van uw formulier.
+1. Om uw veranderingen te bewaren, **van toepassing is** en zich op een andere sectie te bewegen om uw vorm verder te bouwen.
 
    of
 
-   Klikken **Opslaan en sluiten**.
+   Klik **sparen en Sluiten**.
 
 </div>
 
@@ -287,10 +289,10 @@ Zie ook UGP-9780
 </tr>
 <tr> 
     <td role="rowheader">Label</td> 
-    <td> <p>(Vereist) Typ een beschrijvend label dat boven het aangepaste veld wordt weergegeven. U kunt het label op elk gewenst moment wijzigen. Zie voor meer informatie <a href="https://www.adobe.com" class="MCXref xref">Een aangepast veld toevoegen aan een aangepast formulier</a> in dit artikel.</p> <p><b>BELANGRIJK</b>: Gebruik geen speciale tekens in dit label. Ze worden niet correct weergegeven in rapporten.</p> </td> 
+    <td> <p>(Vereist) Typ een beschrijvend label dat boven het aangepaste veld wordt weergegeven. U kunt het label op elk gewenst moment wijzigen. Voor meer informatie, zie <a href="https://www.adobe.com" class="MCXref xref"> een douanegebied aan een douanevorm </a> in dit artikel toevoegen.</p> <p><b> BELANGRIJK </b>: Gebruik geen speciale karakters in dit etiket. Ze worden niet correct weergegeven in rapporten.</p> </td> 
     <td>
     <ul>
-    <li>Keuzerondjes. Zie voor meer informatie <a href="https://www.adobe.com">Een aangepast veld toevoegen aan een aangepast formulier</a> in dit artikel. (Geen klasse)</li>
+    <li>Keuzerondjes. Voor meer informatie, zie <a href="https://www.adobe.com"> een douanegebied aan een douanevorm </a> in dit artikel toevoegen. (Geen klasse)</li>
     <li>Groep selectievakjes</li>
     <li>Vervolgkeuzelijst</li>
     </ul></td>
@@ -302,36 +304,36 @@ Zie ook UGP-9780
 
 De tag &quot;span&quot; werkt niet goed in een notitie (en lijst)
 
-Ga voor meer informatie over de functies die beschikbaar zijn in de nieuwe opmerkingervaring en voor welke objecten [Nieuwe ervaring met opmerkingen](note-test.md).
+Voor informatie over welke eigenschappen in de nieuwe het becommentariëren ervaring en voor welke voorwerpen beschikbaar zijn, zie [ Nieuwe het becommentariëren ervaring ](note-test.md).
 
 1. Ga naar het object waaraan u een antwoord wilt toevoegen.
-1. Klikken **Updates** en klik vervolgens op de knop **Opmerkingen** tabblad voor het object en zoek naar de opmerking of het antwoord waarop u wilt reageren
+1. Klik **Updates**, dan klik het **3} lusje van Commentaren {voor het voorwerp en vind de commentaar of het antwoord waarop u wilt antwoorden**
 
    of
 
-   <span class="preview">Klik op de knop **Alles** tab, en klik vervolgens op **Reageren in opmerkingen** om de opmerking te openen op het tabblad Opmerkingen en erop te reageren. U kunt niet reageren op het tabblad Alles.</span>
+   <span class="preview"> klik het **Al** lusje, dan klik **Antwoord in Commentaren** om de opmerking in het lusje van Commentaren te openen en aan het te antwoorden. U kunt niet op het Al lusje antwoorden.</span>
 
-1. (Optioneel) Als u tekst uit een vorige update wilt opnemen in uw antwoord, klikt u op de knop **Meer** in de rechterbovenhoek van de opmerking waarop u wilt reageren, klikt u op **Offerteantwoord**. De tekst van de vorige update wordt weergegeven in het invoergebied, gemarkeerd met een verticale grijze lijn.
-1. Klikken **Antwoord**.
+1. (Facultatief) om tekst van een vorige update in uw antwoord te omvatten, klik het **Meer** menu in de hoger-juiste hoek van de commentaar u wilt antwoorden aan, dan **antwoord van het Citaat** klikken. De tekst van de vorige update wordt weergegeven in het invoergebied, gemarkeerd met een verticale grijze lijn.
+1. Klik **Reageren**.
 
    ![](assets/package.png)
 
-   U kunt de gebruikers zien die actief in het gesprek bij de bodem van zijn betrokken **Antwoord toevoegen...** en kunt u meer toevoegen of verwijderen van de niet-relevante vakken. Deze gebruikers ontvangen, samen met gebruikers die op het object zijn geabonneerd, een melding wanneer het object wordt bijgewerkt of geantwoord. U kunt ook tags toewijzen aan meer gebruikers om deze in uw antwoord op te nemen.  Als u meer gebruikers wilt labelen, raadpleegt u [Andere tags toepassen op updates](note-test.md).
+   U kunt de gebruikers zien die actief in het gesprek bij de bodem van **betrokken zijn voeg antwoord toe..** doos en u kunt meer toevoegen, of degenen verwijderen die niet meer relevant zijn. Deze gebruikers ontvangen, samen met gebruikers die op het object zijn geabonneerd, een melding wanneer het object wordt bijgewerkt of geantwoord. U kunt ook tags toewijzen aan meer gebruikers om deze in uw antwoord op te nemen.  Om meer gebruikers te etiketteren, zie [ Tags anderen op updates ](note-test.md).
 
    >[!TIP]
    >
-   >   Als u aanvullende antwoorden op een bestaande reactie wilt toevoegen, kunt u beginnen met typen in het dialoogvenster **Antwoord toevoegen...** of klik op **Antwoord** op de oorspronkelijke opmerking. Uw antwoord wordt toegevoegd aan het eind van de draad.
+   >   Om extra antwoorden aan een bestaand antwoord toe te voegen, kunt u beginnen in **te typen toevoegt antwoord...** doos, of **antwoordt** op de originele commentaar. Uw antwoord wordt toegevoegd aan het eind van de draad.
 
-1. Begin uw antwoord te typen en gebruik om het even welke extra opties van de Rich toolbar van de Tekst. Voor informatie over het gebruiken van RTF of andere het bijwerken mogelijkheden, zie [Werk bijwerken](note-test.md).
+1. Begin uw antwoord te typen en gebruik om het even welke extra opties van de Rich toolbar van de Tekst. Voor informatie over het gebruiken van Rijke Tekst of andere het bijwerken mogelijkheden, zie [ het werk van de Update ](note-test.md).
 
-1. Klikken **Verzenden** om het antwoord op te slaan.
+1. Klik **voorleggen** om het antwoord te bewaren.
 
-1. (Optioneel) Klik op de knop **Meer** in de rechterbovenhoek van de opmerking waarop u wilt reageren voor meer opties voor het beheren van de reactie. Zie voor meer informatie [Werk bijwerken](note-test.md).
+1. (Facultatief) klik het **Meer** menu in de hoger-juiste hoek van de commentaar u voor meer opties wilt antwoorden om het antwoord te beheren. Voor meer informatie, zie [ het werk van de Update ](note-test.md).
 
 
 ## UGP-10614 - Probleemtabellen met afbeeldingen
 
-Ik denk dat de `{width="20"}` Deze parameter veroorzaakt problemen in tabellen.
+Ik denk dat de parameter `{width="20"}` problemen in tabellen veroorzaakt.
 
 ## Vergelijking van Success-lidmaatschappen voor Expert en Ultimate
 

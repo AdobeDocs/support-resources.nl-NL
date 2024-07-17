@@ -27,6 +27,6 @@ ht-degree: 35%
 
 ## Nieuwe sectie
 
-Ik klik niet op Nu publiceren, dus als je dit ziet, werkt automatisch activeren.
+Ik klik niet op Publish Now, dus als je dit ziet, werkt automatisch activeren.
 
 6 juni, 7:12 PM PT

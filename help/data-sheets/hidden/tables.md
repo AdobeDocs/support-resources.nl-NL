@@ -21,7 +21,7 @@ Standaard Markering ondersteunt alleen basistabellen. Voor AdobeDocs Markdown, h
 
 * Standaardtabellen voor markeringen
 * HTML-tabellen
-* Markeringstabellen met een beperkte HTML syntaxis voor alinea-einden (`<p>`), regeleinden (`<br>`) en basislijsten (`<ul>`, `<ol>`).
+* Markeringstabellen met een beperkte syntaxis voor alinea-einden (`<p>`), regeleinden (`<br>`) en basislijsten (`<ul>`, `<ol>`).
 
 ## HTML-tabellen converteren naar markeringstabellen
 
@@ -29,26 +29,26 @@ In sommige gevallen wilt u een HTML-tabel omzetten in een Markeringen of in Mark
 
 Helaas, hebben wij geen enkel hulpmiddel kunnen vinden dat HTML lijsten goed omzet. Doorgaans gebruiken we een combinatie van tools om een fatsoenlijke prijsopgave samen te voegen.
 
-| Gereedschap | Wat doet het? |
+| Tool | Wat doet het? |
 |--- |--- |
-| [Generator van tabellen voor opmaak](https://www.tablesgenerator.com/markdown_tables) | Goed voor het maken van geheel nieuwe opmaak voor tabellen. |
-| [Geavanceerde tabelconversie](https://tableconvert.com/html-to-markdown) | Tabellen converteren van elke indeling naar elke gewenste indeling. <p>**Opmerking:** Koppelingen en afbeeldingen worden afgevlakt bij het omzetten. |
-| [Basistabel html > Markeerconverter](https://jmalarcon.github.io/markdowntables/) | Eenvoudige HTML-converter <p>**Opmerking:** Koppelingen en afbeeldingen worden afgevlakt bij het omzetten. |
-| [Niet-tabelconverter HTML > Markering](https://codebeautify.org/html-to-markdown) | Hiermee converteert u HTML-tabellen naar niet-tabelmarkeringssyntaxis. In combinatie met de bovenstaande gereedschappen gebruiken voor het kopiëren van koppelingen, afbeeldingen en andere samengevoegde items. |
+| [ de Generator van Lijsten van de Vermindering ](https://www.tablesgenerator.com/markdown_tables) | Goed voor het maken van geheel nieuwe opmaak voor tabellen. |
+| [ Geavanceerde lijstomzetter ](https://tableconvert.com/html-to-markdown) | Tabellen converteren van elke indeling naar elke gewenste indeling. <p>**Nota:** de Verbindingen en de beelden worden afgevlakt wanneer omgezet. |
+| [ Basis lijst html > telleromzetter ](https://jmalarcon.github.io/markdowntables/) | Eenvoudige HTML-converter <p>**Nota:** de Verbindingen en de beelden worden afgevlakt wanneer omgezet. |
+| [ niet-lijst HTML > de omzetter van de Prijsonderdruk ](https://codebeautify.org/html-to-markdown) | Hiermee converteert u HTML-tabellen naar niet-tabelmarkeringssyntaxis. In combinatie met de bovenstaande gereedschappen gebruiken voor het kopiëren van koppelingen, afbeeldingen en andere samengevoegde items. |
 
 ## Standaardtabellen voor markeringen
 
 * Zorg ervoor dat u ten minste drie afbreekstreepjes toevoegt in de tweede rij die de tabeleigenschappen bepaalt. Voorbeeld: `|--- |--- |--- |` voor een tabel met drie kolommen.
 * Markeringstabellen moeten ten minste één koptekstrij en één tekstrij hebben. U kunt geen één rij of één-cel markeringstabel tot stand brengen (gebruik in plaats daarvan HTML).
-* Zorg ervoor dat elke rij hetzelfde aantal verticale strepen (&amp;vert;) tekens bevat. Als u een pijpteken in een tabelcel moet opnemen, kunt u ontsnappen door het met een backslash (`\|`) of met behulp van de code van de HTML-entiteit (`&vert;`).
+* Zorg ervoor dat elke rij hetzelfde aantal verticale strepen (&amp;vert;) tekens bevat. Als u een pijpkarakter binnen een lijstcel moet omvatten, escape door het met backslash (`\|`) of het gebruiken van de de entiteitcode van de HTML (`&vert;`) vóór te gaan.
 * Wees voorzichtig met het gebruik van codeblokken in tabellen. Inline-codeblokken kunnen leiden tot onevenredige kolombreedten.
-* U kunt de weergave van de tabel wijzigen door Automatisch of Vast op te geven. Zie [De weergave van tabellen wijzigen](#table-rendering).
+* U kunt de weergave van de tabel wijzigen door Automatisch of Vast op te geven. Zie [ Veranderend hoe de lijsten ](#table-rendering) worden teruggegeven.
 
 ## Opmaaktabellen maken met bonus HTML
 
-Om migratie te vergemakkelijken, hebben wij de lijsten van de Prijsverhoging uitgebreid om HTML paragraafonderbrekingen te steunen (`<p>`), regeleinden (`<br>`) en elementaire HTML-lijsten (`<ul>` en `<ol>`) in Afbetalingstabellen.
+Om migratie te vergemakkelijken, hebben wij de lijsten van de Prijsverhoging uitgebreid om HTML paragraafonderbrekingen (`<p>`), lijnonderbrekingen (`<br>`), en basislijsten van de HTML (`<ul>` en `<ol>`) binnen de lijsten van de Prijsverhoging te steunen.
 
-**Tabel markeren met regeleinden en lijsten**
+**de lijst van de Prijsverhoging met lijnonderbrekingen en lijsten**
 
 ```
 | Header 1 | Header 2 | Header 3 |
@@ -64,9 +64,9 @@ Om migratie te vergemakkelijken, hebben wij de lijsten van de Prijsverhoging uit
 | Koptekst 1 | Koptekst 2 | Koptekst 3 |
 |--- |--- |--- |
 | Normale rij | rij 1 kolom 2 | rij 1 kolom 3 |
-| Regeleinde | eerste regel in cel<br>tweede regel in cel | rij 1 kolom 3 |
+| Regeleinde | eerste lijn in cel <br> tweede lijn in cel | rij 1 kolom 3 |
 | Lijst met opsommingstekens | Lijst met opsommingstekens:<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul> | rij 2 kolom 3 |
-| Lijst met opsommingstekens met regeleinde | Lijst met opsommingstekens:<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul><br>Dit is een nieuwe regel na de opsommingslijst | rij 2 kolom 3 |
+| Lijst met opsommingstekens met regeleinde | Lijst met opsommingstekens:<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul><br> Dit is een nieuwe lijn na de bulletlijst | rij 2 kolom 3 |
 
 >[!IMPORTANT]
 >
@@ -76,7 +76,7 @@ Om migratie te vergemakkelijken, hebben wij de lijsten van de Prijsverhoging uit
 
 Het migratiehulpmiddel probeerde om zo veel mogelijk het formatteren van de originele lijst te bewaren. Het grootste deel van deze syntaxis van HTML wordt genegeerd, terwijl sommige van deze syntaxis in bevestigingsfouten resulteert.
 
-**Monster gemigreerde HTML-tabel**
+**Steekproef gemigreerde HTML lijst**
 
 ```
 <table> 
@@ -105,7 +105,7 @@ Het migratiehulpmiddel probeerde om zo veel mogelijk het formatteren van de orig
 </table>
 ```
 
-**Gerenderd**
+**teruggegeven**
 
 <table> 
  <tbody>
@@ -117,37 +117,37 @@ Het migratiehulpmiddel probeerde om zo veel mogelijk het formatteren van de orig
   <tr>
    <td>badgingPath</td> 
    <td>String[]</td> 
-   <td><p><i>(Vereist)</i> Een tekenreeks met meerdere waarden voor badge-afbeeldingen tot het aantal badgingLevels. De wegen van het badge beeld moeten worden bevolen zodat wordt de eerste toegekend aan de hoogste deskundige. Als er minder badges zijn dan aangegeven door badgingLevels, vult het laatste badge in de array de rest van de array in. Voorbeeld:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
+   <td><p><i> (Vereist) </i> Een multi-waardekoord van badge beelden tot het aantal badgingLevels. De wegen van het badge beeld moeten worden bevolen zodat wordt de eerste toegekend aan de hoogste deskundige. Als er minder badges zijn dan aangegeven door badgingLevels, vult het laatste badge in de array de rest van de array in. Voorbeeld:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
   </tr>
   <tr>
    <td>badgingLevels</td> 
    <td>Lang</td> 
-   <td><p><i>(Optioneel)</i> Hiermee geeft u de niveaus van deskundigheid op die moeten worden toegekend. Als er bijvoorbeeld een <code>expert </code>en <code>almost expert</code> (twee badges), moet de waarde worden ingesteld op 2. Het badgingLevel moet overeenkomen met het aantal deskundige badge-afbeeldingen dat voor de eigenschap badgingPath wordt vermeld. De standaardwaarde is 1.</p></td> 
+   <td><p><i> (Facultatief) </i> specificeert de niveaus van deskundigheid te gunnen. Als er bijvoorbeeld een <code>expert </code> en een <code>almost expert</code> (twee badges) moeten zijn, moet de waarde worden ingesteld op 2. Het badgingLevel moet overeenkomen met het aantal deskundige badge-afbeeldingen dat voor de eigenschap badgingPath wordt vermeld. De standaardwaarde is 1.</p></td> 
   </tr>
   <tr>
    <td>badgingType</td> 
    <td>String</td> 
-   <td><p><i>(Vereist)</i> Hiermee wordt de scoring-engine aangeduid als "basic" of "advanced". Ingesteld op "advanced" anders is de standaardwaarde "basic".</p></td> 
+   <td><p><i> (Vereist) </i> identificeert de het scoring motor als of "basis"of "geavanceerd". Ingesteld op "advanced" anders is de standaardwaarde "basic".</p></td> 
   </tr>
  </tbody>
 </table>
 
-**Wanneer gebruikt u HTML-tabellen**
+**wanneer om HTML lijsten** te gebruiken
 
 * Kolommen in evenwicht brengen.
 * Tabelkoppen weglaten (voor markeringstabellen moet een koptekstrij zijn vereist).
-* De rand van een tabel met één rij verwijderen (`<tr style="border: 0;">`).
+* Om de grens van een één-rij lijst (`<tr style="border: 0;">`) te verwijderen.
 * Kolom- of rijbereiken toevoegen.
 * Tekst in een tabelcel uitlijnen.
 
-**Notities voor het werken met HTML-tabellen**
+**Nota&#39;s voor het werken met HTML lijsten**
 
-* Gebruik geen Markeringen in HTML-tabellen. Als u bijvoorbeeld `[!NOTE]` naar een HTML-tabel, wordt deze gerenderd als is (`[!NOTE]`). Gebruik in plaats daarvan de syntaxis HTML voor bijvoorbeeld notities en afbeeldingen.
+* Gebruik geen Markeringen in HTML-tabellen. Als u bijvoorbeeld `[!NOTE]` toevoegt aan een HTML-tabel, wordt deze weergegeven zoals (`[!NOTE]`). Gebruik in plaats daarvan de syntaxis HTML voor bijvoorbeeld notities en afbeeldingen.
 
   Loc-tags vormen een uitzondering op deze regel, omdat UICONTROL- en DNL-tags worden verwijderd voordat de pagina&#39;s worden weergegeven.
 
 * Niet alle syntaxis van de HTML wordt ondersteund in tabellen. Breedte, hoogte, kleur en andere HTML-syntaxiselementen worden genegeerd wanneer deze worden gerenderd in EXL. U kunt deze waarden in laten, tenzij deze resulteren in validatiefouten.
-* Als u tekst wilt uitlijnen, gebruikt u `align: "left|center|right"` in HTML. Als u bijvoorbeeld de inhoud van een tabelcel wilt centreren, gebruikt u `<td align="center">`.
+* Als u tekst wilt uitlijnen, gebruikt u `align: "left|center|right"` in HTML. Als u bijvoorbeeld de inhoud van een tabelcel wilt centreren, gebruikt u `<td align="center">` .
 * HTML-tabellen kunnen geen geneste tabellen bevatten.
 
 >[!TIP]
@@ -163,12 +163,12 @@ Het migratiehulpmiddel probeerde om zo veel mogelijk het formatteren van de orig
 
 U kunt tabellen op twee manieren weergeven:
 
-* **Vast** (momenteel de standaardinstelling) - Bevat aangepaste regels voor het renderen van tabellen, inclusief HTML-tabellen met afbeeldingen. Tabellen worden gerenderd als volledige-breedte zonder schuiven, wat soms overlappende tekst veroorzaakt.
-* **Automatisch** - Vergelijkbaar met de &quot;Git-aromed Markdown&quot; (GFM). Tabellen mogen schuiven, zodat de tekst niet overlapt.
+* **Vast** (momenteel het gebrek) - omvat douaneregels voor het teruggeven van lijsten, met inbegrip van HTML lijsten met beelden. Tabellen worden gerenderd als volledige-breedte zonder schuiven, wat soms overlappende tekst veroorzaakt.
+* **Auto** - Gelijkaardig aan Git-Gantsmaakte Markering (GFM). Tabellen mogen schuiven, zodat de tekst niet overlapt.
 
-In de meeste gevallen worden de tabellen weergegeven met dezelfde weergave. Als uw tabel echter overlappende tekst bevat, wilt u de opdracht `auto` -tag. Of als uw HTML-tabel met afbeeldingskaarten niet correct wordt weergegeven, kunt u het beste de opdracht `fixed` -tag.
+In de meeste gevallen worden de tabellen weergegeven met dezelfde weergave. Als uw tabel echter overlappende tekst bevat, wilt u de tag `auto` toepassen. Als de HTML-tabel met afbeeldingskaarten niet correct wordt weergegeven, wilt u mogelijk de tag `fixed` toepassen.
 
-We overwegen de standaardinstelling te wijzigen van `fixed` tot `auto`.
+We overwegen de standaardinstelling te wijzigen van `fixed` in `auto` .
 
 ## Markeringstabellen bewerken
 
@@ -177,7 +177,7 @@ Als u wilt specificeren hoe een inheemse markeringslijst wordt teruggegeven, voe
 * `{style="table-layout:auto"}`
 * `{style="table-layout:fixed"}`
 
-![table-rendering](assets/table-render.png)
+![ lijst-teruggevend ](assets/table-render.png)
 
 ### HTML-tabellen bewerken
 
@@ -203,9 +203,9 @@ Als u wilt specificeren hoe een HTML lijst wordt teruggegeven, gebruik één van
 
 **Overlappende tekst**
 
-Gebruiken `auto` voor tabellen met lange codeblokken of tekst die overlappende tekst veroorzaakt `fixed` (standaard) is geselecteerd.
+Gebruik `auto` voor tabellen met lange codeblokken of tekst die overlappende tekst veroorzaakt wanneer `fixed` (standaardwaarde) is geselecteerd.
 
-*Vast (standaard)*
+*Vast (Gebrek)*
 
 | Metrische informatie | Beschrijving | ID-queryparameter |
 | ---- | ---- | ---- |
@@ -218,7 +218,7 @@ Gebruiken `auto` voor tabellen met lange codeblokken of tekst die overlappende t
 
 {style="table-layout:fixed"}
 
-*Automatisch*
+*Auto*
 
 | Metrische informatie | Beschrijving | ID-queryparameter |
 | ---- | ---- | ---- |
@@ -231,11 +231,11 @@ Gebruiken `auto` voor tabellen met lange codeblokken of tekst die overlappende t
 
 {style="table-layout:auto"}
 
-**HTML-tabellen met uitgebalanceerde afbeeldingen**
+**HTML lijsten met evenwichtige beelden**
 
-Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zijn die niet in evenwicht zijn `auto` is geselecteerd. In dit voorbeeld hebben de afbeeldingen dezelfde grootte, maar de middelste kolom bevat meer tekst.
+Gebruik `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zijn die onevenwichtig worden wanneer `auto` wordt geselecteerd. In dit voorbeeld hebben de afbeeldingen dezelfde grootte, maar de middelste kolom bevat meer tekst.
 
-*Automatisch*
+*Auto*
 
 <table style="table-layout:auto">
 <tr>
@@ -244,9 +244,9 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
     <img alt="Lood" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="note-test.md"><strong>Workflow voor Adobe lead</strong></a>
+    <a href="note-test.md"><strong> Werkschema voor Adobe leidt </strong></a>
     </div>
-    <em>Hoofdbewerkingsworkflow voor hoofdschrijvers.</em>
+    <em> Belangrijkste het uitgeven werkschema voor loodschrijvers.</em>
     <br>
   </td>
   <td>
@@ -254,9 +254,9 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
       <img alt="Onfrequent" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Workflow voor niet-frequente gebruikers</strong></a>
+    <a href="syntax-style-guide.md"><strong> Werkschema voor Onfrequente Gebruikers </strong></a>
     </div>
-    <em>Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren.</em>
+    <em> geen leidende schrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de gemakkelijkste manieren om bijdragen te maken.</em>
     <br>
   </td>
   <td>
@@ -264,15 +264,15 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
       <img alt="Validatie" src="assets/validation.png">
     </a>
     <div>
-    <a href="note-test.md"><strong>Validatie</strong></a>
+    <a href="note-test.md"><strong> Bevestiging </strong></a>
     </div>
-    <em>Leer validatiefouten op te lossen.</em>
+    <em> Leer om bevestigingsfouten op te lossen.</em>
     <br>
   </td>
 </tr>
 </table>
 
-*Vast (op meerdere manieren dan één)*
+*Vast (op meer manieren dan één)*
 
 <table style="table-layout:fixed">
 <tr>
@@ -281,9 +281,9 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
     <img alt="Lood" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="note-test.md"><strong>Workflow voor Adobe lead</strong></a>
+    <a href="note-test.md"><strong> Werkschema voor Adobe leidt </strong></a>
     </div>
-    <em>Hoofdbewerkingsworkflow voor hoofdschrijvers.</em>
+    <em> Belangrijkste het uitgeven werkschema voor loodschrijvers.</em>
     <br>
   </td>
   <td>
@@ -291,9 +291,9 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
       <img alt="Onfrequent" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Workflow voor niet-frequente gebruikers</strong></a>
+    <a href="syntax-style-guide.md"><strong> Werkschema voor Onfrequente Gebruikers </strong></a>
     </div>
-    <em>Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren.</em>
+    <em> geen leidende schrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de eenvoudigste manieren om bijdragen te leveren. Geen hoofdschrijver? Leer de gemakkelijkste manieren om bijdragen te maken.</em>
     <br>
   </td>
   <td>
@@ -301,9 +301,9 @@ Gebruiken `fixed` voor HTML-tabellen waarvoor evenwichtige afbeeldingen nodig zi
       <img alt="Validatie" src="assets/validation.png">
     </a>
     <div>
-    <a href="note-test.md"><strong>Validatie</strong></a>
+    <a href="note-test.md"><strong> Bevestiging </strong></a>
     </div>
-    <em>Leer validatiefouten op te lossen.</em>
+    <em> Leer om bevestigingsfouten op te lossen.</em>
     <br>
   </td>
 </tr>

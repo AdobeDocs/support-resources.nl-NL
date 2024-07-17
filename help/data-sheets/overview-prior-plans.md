@@ -3,7 +3,7 @@ title: Overzicht van eerdere lidmaatschappen voor Adobe Support
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
 source-git-commit: 9b2223eca555b44484cbd042a2020f068e11f54b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 

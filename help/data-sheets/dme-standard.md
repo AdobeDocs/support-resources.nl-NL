@@ -3,7 +3,7 @@ title: Standaardondersteuning voor Adobe Creative Cloud en Adobe Document Cloud
 description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen. Deze bronnen maken deel uit van uw Adobe Enterprise-ondersteuning. Standaardondersteuning omvat 24x7 toegang tot onze resources voor zelfondersteuning, waaronder artikelen over HelpX en de betrokkenheid bij andere klanten in de Adobe-community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
 
@@ -189,20 +189,20 @@ U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocu
 </thead>
 <tbody>
   <tr>
-    <td><strong>PRIORITEIT 1</strong><br>De bedrijfsproductiefuncties van de klant werken niet of hebben een aanzienlijk gegevensverlies of zijn aanzienlijke verslechterd qua service, en er is onmiddellijk aandacht nodig om de functionaliteit en bruikbaarheid te herstellen.</td>
+    <td><strong>PRIORITEIT 1</strong><br>De productiefuncties van de klant zijn uitgevallen of er is sprake van aanzienlijk gegevensverlies of verslechtering van de service. Er is onmiddellijke aandacht nodig om de functionaliteit en bruikbaarheid te herstellen.</td>
     <td>24x7/<br>30 minuten</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Klanten die een ondersteuningslidmaatschap aanschaffen voor betreffende Adobe-producten en -services, ontvangen een prioriteitsroutering van cases waardoor cases snel worden doorgestuurd naar de ondersteuningstechnici van Adobe.</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Klanten die een ondersteuningslidmaatschap aanschaffen voor toepasselijke Adobe-producten en -services, ontvangen prioriteitsroutering van cases, waardoor cases snel worden doorgestuurd naar de ondersteuningstechnici van Adobe.</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 2</strong><br>De bedrijfsfuncties van de klant zijn aanzienlijk verslechterd qua service of er is sprake van mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed.</td>
+    <td><strong>PRIORITEIT 2</strong><br>De bedrijfsfuncties van de klant ondergaan een aanzienlijke verslechtering van de service of mogelijk gegevensverlies, of een belangrijk onderdeel wordt beïnvloed.</td>
     <td>24x7/<br>1 uur</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 3</strong><br>De bedrijfsfuncties van de klant zijn enigszins verslechterd qua service, maar er bestaat een oplossing/tijdelijke oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet.</td>
+    <td><strong>PRIORITEIT 3</strong><br>De bedrijfsfuncties van de klant ondergaan een geringe verslechtering van de service, maar er bestaat een oplossing/tijdelijke oplossing waarmee bedrijfsfuncties normaal kunnen worden voortgezet.</td>
     <td>Werkdag/<br>4 uur</td>
   </tr>
   <tr>
-    <td><strong>PRIORITEIT 4</strong><br>Algemene vraag over de huidige productfunctionaliteit of een verbeteringsverzoek.</td>
+    <td><strong>PRIORITEIT 4</strong><br>Algemene vraag met betrekking tot de huidige productfunctionaliteit of een verbeteringsverzoek.</td>
     <td>Werkdag/<br>1 dag</td>
   </tr>
 </tbody>
@@ -295,7 +295,7 @@ De lokale kantooruren van Adobe zijn afgestemd op de factureringsregio van de kl
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Taalondersteuning voor Amerika is alleen beschikbaar in het Engels.</p>
+      <p><sup>1</sup>Ondersteuning voor Amerika is alleen beschikbaar in het Engels.</p>
     </td>
   </tr>
 </tbody>
@@ -303,4 +303,4 @@ De lokale kantooruren van Adobe zijn afgestemd op de factureringsregio van de kl
 
 ![pictogram](assets/bottom-banner.png)
 
-*Neem contact op met uw Named Account Manager (NAM) of Customer Success Manager (CSM) voor meer informatie over het aanbod van Adobe-ondersteuning en het juiste niveau voor u.*
+*Neem contact op met uw Named Account Manager (NAM) of Customer Success Manager (CSM) voor meer informatie over aanbiedingen voor ondersteuning van Adobe en uw juiste niveau.*

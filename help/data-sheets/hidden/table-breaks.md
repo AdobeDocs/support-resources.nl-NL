@@ -3,7 +3,8 @@ title: Tabeleinden
 description: Testen van verschillende tabeleinden
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 5%
@@ -14,14 +15,14 @@ ht-degree: 5%
 
 Niet veel om hier te zien.
 
-## Standaardtabel met markeringen `<br>`
+## Standaardmarkeringstabel met `<br>`
 
-**VAST`Green<br>Red<br>Blue`**
+**FIXED`Green<br>Red<br>Blue`**
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Groen<br>Rood<br>Blauw |
-| Maria | 23 | Geel<br>Bruin |
+| Juanya | 17 | Groen <br> Rood <br> Blauw |
+| Maria | 23 | Geel <br> bruin |
 
 {style="table-layout:fixed"}
 
@@ -29,19 +30,19 @@ Niet veel om hier te zien.
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Groen<br>Rood<br>Blauw |
-| Maria | 23 | Geel<br>Bruin |
+| Juanya | 17 | Groen <br> Rood <br> Blauw |
+| Maria | 23 | Geel <br> bruin |
 
 {style="table-layout:auto"}
 
-## Afdruktabel met dubbele waarde `<br>`s
+## Opmaaktabel met dubbele `<br>` s
 
-**VAST`Green<br><br>Red<br><br>Blue`**
+**FIXED`Green<br><br>Red<br><br>Blue`**
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Groen<br><br>Rood<br><br>Blauw |
-| Maria | 23 | Geel<br><br>Bruin |
+| Juanya | 17 | Groen <br><br> Rood <br><br> Blauw |
+| Maria | 23 | Geel <br><br> bruin |
 
 {style="table-layout:fixed"}
 
@@ -49,14 +50,14 @@ Niet veel om hier te zien.
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Groen<br><br>Rood<br><br>Blauw |
-| Maria | 23 | Geel<br><br>Bruin |
+| Juanya | 17 | Groen <br><br> Rood <br><br> Blauw |
+| Maria | 23 | Geel <br><br> bruin |
 
 {style="table-layout:auto"}
 
-## Afdruktabel met `<p>`
+## Markeringstabel met `<p>`
 
-**VAST`Green<p>Red<p>Blue`**
+**FIXED`Green<p>Red<p>Blue`**
 
 |  | Getal | Kleuren |
 |---|---|---|
@@ -76,14 +77,14 @@ Niet veel om hier te zien.
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Dit is de kleur **groen** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. <p>Dit is de kleur **rood** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. <p>Dit is de kleur **blauw** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. |
+| Juanya | 17 | Dit is de kleur **groen** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. <p>Dit is de kleur **rood** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. <p>Dit is de kleur **blauw** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. |
 | Maria | 23 | Geel<p>Bruin |
 
 {style="table-layout:fixed"}
 
 |  | Getal | Kleuren |
 |---|---|---|
-| Juanya | 17 | Dit is de kleur **groen** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. <p>Dit is de kleur **rood** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. <p>Dit is de kleur **blauw** en het is bedoeld om de in lid 1 bedoelde punten op een andere regel te testen. |
+| Juanya | 17 | Dit is de kleur **groen** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. <p>Dit is de kleur **rood** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. <p>Dit is de kleur **blauw** en het is bedoeld om aan een verschillende lijn als kwestie en of middelen te verpakken om bovengenoemde paragraafonderbrekingen te testen. |
 | Maria | 23 | Geel<p>Bruin |
 
 {style="table-layout:auto"}
