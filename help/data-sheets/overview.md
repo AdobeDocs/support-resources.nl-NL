@@ -3,9 +3,9 @@ title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ De Adobe Success-lidmaatschappen gaan verder dan reactieve probleemoplossing en 
 | **Geavanceerde add-on voor cloudondersteuning**<br> Topzorg en waardegarantie voor klanten van Adobe Experience Manager as a Cloud Service | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
 | **Add-on voor mentorsessies**<br> Biedt op vaardigheden gebaseerd leren via een just-in-time trainingsmethode | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 | **Add-on voor Developer Boost**<br> Dit verleent toegang tot de technische experts die met herstelwerk kunnen helpen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
-| **<br>toe:voegen-op van de Bundel van de Rij van 0} Prioriteit verstrekt snellere reactietijden, één enkel punt van contact voor de activiteiten van de Steun, en toegang tot de Versnellers van het Succes.** | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Add-on voor prioriteitswachtrijbundel**<br> Zorgt voor snellere reactietijden, één contactpunt voor ondersteuningsactiviteiten en toegang tot succesversnellers. | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 
 {style="table-layout:fixed"}
 
