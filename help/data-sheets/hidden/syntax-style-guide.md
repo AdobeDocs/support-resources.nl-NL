@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 33707c7c1492ac85d1d634e752418b42c9f0aa55
+source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
 workflow-type: tm+mt
-source-wordcount: '4239'
+source-wordcount: '4300'
 ht-degree: 6%
 
 ---
@@ -513,22 +513,19 @@ Klik op deze afbeelding om naar de website van de Adobe te gaan.
 
 [![ beeld ](assets/core-services_96.png) ](https://www.adobe.com)
 
-<!--
-### Click-to-zoom images
+### Klikken om in te zoomen op afbeeldingen
 
-Use the `zoomable` parameter to allow users to click an image to view an enlarged version of the image. When the user mouses over a zoomable image, the pointer becomes a magnifying glass. When clicked, the image expands to the full width of the browser. It can be dismissed with a close button.
+Gebruik de parameter `zoomable` als u wilt dat gebruikers op een afbeelding kunnen klikken om een vergrote versie van de afbeelding weer te geven. Wanneer de gebruiker de muis over een zoombare afbeelding beweegt, verandert de aanwijzer in een vergrootglas. Wanneer erop wordt geklikt, wordt de afbeelding uitgebreid naar de volledige breedte van de browser. Het kan worden gesloten met een dicht knoop.
 
-**Example**
+**Voorbeeld**
 
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![ het Duiken beeld ](/help/data-sheets/hidden/assets/maui-dive.jpg " het Duiken in Maui "){width="100" zoomable="yes"}
 
-**Syntax**
+**Syntaxis**
 
 ```
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 ```
-
--->
 
 ## Koppelingen en kruisverwijzingen {#links-and-cross-references}
 
