@@ -2,9 +2,9 @@
 title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: ht
-source-wordcount: '2199'
+source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+workflow-type: tm+mt
+source-wordcount: '2203'
 ht-degree: 100%
 
 ---
@@ -34,8 +34,8 @@ De Adobe Success-lidmaatschappen gaan verder dan reactieve probleemoplossing en 
 | **Add-on voor gebeurtenisbeheer**<br>: biedt end-to-end leiderschap en ondersteuning die nodig zijn om de gehele levenscyclus van belangrijke gebeurtenissen te beheren | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
 | **Add-on voor Technical Account Director**<br> Uw belangrijkste technische resource die toezicht houdt op het leiderschap, eigenaar is van de betrokkenheid van managers en zorgt voor governance om uw bedrijfsresultaten te maximaliseren | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
 | **Geavanceerde add-on voor cloudondersteuning**<br> Topzorg en waardegarantie voor klanten van Adobe Experience Manager as a Cloud Service | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar |
-| **Add-on voor mentorsessies**<br> Biedt op vaardigheden gebaseerd leren via een just-in-time trainingsmethode | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
-| **Add-on voor Developer Boost**<br> Dit verleent toegang tot de technische experts die met herstelwerk kunnen helpen | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Add-on voor mentorsessies**<br> Biedt op vaardigheden gebaseerd leren via een just-in-time trainingsmethode | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![beschikbaar pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
+| **Add-on voor Developer Boost**<br> Dit verleent toegang tot de technische experts die met herstelwerk kunnen helpen | ![niet beschikbaar pictogram](assets/Cross_red_circle.svg){width="20"} Niet beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 | **Add-on voor prioriteitswachtrijbundel**<br> Zorgt voor snellere reactietijden, één contactpunt voor ondersteuningsactiviteiten en toegang tot succesversnellers. | ![beschikbaar pictogram](assets/Plus_blue.svg){width="20"} Beschikbaar | ![inbegrepen pictogram](assets/green_checkmark.svg){width="20"} Opgenomen |
 
 {style="table-layout:fixed"}
