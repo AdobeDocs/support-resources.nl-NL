@@ -4,16 +4,16 @@ description: Deze pagina is verborgen in de zoekopdracht en in de inhoudsopgave
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 39%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
 # Verborgen testpagina
 
-+ [Bugfixes](hidden/bug-fixes.md)
++ [Opgeloste problemen](hidden/bug-fixes.md)
 + [Verborgen nieuwe test](hidden-new-test.md)
 + [Verborgen nieuwe test 2](hidden-new-test-2.md)
 + [Handleiding voor verborgen syntaxis](hidden/syntax-style-guide.md)
@@ -25,8 +25,6 @@ ht-degree: 39%
 + [Omleidingstest](hidden/test-redirection.md)
 + [Automatische test](hidden/autoactivate.md)
 
-## Nieuwe sectie
+## Nieuwe sectie Akamai
 
-Ik klik niet op Publish Now, dus als je dit ziet, werkt automatisch activeren.
-
-donderdag 7 augustus 2024
+Test om te zien of de wijzigingen live gaan met AEM Live.
