@@ -4,10 +4,10 @@ description: Deze pagina is verborgen in de zoekopdracht en in de inhoudsopgave
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [Omleidingstest](hidden/test-redirection.md)
 + [Automatische test](hidden/autoactivate.md)
 
-## Nieuwe sectie Akamai
+## Nieuwe sectie 19 november
 
-Test om te zien of de wijzigingen live gaan met AEM Live.
+Test om te zien of SCCM nog steeds fijn loopt. Probleem met onderwerp?
