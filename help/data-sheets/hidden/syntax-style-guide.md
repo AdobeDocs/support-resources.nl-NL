@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 6%
 
 ---
@@ -485,6 +485,8 @@ Gebruik bijvoorbeeld de volgende syntaxis om de standaardafbeeldingsbreedte te w
 ```
 
 Weergegeven:
+
+Bob - Width = 300 pixels onder
 
 ![ duik beeld alt tekst ](assets/maui-dive.jpg " de tekst van de Hover - Maui duikt breedte is 300 pixel en gecentreerd "){width="300" align="center"}
 
