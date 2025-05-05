@@ -235,10 +235,10 @@ Adobe-klantenondersteuning biedt toegang tot online bronnen voor documentatie, s
 
 | Bron | Beschrijving |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League is de manier waarop Adobe bedrijven waarde helpt bereiken die ze van hun investering in Adobe verwachten. Het is de centrale plek waar klanten kunnen leren, verbinding kunnen maken en kunnen groeien op een persoonlijk pad naar succes, inclusief tutorials voor zelfhulp, productdocumentatie, training onder leiding van een instructeur, community- en technische ondersteuning. |
+| [Experience League](https://experienceleague.adobe.com/nl) | Experience League is de manier waarop Adobe bedrijven waarde helpt bereiken die ze van hun investering in Adobe verwachten. Het is de centrale plek waar klanten kunnen leren, verbinding kunnen maken en kunnen groeien op een persoonlijk pad naar succes, inclusief tutorials voor zelfhulp, productdocumentatie, training onder leiding van een instructeur, community- en technische ondersteuning. |
 | [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-cursussen zijn toegankelijk vanuit Experience League. De cursussen kunnen on demand zijn, of onder leiding van een instructeur. Hier kunt u vaardigheden opdoen met een erkende marktwaarde die uw organisaties succesvol maken. |
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com geeft de statusinformatie weer van alle Adobe-producten en -services die worden geïmplementeerd in omgevingen met meerdere tenants. Klanten kunnen lidmaatschapsvoorkeuren kiezen om e-mailmeldingen te ontvangen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Voorbeelden zijn gepland onderhoud of serviceproblemen van verschillende ernst. |
-| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
+| [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
 
 ## Regionaal bereik van Adobe-ondersteuning, lokale openingstijden en taalondersteuning
 

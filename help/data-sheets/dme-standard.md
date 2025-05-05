@@ -266,10 +266,10 @@ Adobe-klantenondersteuning biedt toegang tot bronnen voor documentatie en samenw
 
 | Bron | Beschrijving |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League is een plek waar Adobe-klanten zelfhulptutorials, productdocumentatie, training onder leiding van een instructeur, community en ondersteuning voor bepaalde Adobe Creative Cloud- en Document-producten kunnen vinden. |
+| [Experience League](https://experienceleague.adobe.com/nl) | Experience League is een plek waar Adobe-klanten zelfhulptutorials, productdocumentatie, training onder leiding van een instructeur, community en ondersteuning voor bepaalde Adobe Creative Cloud- en Document-producten kunnen vinden. |
 | [Adobe-ondersteuningscommunity](https://community.adobe.com/) | De Adobe-ondersteuningscommunity is de plaats om vragen te stellen, antwoorden te vinden, van experts te leren en uw kennis te delen. |
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com geeft de statusinformatie weer van alle Adobe-producten en -services die worden geïmplementeerd in omgevingen met meerdere tenants. Klanten kunnen lidmaatschapsvoorkeuren kiezen om e-mailmeldingen te ontvangen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Voorbeelden zijn gepland onderhoud of serviceproblemen van verschillende ernst. |
-| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
+| [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
 
 {style="table-layout:auto"}
 

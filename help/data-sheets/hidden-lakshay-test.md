@@ -18,49 +18,49 @@ ht-degree: 6%
 
 ::: landingskaarten-container
 ::
-![ de tekst van Alt ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ de tekst van Alt ](https://experienceleague.adobe.com/nl/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
-![ de tekst van Alt ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ de tekst van Alt ](https://experienceleague.adobe.com/nl/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
-![ de tekst van Alt ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ de tekst van Alt ](https://experienceleague.adobe.com/nl/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
-![ de tekst van Alt ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ de tekst van Alt ](https://experienceleague.adobe.com/nl/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
-![ de tekst van Alt ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ de tekst van Alt ](https://experienceleague.adobe.com/nl/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
 
@@ -73,7 +73,7 @@ Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
 
@@ -81,7 +81,7 @@ Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
 
@@ -89,7 +89,7 @@ Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
 
@@ -97,7 +97,7 @@ Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::
 
@@ -105,6 +105,6 @@ Titel 1
 
 Dit is de kaartbeschrijving.
 Dit is de inhoud van de kaart.
-[ Leer meer ](https://experienceleague.adobe.com/)
+[ Leer meer ](https://experienceleague.adobe.com/nl)
 ::
 ::

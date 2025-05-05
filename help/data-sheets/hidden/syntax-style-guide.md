@@ -287,7 +287,7 @@ Dit is tekst in een inklapbare sectie.
 * U kunt koppen toevoegen binnen inklapbare secties, maar dit wordt niet aanbevolen.
 * [ de Accordeons zijn niet altijd het Antwoord voor complexe inhoud op Desktops ](https://www.nngroup.com/articles/accordions-complex-content/)
 * Één historisch nadeel van doen ineenstorten secties is dat **vindt in Pagina** (CTRL/Cmd+F) doen ineenstorten tekst negeert. In Safari is dat nog steeds het geval, maar in Chrome is dat niet meer het geval. Zoeken in pagina detecteert samengevouwen tekst in Chrome.
-* Voorbeeld van de pagina van a [ onderhoudsupdates ](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) gebruikend doen ineenstorten secties.
+* Voorbeeld van de pagina van a [ onderhoudsupdates ](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=nl-NL) gebruikend doen ineenstorten secties.
 
 ## Opmerkingen en opmerkingen
 
@@ -626,8 +626,8 @@ Met de component ‘Meer als dit’ kunt u verwante koppelingen weergeven aan he
 
 >[!MORELIKETHIS]
 >
->* [ Artikel 1 ](https://helpx.adobe.com/support/analytics.html)
->* [ Artikel 2 ](https://helpx.adobe.com/support/audience-manager.html)
+>* [ Artikel 1 ](https://helpx.adobe.com/nl/support/analytics.html)
+>* [ Artikel 2 ](https://helpx.adobe.com/nl/support/audience-manager.html)
 
 ## Notities/correcties
 
