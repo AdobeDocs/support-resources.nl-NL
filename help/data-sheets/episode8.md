@@ -11,4 +11,4 @@ ht-degree: 100%
 
 # De podcast van Ultimate Success - aflevering 8
 
->[!VIDEO](https://video.tv.adobe.com/v/3429404?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453791?quality=12learn=on&captions=dut)
