@@ -132,7 +132,7 @@ Ons ontwerpsysteem gebruikt blockquotes (`>` aan het begin van lijnen) om de uit
 
 Wordt gebruikt om een stukje code in een zin online weer te geven. Ideaal om een cookie-naam, bestandsnaam, waarde of opdracht op te roepen waarvoor geen codeblok met volledige omtrek vereist is.
 
-Inhoud binnen codeblokken in rendering as is and not localized. (De enige uitzondering op deze regel zijn `!UICONTROL` en `!DNL` syntaxis, die worden verwijderd tijdens het maken van het pakket voor publicatie.)
+Inhoud binnen codeblokken in rendering as is and not localized. (De enige uitzondering op deze regel zijn `` en `` syntaxis, die worden verwijderd tijdens het maken van het pakket voor publicatie.)
 
 Gebruik ook codeblokken voor voorbeeld-URL&#39;s die niet moeten worden gevalideerd: `https://www.example.com`
 
@@ -152,7 +152,7 @@ Dit is `inline code` in een alinea met tekst.
 >
 >U kunt tekst ook tussen drie streepjes plaatsen (&grave;&grave;&grave;) om een inline-codeblok te maken. Dit is vooral nuttig wanneer u een achtertikteken binnen een gealigneerd codeblok moet van verwijzingen voorzien. Voorbeeld:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
 
 ## Codeblok (afgezonderd)
 
@@ -164,7 +164,7 @@ Codeblokken zijn niet gelokaliseerd.
 
 >[!TIP]
 >
-Geef een taal op wanneer u een omheind codeblok maakt. Het specificeren van een taal staat syntaxis toe die specifiek voor die taal benadrukt en toont a **knoop van het Exemplaar** voor de gebruikers. U kunt ook regelnummers weergeven als u een taal opgeeft.
+>Geef een taal op wanneer u een omheind codeblok maakt. Het specificeren van een taal staat syntaxis toe die specifiek voor die taal benadrukt en toont a **knoop van het Exemplaar** voor de gebruikers. U kunt ook regelnummers weergeven als u een taal opgeeft.
 
 **Syntaxis**
 
@@ -282,7 +282,7 @@ Dit is tekst in een inklapbare sectie.
 
 **Nota&#39;s**
 
-* U mag geen inklapbare secties nesten binnen inklapbare secties. Geneste inklapbare secties worden niet goed gerenderd. De validatie mislukt echter niet, zodat gebruikers de `+++` -syntaxis van de geneste sectie zien.
++++* U mag geen inklapbare secties nesten binnen inklapbare secties. Geneste inklapbare secties worden niet goed gerenderd. De validatie mislukt echter niet, zodat gebruikers de `` -syntaxis van de geneste sectie zien.
 * Zorg ervoor dat u lege regels boven en onder items zoals opsommingstekens en codeblokken binnen de inklapbare sectie toevoegt, of u krijgt een validatiefout.
 * U kunt koppen toevoegen binnen inklapbare secties, maar dit wordt niet aanbevolen.
 * [ de Accordeons zijn niet altijd het Antwoord voor complexe inhoud op Desktops ](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Voeg geen opmerkingen toe aan blokcomponenten, zoals lijsten met opsommingstekens, vooral geneste lijsten met opsommingstekens. De opmerking kan de manier wijzigen waarop de lijst met opsommingstekens wordt weergegeven.
+>Voeg geen opmerkingen toe aan blokcomponenten, zoals lijsten met opsommingstekens, vooral geneste lijsten met opsommingstekens. De opmerking kan de manier wijzigen waarop de lijst met opsommingstekens wordt weergegeven.
 >
-Plaats in het bestand TOC.md geen opmerkingen over regels in het midden van de lijst met inhoudsopgave. Hierdoor kan de lijst met inhoudsopgaven worden verbroken en kunnen validatiefouten optreden. Verplaats in plaats daarvan opmerkingen in de inhoudsopgave naar het einde van het bestand.
+>Plaats in het bestand TOC.md geen opmerkingen over regels in het midden van de lijst met inhoudsopgave. Hierdoor kan de lijst met inhoudsopgaven worden verbroken en kunnen validatiefouten optreden. Verplaats in plaats daarvan opmerkingen in de inhoudsopgave naar het einde van het bestand.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Upload het .zip- of ander downloadbaar bestand naar de map assets en koppel er vervolgens aan. Als het een ZIP-bestand is, wordt het bestand gedownload wanneer u op de koppeling klikt. Als het bestandstype bijvoorbeeld PDF of PNG is dat in een browser kan worden geopend, wordt door op de koppeling te klikken een nieuw tabblad geopend. Voor dergelijke bestanden kunt u overwegen ze te comprimeren of instructies geven om met de rechtermuisknop op de koppeling te klikken en te downloaden.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 Weergegeven:
 
@@ -378,7 +378,7 @@ De download [ test zip van de downloadtest ](assets/download-test.zip)
 
 >[!NOTE]
 >
-De maximale bestandsgrootte voor het downloaden van bestanden en afbeeldingen is 100 MB. Dat is de github.com-limiet. De limiet voor git.corp.adobe.com is hoger (250 MB), maar we moeten bestanden kunnen kopiëren naar de spiegel github.com.
+>De maximale bestandsgrootte voor het downloaden van bestanden en afbeeldingen is 100 MB. Dat is de github.com-limiet. De limiet voor git.corp.adobe.com is hoger (250 MB), maar we moeten bestanden kunnen kopiëren naar de spiegel github.com.
 
 ## Koppen {#headings}
 
@@ -497,7 +497,7 @@ Bob - Width = 300 pixels onder
 
 >[!NOTE]
 >
-De maximale bestandsgrootte voor afbeeldingen is 100 MB. Dat is de github.com-limiet. De limiet voor git.corp.adobe.com is hoger (250 MB), maar we moeten bestanden kunnen kopiëren naar de spiegel github.com.
+>De maximale bestandsgrootte voor afbeeldingen is 100 MB. Dat is de github.com-limiet. De limiet voor git.corp.adobe.com is hoger (250 MB), maar we moeten bestanden kunnen kopiëren naar de spiegel github.com.
 
 ### Afbeeldingskoppelingen
 
@@ -626,8 +626,8 @@ Met de component ‘Meer als dit’ kunt u verwante koppelingen weergeven aan he
 
 >[!MORELIKETHIS]
 >
-* [ Artikel 1 ](https://helpx.adobe.com/support/analytics.html)
-* [ Artikel 2 ](https://helpx.adobe.com/support/audience-manager.html)
+>* [ Artikel 1 ](https://helpx.adobe.com/support/analytics.html)
+>* [ Artikel 2 ](https://helpx.adobe.com/support/audience-manager.html)
 
 ## Notities/correcties
 
@@ -645,7 +645,7 @@ We hebben Markering uitgebreid om verschillende typen notities op te maken: Opme
 
 >[!NOTE]
 >
-Dit is een standaard NOTITIEblok.
+>Dit is een standaard NOTITIEblok.
 
 **Syntaxis**
 
@@ -659,7 +659,7 @@ Dit is een standaard NOTITIEblok.
 
 >[!TIP]
 >
-Dit is een standaardtip.
+>Dit is een standaardtip.
 
 **Syntaxis**
 
@@ -673,7 +673,7 @@ Dit is een standaardtip.
 
 >[!WARNING]
 >
-Dit is een standaardwaarschuwingsblok.
+>Dit is een standaardwaarschuwingsblok.
 
 **Syntaxis**
 
@@ -687,7 +687,7 @@ Dit is een standaardwaarschuwingsblok.
 
 >[!IMPORTANT]
 >
-Dit is een belangrijk standaardblok.
+>Dit is een belangrijk standaardblok.
 
 **Syntaxis**
 
@@ -703,35 +703,35 @@ Dit is een belangrijk standaardblok.
 
 >[!NOTE]
 >
-Dit is een standaard NOTITIEblok.
+>Dit is een standaard NOTITIEblok.
 >
-Dit omvat meerdere alinea&#39;s.
+>Dit omvat meerdere alinea&#39;s.
 
 Nieuwe ondersteunde typen notities:
 
 >[!ADMIN]
 >
-Dit is een beheernotitie. Alleen EXL.
+>Dit is een beheernotitie. Alleen EXL.
 
 >[!AVAILABILITY]
 >
-Dit is een opmerking over beschikbaarheid. Alleen EXL.
+>Dit is een opmerking over beschikbaarheid. Alleen EXL.
 
 >[!PREREQUISITES]
 >
-Dit is een opmerking over voorwaarden. Alleen EXL.
+>Dit is een opmerking over voorwaarden. Alleen EXL.
 
 >[!INFO]
 >
-Dit is een opmerking met Info. Alleen EXL.
+>Dit is een opmerking met Info. Alleen EXL.
 
 >[!ERROR]
 >
-Dit is een foutbericht. Alleen EXL.
+>Dit is een foutbericht. Alleen EXL.
 
 >[!SUCCESS]
 >
-Dit is een opmerking dat iets is gelukt. Alleen EXL.
+>Dit is een opmerking dat iets is gelukt. Alleen EXL.
 
 ## Genummerde lijsten en lijsten met opsommingstekens {#lists}
 
@@ -827,7 +827,7 @@ U kunt lijsten binnen lijsten ook insluiten en inhoud tussen lijstpunten toevoeg
 
    >[!NOTE]
    >
-   Dit is notitietekst.
+   >Dit is notitietekst.
 
 1. Doe nog een stap.
 
@@ -856,7 +856,7 @@ In sommige gevallen gebruikt u een HTML-tabel om een evenwichtig ontwerp te make
 
 >[!NOTE]
 >
-Overmatig gebruik vermijden. Voor normale tabellen willen we een consistent ontwerp houden voor alle inhoud.
+>Overmatig gebruik vermijden. Voor normale tabellen willen we een consistent ontwerp houden voor alle inhoud.
 
 ![ lijstuiteinde ](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Tabellen kunnen problematisch zijn in Markering. Wanneer tabellen worden gemigre
 
 >[!TIP]
 >
-Bekijk de [ video van de Lijsten van de Prijsverlaging ](https://video.tv.adobe.com/v/26220)
+>Bekijk de [ video van de Lijsten van de Prijsverlaging ](https://video.tv.adobe.com/v/26220)
 
 Native tabellen zien er vaak beter uit in Markering. Kolommen worden geschaald op basis van hun inhoud. HTML-tabellen worden weergegeven met kolommen met gelijke breedte.
 
@@ -888,7 +888,7 @@ Standaard biedt Markdown geen ondersteuning voor meerdere regels of lijsten in c
 
 >[!IMPORTANT]
 >
-Wees voorzichtig wanneer u deze HTML-codes toevoegt aan Markeringen. Als uw syntaxis onjuist is, krijgt u een verwarrende validatiefout die het probleem niet nauwkeurig beschrijft. Controleer uw syntaxis van de HTML om ervoor te zorgen dat het behoorlijk-gevormd is.
+>Wees voorzichtig wanneer u deze HTML-codes toevoegt aan Markeringen. Als uw syntaxis onjuist is, krijgt u een verwarrende validatiefout die het probleem niet nauwkeurig beschrijft. Controleer uw syntaxis van de HTML om ervoor te zorgen dat het behoorlijk-gevormd is.
 
 Niet toegestaan in een tabel: iframes, reeksen cellen, ingesloten tabellen.
 
@@ -1035,9 +1035,9 @@ In het algemeen gebruikt u `<span class="preview">` om een alinea of tekst in ee
 
 >[!NOTE]
 >
-We zijn nog steeds bezig de markeerweergave van bepaalde pagina-elementen, zoals notities en tabellen, te verbeteren. Voel u vrij om JIRA-bugs te registreren als u onjuiste rendering ziet. In uitvoering.
+>We zijn nog steeds bezig de markeerweergave van bepaalde pagina-elementen, zoals notities en tabellen, te verbeteren. Voel u vrij om JIRA-bugs te registreren als u onjuiste rendering ziet. In uitvoering.
 >
-VSC-voorvertoning biedt nog geen ondersteuning voor markering.
+>VSC-voorvertoning biedt nog geen ondersteuning voor markering.
 
 ## Video
 
@@ -1115,7 +1115,7 @@ Een volledige lijst van de entiteiten van HTML is beschikbaar op de [ website Fr
 
 >[!NOTE]
 >
-Voor kettingstappen zoals &quot;Kies Bestand > Opslaan als&quot; hoeft u het teken `>` niet te verwijderen omdat dit niet naast andere tekens staat. Voor variabelen zoals `<filename>` zult u de punthaken willen ontsnappen gebruikend of codeblok `backticks` of karaktercodes (`&lt;filename&gt;`).
+>Voor kettingstappen zoals &quot;Kies Bestand > Opslaan als&quot; hoeft u het teken `>` niet te verwijderen omdat dit niet naast andere tekens staat. Voor variabelen zoals `<filename>` zult u de punthaken willen ontsnappen gebruikend of codeblok `backticks` of karaktercodes (`&lt;filename&gt;`).
 
 Als u HTML-entiteiten in codeblokken gebruikt, wordt de eenheidstekst niet omgezet in het speciale teken. `&gt;` wordt bijvoorbeeld in een codeblok weergegeven als &quot; `&gt;` &quot; in plaats van &quot; > &quot;.
 
@@ -1158,4 +1158,4 @@ Wij gebruiken blokcitaten (`>` aan het begin van een lijn) aan aangewezen uitgeb
 
 >[!NOTE]
 >
-Als u te ver inspringt, zoals zes spaties in plaats van drie, wordt de inhoud weergegeven als blokaanhalingstekens. Gebruik de juiste hoeveelheid inspringing om te voorkomen dat de inhoud per ongeluk wordt weergegeven als een blokaanhalingsteken.
+>Als u te ver inspringt, zoals zes spaties in plaats van drie, wordt de inhoud weergegeven als blokaanhalingstekens. Gebruik de juiste hoeveelheid inspringing om te voorkomen dat de inhoud per ongeluk wordt weergegeven als een blokaanhalingsteken.

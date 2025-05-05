@@ -40,7 +40,7 @@ Helaas, hebben wij geen enkel hulpmiddel kunnen vinden dat HTML lijsten goed omz
 
 * Zorg ervoor dat u ten minste drie afbreekstreepjes toevoegt in de tweede rij die de tabeleigenschappen bepaalt. Voorbeeld: `|--- |--- |--- |` voor een tabel met drie kolommen.
 * Markeringstabellen moeten ten minste één koptekstrij en één tekstrij hebben. U kunt geen één rij of één-cel markeringstabel tot stand brengen (gebruik in plaats daarvan HTML).
-* Zorg ervoor dat elke rij hetzelfde aantal verticale strepen (&amp;vert;) tekens bevat. Als u een pijpkarakter binnen een lijstcel moet omvatten, escape door het met backslash (`\|`) of het gebruiken van de de entiteitcode van de HTML (`&vert;`) vóór te gaan.
+* Zorg ervoor dat elke rij hetzelfde aantal verticale strepen (&vert;) tekens bevat. Als u een pijpkarakter binnen een lijstcel moet omvatten, escape door het met backslash (`\|`) of het gebruiken van de de entiteitcode van de HTML (`&vert;`) vóór te gaan.
 * Wees voorzichtig met het gebruik van codeblokken in tabellen. Inline-codeblokken kunnen leiden tot onevenredige kolombreedten.
 * U kunt de weergave van de tabel wijzigen door Automatisch of Vast op te geven. Zie [ Veranderend hoe de lijsten ](#table-rendering) worden teruggegeven.
 

@@ -160,10 +160,10 @@ Badges gebruiken kleuren die zijn gedefinieerd in Adobe Spectrum:
 | Type | Badge |
 |---|---|
 | Informatief (standaard) | [!BADGE Bèta]{type=Informative url="https://www.example.com"} |
-| Positief | [!BADGE Nieuwe functie]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
-| Negatief | [!BADGE Stopzetten]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
-| Neutraal | [!BADGE Misschien]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
-| Waarschuwing | [!BADGE Opgelet]{type=Caution tooltip=&quot;Yellow status&quot;} |
+| Positief | [!BADGE Nieuwe functie]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
+| Negatief | [!BADGE Stopzetten]{type=negative tooltip="This feature is now end of life"} |
+| Neutraal | [!BADGE Misschien]{type=Neutral tooltip="A rider fell off the horse..."} |
+| Waarschuwing | [!BADGE Opgelet]{type=Caution tooltip="Yellow status"} |
 
 Syntaxisvoorbeelden
 

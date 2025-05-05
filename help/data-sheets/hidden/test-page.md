@@ -134,7 +134,7 @@ Download [ TXT- dossier ](assets/dots.txt)
 
 Download [ XLSX- dossier ](assets/4-module_version.xlsx)
 
-Het dossier van het ZIP van de download [ ](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+Het dossier van het ZIP van de download [&#128279;](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
 
 ## HTML-tabel met div
 

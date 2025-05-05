@@ -46,9 +46,9 @@ Geen schaduw
 
 Deze badges moeten op dezelfde regel staan als de opsommingstekens.
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE  Nota&#39;s ]{type=Informative}
-* [[!DNL Pendo]](tables.md) [!BADGE  Lijsten ]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE  Gids van de Stijl van de Syntaxis ]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE &#x200B; Nota&#39;s &#x200B;]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE &#x200B; Lijsten &#x200B;]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE &#x200B; Gids van de Stijl van de Syntaxis &#x200B;]{type=Positive}
 
 ## UGP-10560 - Badges in inklapbare gedeelten
 
@@ -58,12 +58,12 @@ Deze badges moeten op dezelfde regel staan als de opsommingstekens.
 
 _feb 13, 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ de Nieuwe ](assets/package.png) video&#39;s van het Product worden nu gesteund door de Dienst API van de Catalogus.
-](assets/package.png) de producten van de Reparatie van 0} {met vaste prijzen worden nu gesteund.
-![
-](assets/package.png) de uit-van-voorraad opties van 0} herstellen {worden nu getoond in PDP widget.![
+ de producten van de Reparatie van 0&rbrace; &lbrace;met vaste prijzen worden nu gesteund.
+![&#128279;](assets/package.png)
+![&#128279;](assets/package.png) de uit-van-voorraad opties van 0&rbrace; herstellen &lbrace;worden nu getoond in PDP widget.
 
 #### Bekende beperkingen
 
@@ -82,7 +82,7 @@ De volgende beperkingen kunnen worden opgelost met behulp van het API-net en de 
 
 _vrijdag 12 oktober 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt de `inStock` vlag voor productvarianten.
 ![ Nieuw ](assets/package.png) `urlKey` en `externalId` zijn toegevoegd aan het schema van GraphQL.
@@ -92,7 +92,7 @@ _vrijdag 12 oktober 2023_
 
 _woensdag 19 september 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuw ](https://www.adobe.com).
 ![ Repareren ](assets/package.png) Deze versie bevat insectenmoeilijke situaties en verbeteringen op de de dienstkant.
@@ -101,7 +101,7 @@ _woensdag 19 september 2023_
 
 _woensdag 18 juli 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt nu de [`recommendations` ](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) vraag van GraphQL voor Product Recommendations.
 
@@ -109,7 +109,7 @@ _woensdag 18 juli 2023_
 
 _woensdag 27 juni 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) API van de Dienst van de Catalogus steunt nu &quot;verwante producten&quot;.
 
@@ -117,7 +117,7 @@ _woensdag 27 juni 2023_
 
 _donderdag 12 april 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Dienst van de Catalogus ontruimt nu geschrapte productvarianten.
 ![ verbeter ](assets/package.png) scalability van de Infrastructuur en prestatiesverbeteringen.
@@ -126,7 +126,7 @@ _donderdag 12 april 2023_
 
 _woensdag 28 maart 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Toegevoegde stalen aan de [`products` ](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) vraag.
 ![ Nieuw ](https://www.adobe.com).
@@ -135,7 +135,7 @@ _woensdag 28 maart 2023_
 
 _dinsdag 6 maart 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Toegevoegde [`categories` ](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) functionaliteit van GraphQL.
 ![ verbeter ](assets/package.png) Verbeterde prestaties en API scalability.
@@ -144,7 +144,7 @@ _dinsdag 6 maart 2023_
 
 _woensdag 7 februari 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Gepubliceerde catalogus-dienst metapakket om installatiestappen te vereenvoudigen.
 ![ bevestig ](assets/package.png) API scalability en prestatiesverbeteringen.
@@ -153,7 +153,7 @@ _woensdag 7 februari 2023_
 
 _woensdag 17 januari 2023_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuw ](assets/package.png) Vereenvoudigde en verbeterde de onboarding ervaring.
 ![ Nieuwe ](assets/package.png) de nieuwe eindpunten van de klantenzandbak zijn beschikbaar voor preproductie het testen.
@@ -164,27 +164,27 @@ _woensdag 17 januari 2023_
 
 _zaterdag 18 november 2022_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
-![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt nu het 2} API Net van de Adobe ](https://developer.adobe.com/graphql-mesh-gateway/?lang=nl).
-[
+![ Nieuwe ](assets/package.png) Dienst van de Catalogus steunt nu het 2&rbrace; API Net van de Adobe .
+[&#128279;](https://developer.adobe.com/graphql-mesh-gateway/?lang=nl)
 ![ bevestig ](assets/package.png) Verbeterde API scalability en algemene prestaties.
 
 ### V1.0-release
 
 _woensdag 4 oktober 2022_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) steun nu gebundelde en gegroepeerde producten.
 ![ Nieuwe ](assets/package.png) Toegevoegde B2B zichtoverschrijvingen. De producten zijn nu doorzoekbaar en kunnen aan de kar voor specifieke klantengroepen worden toegevoegd.
-](assets/package.png) de Dienst van 0} Repareren {is nu stabieler en heeft betere prestaties.![
+![&#128279;](assets/package.png) de Dienst van 0&rbrace; Repareren &lbrace;is nu stabieler en heeft betere prestaties.
 
 ### 0.3 Release - Beta+
 
 _dinsdag 12 september 2022_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuwe ](assets/package.png) Beelden voor variantsteun: de productbeelden zijn teruggekeerd gebaseerd op de geselecteerde opties
 ![ Nieuwe ](assets/package.png) Rollen voor prijssteun: sta slechts leden van specifieke klantengroepen toe om de prijs van producten te zien
@@ -195,7 +195,7 @@ _dinsdag 12 september 2022_
 
 _woensdag 9 augustus 2022_
 
-[!BADGE  Gesteund ]{type=Informative tooltip="Ondersteund"}
+[!BADGE &#x200B; Gesteund &#x200B;]{type=Informative tooltip="Ondersteund"}
 
 ![ Nieuw ](assets/package.png) de vragen `products` en `refineProduct` keren de volgende gegevens terug:
 
@@ -307,7 +307,7 @@ De tag &quot;span&quot; werkt niet goed in een notitie (en lijst)
 Voor informatie over welke eigenschappen in de nieuwe het becommentariëren ervaring en voor welke voorwerpen beschikbaar zijn, zie [ Nieuwe het becommentariëren ervaring ](note-test.md).
 
 1. Ga naar het object waaraan u een antwoord wilt toevoegen.
-1. Klik **Updates**, dan klik het **3} lusje van Commentaren {voor het voorwerp en vind de commentaar of het antwoord waarop u wilt antwoorden**
+1. Klik **Updates**, dan klik het **3&rbrace; lusje van Commentaren &lbrace;voor het voorwerp en vind de commentaar of het antwoord waarop u wilt antwoorden**
 
    of
 
