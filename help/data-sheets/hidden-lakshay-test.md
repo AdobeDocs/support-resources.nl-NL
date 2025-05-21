@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ::: landingskaarten-container
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=nl-NL)
 
 Inleiding van de reisactiviteiten
 
@@ -28,7 +28,7 @@ Leer over gebeurtenis, orchestratie, en actieactiviteiten om multi-step scenario
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=nl-NL)
 
 Algemene gebeurtenissen gebruiken
 
@@ -38,7 +38,7 @@ Stel de configuratie en het gebruik van algemene gebeurtenissen en hun onderbrek
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=nl-NL)
 
 Reactiegebeurtenissen
 
@@ -48,7 +48,7 @@ Houd gebruikersinteracties met berichten bij en configureer reactiegebeurtenisse
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=nl-NL)
 
 Kwalificatiegebeurtenissen voor het publiek
 
@@ -58,7 +58,7 @@ Gebruik profielvermeldingen en -uitgangen om reizen op effectieve wijze te start
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=nl-NL)
 
 Condition-activiteit
 
@@ -68,7 +68,7 @@ Definieer gepersonaliseerde paden in ritten aan de hand van specifieke criteria 
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=nl-NL)
 
 Activiteit wachten
 
@@ -83,7 +83,7 @@ Stel vertragingen in reizen in met gebruik van de tijdsduur of aangepaste wachto
 
 ::: landingskaarten-container
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=nl-NL)
 
 Designer-inhoudsonderdelen e-mailen
 
@@ -93,7 +93,7 @@ Leer hoe u inhoudcomponenten in Adobe Journey Optimizer Email Designer kunt gebr
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=nl-NL)
 
 Gebruik visuele fragmenten voor e-mailontwerp
 
@@ -103,7 +103,7 @@ Ontdek hoe u herbruikbare en aanpasbare componenten kunt maken met behulp van vi
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=nl-NL)
 
 Koppelingen toevoegen en berichten bijhouden
 
@@ -113,7 +113,7 @@ Kom te weten hoe te om verbindingen toe te voegen, het volgen toe te laten, en h
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=nl-NL)
 
 Persoonlijke voorstellen toevoegen aan e-mails
 
@@ -123,7 +123,7 @@ Leer hoe u Adobe Journey Optimizer-Beslissingsbeheer kunt gebruiken om persoonli
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=nl-NL)
 
 De tekstversie van een e-mailbericht maken en aanpassen
 
@@ -133,7 +133,7 @@ Begrijp hoe u de onbewerkte tekstversie van een e-mailbericht maakt en bewerkt, 
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=nl-NL)
 
 Metagegevens toevoegen aan uw e-mailinhoud
 
@@ -148,7 +148,7 @@ Verbeter de leesbaarheid en toegankelijkheid van e-mail door metagegevens zoals 
 
 ::: landingskaarten-container
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=nl-NL)
 
 Aan de slag met goedkeuringen
 
@@ -158,7 +158,7 @@ Leer hoe u goedkeuringswerkstromen voor reizen en campagnes in Adobe Journey Opt
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=nl-NL)
 
 Goedkeuringsbeleid maken en beheren
 
@@ -168,7 +168,7 @@ Stapsgewijze handleiding voor het maken, configureren en activeren van goedkeuri
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=nl-NL)
 
 Goedkeuring aanvragen voor reizen en campagnes
 
@@ -178,7 +178,7 @@ Begrijp hoe u goedkeuringen kunt aanvragen en beheren voordat u reizen en campag
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=nl-NL)
 
 Verzoeken bekijken en goedkeuren
 
@@ -193,7 +193,7 @@ Leer hoe u reizen en campagnes waarvoor goedkeuring is vereist kunt beoordelen, 
 
 ::: landingskaarten-container
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=nl-NL)
 
 Aan de slag met verbeterde rapportage
 
@@ -203,7 +203,7 @@ Leer hoe u met Customer Journey Analytics verbeterde rapportagefuncties van Adob
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=nl-NL)
 
 Uitgebreide lijst met statistieken
 
@@ -213,7 +213,7 @@ Ontdek de uitgebreide lijst met maatstaven die zijn ingedeeld naar type levering
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=nl-NL)
 
 Uw rapporten beheren
 
@@ -223,7 +223,7 @@ Ontdek hoe u rapportperiodes kunt definiëren, gegevens kunt exporteren, metrisc
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=nl-NL)
 
 Overzicht van campagnerapporten
 
@@ -233,7 +233,7 @@ Toegang tot kanaalspecifieke inzichten zoals kliks, indrukken en leveringsstatus
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=nl-NL)
 
 Overzicht van reisrapporten
 
@@ -243,7 +243,7 @@ Kies voor gedetailleerde metriek voor klantreizen via verschillende kanalen, zoa
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=nl-NL)
 
 Overzichtsrapport voor campagnes en reizen
 
@@ -258,7 +258,7 @@ Analyseer verkeer, betrokkenheidsmetriek, en uitgaande fouten over campagnes, re
 
 ::: landingskaarten-container
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=nl-NL)
 
 Hoe te om Besluiten te creëren en te beheren
 
@@ -268,7 +268,7 @@ Leer om, besluiten tot stand te brengen te vormen en te beheren gebruikend de Mo
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=nl-NL)
 
 Hoe te om de Selectie van de Aanbieding te vormen
 
@@ -278,7 +278,7 @@ Ontdek hoe u selectiemethoden voor aanbiedingen kunt configureren, waaronder pri
 ::
 
 ::
-![ pictogram ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ pictogram ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=nl-NL)
 
 Aanbiedingsbesluiten simuleren
 
