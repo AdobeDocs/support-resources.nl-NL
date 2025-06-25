@@ -60,7 +60,7 @@ _[Knop Secundair](https://www.adobe.com/)_
 
 De volgende alinea wordt niet correct weergegeven in VSC-voorvertoning. Ik weet niet waarom.
 
-Als uw wachtwoord door [!DNL Adobe] wordt beheerd, kunt u [ het wachtwoord in uw rekening van Adobe ](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"} veranderen.
+Als uw wachtwoord door [!DNL Adobe] wordt beheerd, kunt u [ het wachtwoord in uw rekening van Adobe ](https://helpx.adobe.com/nl/manage-account/using/change-or-reset-password.html){target="_blank"} veranderen.
 
 ## Typen opmerkingen
 
