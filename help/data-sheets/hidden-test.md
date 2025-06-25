@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium downloaden"
 badgeExam: label="Examen ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 98%
+source-wordcount: '1258'
+ht-degree: 95%
 
 ---
 
 # Verborgen testpagina
 
-Opnieuw proberen? Ik zou door Jenkins moeten komen. 31 maart
-
-15:02
+Publicatietest. 25 juni 2025 om 10.20 uur.
 
 ## Probleemtabellen met afbeeldingen
 
@@ -62,7 +60,7 @@ _[Knop Secundair](https://www.adobe.com/)_
 
 De volgende alinea wordt niet correct weergegeven in VSC-voorvertoning. Ik weet niet waarom.
 
-Als uw wachtwoord wordt beheerd door [!DNL Adobe], kunt u [het wachtwoord in uw Adobe-account wijzigen](https://helpx.adobe.com/nl/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Als uw wachtwoord door [!DNL Adobe] wordt beheerd, kunt u [ het wachtwoord in uw rekening van Adobe ](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"} veranderen.
 
 ## Typen opmerkingen
 
@@ -123,7 +121,7 @@ Een badge is een gekleurd label dat wordt gebruikt als contentindicator. U kunt 
 
 [!BADGE Badge-voorbeeld]
 
-Er zijn twee typen of badges, elk met een verschillende syntaxis:
+Er zijn twee typen badges, elk met een verschillende syntaxis:
 
 * **Metadata**: geeft de badge bovenaan een pagina weer
 * **Inline**: geeft de badge weer waar de syntaxis zich bevindt
@@ -160,10 +158,10 @@ Badges gebruiken kleuren die zijn gedefinieerd in Adobe Spectrum:
 | Type | Badge |
 |---|---|
 | Informatief (standaard) | [!BADGE Bèta]{type=Informative url="https://www.example.com"} |
-| Positief | [!BADGE Nieuwe functie]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negatief | [!BADGE Stopzetten]{type=negative tooltip="This feature is now end of life"} |
-| Neutraal | [!BADGE Misschien]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Waarschuwing | [!BADGE Opgelet]{type=Caution tooltip="Yellow status"} |
+| Positief | [!BADGE  Nieuwe Eigenschap ]{type=Positive url="https://www.example.com" tooltip="Ga naar example.com"} |
+| Negatief | [!BADGE  beëindigde ]{type=negative tooltip="Deze functie is nu levenseinde"} |
+| Neutraal | [!BADGE  misschien ]{type=Neutral tooltip="Een rider viel van het paard..."} |
+| Waarschuwing | [!BADGE  Aandacht ]{type=Caution tooltip="Gele status"} |
 
 Syntaxisvoorbeelden
 
