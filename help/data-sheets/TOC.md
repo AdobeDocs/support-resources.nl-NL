@@ -4,9 +4,9 @@ user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Ad
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 92%
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
 + De Crux-podcast{#crux-podcast}
    + [Afl. 1 - Billy Georgaros](episode1.md)
-
      [Afl. 2 - Karrie Benjamin](episode2.md)
      [Afl. 3 - George Kotsinis](episode3.md)
      [Afl. 4 - Jessica Ouellette](episode4.md)
@@ -25,7 +24,7 @@ ht-degree: 92%
      [Ep.7 - Chris Diaz](episode7.md)
      [Ep.8 - Vincent Lee](episode8.md)
      [Afl. 9 - Ren Wightman](episode9.md)
-+ Adobe-supportplannen vóór 16 juni 2022{#prior-plans}
++ Adobe-ondersteuningslidmaatschappen vóór 16 juni 2022{#prior-plans}
    + [Overzicht van eerdere lidmaatschappen voor Adobe Support](overview-prior-plans.md)
    + Experience Cloud Services {#data-sheets}
       + [Overzicht van Adobe-ondersteuning](dx-overview.md)
@@ -34,8 +33,8 @@ ht-degree: 92%
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Handleiding voor klantenondersteuning](support-guide.md)
-   + Creative Cloud en Document Cloud Services {#dme-data-sheets}
-      + [Creative Cloud en Document Cloud Services](dme-overview.md)
+   + Creative Cloud- en Document Cloud-services {#dme-data-sheets}
+      + [Creative Cloud- en Document Cloud-services](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Bedrijven](dme-business.md)
       + [Enterprise](dme-enterprise.md)
@@ -55,7 +54,7 @@ ht-degree: 92%
 + [Verborgen tabeleinden](hidden/table-breaks.md)
 + [Test voor verborgen opmerking](hidden/note-test.md)
 + [Verborgen omleidingen](hidden/redirect-tests.md)
-+ Sectie testen {#test-section}
++ Sectie Testen {#test-section}
    + [Alleen nieuwe automatische activering verborgen](hidden/autoactivate.md)
 
 <!--
