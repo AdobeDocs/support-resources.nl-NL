@@ -19,7 +19,7 @@ Juni 27
 
 <ol><li>Gebruik de ` {{name}} ` variabele.</li></ol>
 
-<ol><li>Gebruik &amp;trace;&amp;trace;<code>name</code>&amp;break;&amp; &amp;break; variable.</li></ol>
+<ol><li>Gebruik &trace;&trace;<code>name</code>&break;&amp; &break; variable.</li></ol>
 
 ## Geneste test
 
@@ -157,4 +157,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Voor meer gedetailleerde instructies en stappen om deze stappen van Widget UI te verwezenlijken, gelieve {de documentatie van 0} Widget direct ](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} van verwijzingen te voorzien.[
+Voor meer gedetailleerde instructies en stappen om deze stappen van Widget UI te verwezenlijken, gelieve {de documentatie van 0} Widget direct [&#128279;](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} van verwijzingen te voorzien.
