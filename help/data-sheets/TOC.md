@@ -4,9 +4,9 @@ user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Ad
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
 + De Crux-podcast{#crux-podcast}
    + [Afl. 1 - Billy Georgaros](episode1.md)
-
      [Afl. 2 - Karrie Benjamin](episode2.md)
      [Afl. 3 - George Kotsinis](episode3.md)
      [Afl. 4 - Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Verborgen overzicht](hidden-overview.md)
 + [Verborgen probleemoplossing](hidden-trouble.md)
-+ [Functionele posten UGP-13342](hidden-funky-headings.md)
++ [Funky kopteksten UGP-13342](hidden-funky-headings.md)
 + [Verborgen - slash in codeblok](hidden/slashes-in-code-blocks.md)
 + [Verborgen nieuwe test](hidden-new-test.md)
 + [Verborgen nieuwe test 2](hidden-new-test-2.md)
