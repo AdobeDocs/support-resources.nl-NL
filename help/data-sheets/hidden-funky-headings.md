@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
+source-git-commit: 3f2ed618aa8e5d738315a0ff114551c183761a7d
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Met de tagbibliotheken Granite, CQ en Sling hebt u toegang tot specifieke functi
 
 Dit is een vette kop hierboven.
 
-woensdag 29 juli 2025
+donderdag 30 juli 2025
 
 ## *Cursieve rubriek*
 
