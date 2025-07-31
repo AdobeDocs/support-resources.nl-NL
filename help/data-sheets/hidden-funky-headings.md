@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Met de tagbibliotheken Granite, CQ en Sling hebt u toegang tot specifieke functi
 
 ## **Vette Kop**
 
-Dit is een vetgedrukte kop
+Dit is een vette kop hierboven.
+
+woensdag 29 juli 2025
 
 ## *Cursieve rubriek*
 
-Dit is een cursieve kop.
+Dit is een cursieve kop hierboven.
 
 ## Graniet-tagbibliotheek {#granite-tag-library}
 
