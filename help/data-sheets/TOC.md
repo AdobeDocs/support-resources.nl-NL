@@ -16,7 +16,6 @@ ht-degree: 98%
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
 + De Crux-podcast{#crux-podcast}
    + [Afl. 1 - Billy Georgaros](episode1.md)
-
      [Afl. 2 - Karrie Benjamin](episode2.md)
      [Afl. 3 - George Kotsinis](episode3.md)
      [Afl. 4 - Jessica Ouellette](episode4.md)
