@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Diatest
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nieuwe sectie 30 januari
 
