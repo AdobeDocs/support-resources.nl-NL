@@ -35,7 +35,7 @@ syntaxis één:
 
 gerenderd:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 syntaxis twee:
@@ -48,7 +48,7 @@ syntaxis twee:
 
 gerenderd:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >[ analyseer project ](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
