@@ -3,9 +3,9 @@ user-guide-title: Bronnen voor Success-lidmaatschappen
 user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Verborgen overzicht](hidden-overview.md)
-+ [Verborgen samenvouwen](hidden-collapse.md)
-+ [Verborgen probleemoplossing](hidden-trouble.md)
-+ [Funky kopteksten UGP-13342](hidden-funky-headings.md)
-+ [Verborgen - slash in codeblok](hidden/slashes-in-code-blocks.md)
-+ [Verborgen nieuwe test](hidden-new-test.md)
-+ [Verborgen nieuwe test 2](hidden-new-test-2.md)
-+ [Verborgen testbestand](hidden-test.md)
-+ [Oplossingen voor verborgen fouten](hidden/bug-fixes.md)
-+ [Verborgen EDS-testtegel](hidden/test-page.md)
-+ [Test voor verborgen omleidingen](hidden/test-redirection.md)
-+ [Handleiding voor verborgen syntaxis](hidden/syntax-style-guide.md)
-+ [Test voor verborgen tabellen](hidden/tables.md)
-+ [Verborgen tabeleinden](hidden/table-breaks.md)
-+ [Test voor verborgen opmerking](hidden/note-test.md)
-+ [Verborgen omleidingen](hidden/redirect-tests.md)
-+ Sectie Testen {#test-section}
-   + [Alleen nieuwe automatische activering verborgen](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
