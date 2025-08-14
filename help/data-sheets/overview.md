@@ -2,10 +2,10 @@
 title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
-source-wordcount: '2203'
-ht-degree: 100%
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
+workflow-type: tm+mt
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Named Support Contacts kunnen problemen indienen via alle beschikbare kanalen en
 
 | Amerika | Europa, Midden-Oosten en Afrika | Azië, Stille Oceaan | Japan |
 |---|---|---|---|
-| 6:00 - 17:30 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur |
+| 18:00 - 17:00 uur:30 | 9:00 - 17:00 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur |
 
 ## Levenscyclus van supportcases - Binnenkort beschikbaar
 
@@ -131,7 +131,7 @@ In dit scenario, waarbij extra informatie van een klant is vereist, worden volge
 * Op de eerste, derde en vijfde dag nadat de status is ingesteld op Wachten op reactie wordt de klant in vervolgmeldingen om de aanvullende informatie verzocht.
 * Als de klant zes dagen nadat de status op Wachten op reactie is ingesteld, niet heeft geantwoord, wordt de case gesloten en wordt hiervan melding gemaakt.
 
-Klanten kunnen een gesloten case binnen veertien dagen opnieuw openen om de communicatie voort te zetten. Na veertien dagen kan een nieuwe supportcase worden geopend om de communicatie over een eerder gesloten case voort te zetten.
+Klanten kunnen binnen 14 dagen een gesloten kwestie op Experience League opnieuw openen om door te gaan met de communicatie. Na 14 dagen kan een nieuwe steunzaak worden geopend om de communicatie over een eerder gesloten zaak voort te zetten. Let op: het beantwoorden van een e-mail met betrekking tot een gesloten ticket zal het niet opnieuw openen.
 
 **Technicus biedt een oplossing**
 
