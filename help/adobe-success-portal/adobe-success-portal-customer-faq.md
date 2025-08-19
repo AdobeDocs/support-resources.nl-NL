@@ -12,6 +12,7 @@ ht-degree: 0%
 # [!DNL Adobe Success] portal: veelgestelde vragen voor klanten
 
  
+
 ## Wat is het bereik van de [!DNL Adobe Success] portal?
 
 Het [!DNL Adobe Success] -portaal is een nieuw gecentraliseerd, klantgericht Adobe-platform dat is ontworpen om de ervaring na de verkoop te verenigen voor ondersteuning, succes en betrokkenheid. De Alpha-release is gericht op het bieden van een consistente ervaring die hulpmiddelen en workflows consolideert die eerder zijn verspreid over meerdere platforms (bijvoorbeeld Support Portal, handmatige Ultimate Success-artefacten). Het doel is te stroomlijnen hoe de klanten met Adobe door hun levenscyclus-van onboarding aan vernieuwing-terwijl het verbeteren van transparantie, zelfbediening, en waardeverwezenlijking in dienst nemen.
