@@ -1,27 +1,27 @@
 ---
 title: Overzicht van ondersteuning en inzichten
-description: Het [!UICONTROL Support & Insights] dashboard van de Adobe Success-portal biedt toegang tot technische bronnen, bevindingen van een milieu-scan en hulpprogramma's voor het beheren van gevallen.
+description: /[!DNL Adobe Success/] Het dashboard [!UICONTROL Support & Insights] van de portal biedt toegang tot technische bronnen, bevindingen van een milieuscan en hulpprogramma's voor het beheren van case-scans.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
+source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
 # Overzicht van ondersteuning en inzichten
 
-Het **[!UICONTROL Support & Insights]** dashboard van het Adobe Success portaal verleent toegang tot technische middelen, milieu aftasten bevindingen, en case management hulpmiddelen. Alle Adobe-oplossingen worden weergegeven als afzonderlijke productblokken.
-
-Gebruik *filter* dropdown bij de bovenkant van de pagina om op een specifiek product te concentreren.
+Het **[!UICONTROL Support & Insights]** -dashboard van de [!DNL Adobe Success] -portal biedt toegang tot technische bronnen, bevindingen van omgevingen en hulpmiddelen voor het beheren van case-scans. Alle Adobe-oplossingen worden weergegeven als afzonderlijke productblokken.
 
 Om tot deze pagina toegang te hebben, klik direct het ![ steun-en-inzichten-pictogram ](/help/adobe-success-portal/assets/support-and-insight-icon.png) pictogram van het linkernavigatievenster van de portalhomepage.
 
 ![ steun-en-inzichten-landing-page ](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+Gebruik *filter* dropdown bij de bovenkant van de pagina om op een specifiek product te concentreren.
+
 Elk productegel heeft belangrijke metriek, zoals **[!UICONTROL Findings]**, **[!UICONTROL Open and Closed Cases]**, en **[!UICONTROL Major Issues]**. U kunt op om het even welk van deze metriek klikken om rechtstreeks aan zijn specifieke onderafdeling te navigeren, waar u gedetailleerde steuninzichten met betrekking tot uw product kunt onderzoeken.
 
-## Opname {#snapshot}
+## [!UICONTROL Snapshot] {#snapshot}
 
 Het tabblad **[!UICONTROL Snapshot]** biedt uitgebreide analyses van uw gevallen, bevindingen en waarschuwingen. Om tot dit lusje toegang te hebben, klik de *productnaam* op om het even welke tegel.
 
@@ -31,11 +31,11 @@ Met de knop **[!UICONTROL View all]** in elke analyse gaat u naar het bijbehoren
 
 ![ momentopname-lusje ](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## Bevindingen {#findings}
+## [!UICONTROL Findings] {#findings}
 
 Op het tabblad **[!UICONTROL Findings]** worden problemen gemarkeerd die zijn aangetroffen in de verschillende prestaties, beveiliging en functionaliteit. Berichten worden gemarkeerd op basis van risiconiveau, status en tijd sinds de laatste scan.
 
-Klik op een item in de lijst om de status, het risiconiveau, de oorzaak, de symptomen en onze aanbevelingen te bekijken. Voor meer informatie, verwijs naar onze documentatie over [ leidt bevindingen in het portaal van het Succes van Adobe ].
+Klik op een item in de lijst om de status, het risiconiveau, de oorzaak, de symptomen en onze aanbevelingen te bekijken. Voor meer informatie, verwijs naar onze documentatie over [ leidt bevindingen in  [!DNL Adobe Success]  portaal ](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![ bevindingen-lusje ](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -43,7 +43,7 @@ Navigeer rechtstreeks vanuit een productegel op de pagina **[!UICONTROL Support 
 
 ![ bevindingen-van-steun-en-inzichten-kaart ](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## Casebeheer {#case-management}
+## [!UICONTROL Case Management] {#case-management}
 
 Op het tabblad **[!UICONTROL Case Management]** wordt een lijst met open en gesloten gevallen weergegeven. Klik op een *[!UICONTROL Case Number]* om aanvullende details over het probleem weer te geven en acties die betrekking hebben op hoofdletters en kleine letters rechtstreeks te beheren.
 
