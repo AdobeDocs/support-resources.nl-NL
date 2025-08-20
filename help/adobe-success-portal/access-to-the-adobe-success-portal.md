@@ -1,9 +1,10 @@
 ---
 title: Heb toegang tot het  [!DNL Adobe Success]  portaal
 description: Leer hoe te om gevallen in het  [!DNL Adobe Success]  portaal te beheren.
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -14,9 +15,9 @@ In deze handleiding wordt uitgelegd hoe u zich aanmeldt bij de [!DNL Adobe Succe
 
 U ontvangt een bericht van het **[!UICONTROL Success]** portalteam dat uw toegang bevestigt. Dit bericht bevat aanmeldingsgegevens.
 
-1. Ga naar https://experience.adobe.com/.
+1. Ga naar [ https://experience.adobe.com/ ](https://experience.adobe.com/).
 1. Meld u aan met uw Adobe ID.
-1. Selecteer het pictogram [!DNL Adobe Success] portal (Alpha).
+1. Selecteer het pictogram **[!UICONTROL Success portal (Alpha)]** .
 
    ![ alpha-succes-portaal-alfa ](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ U kunt de knop **[!UICONTROL Alpha Feedback]** op de portal gebruiken om feedbac
 >Het feedbackgereedschap is geen speciaal ondersteuningskanaal. Het is niet geschikt voor dringende aanmeldingsproblemen.
 
 ![ adobe-success-portaal-huis ](assets/adobe-success-portal-home.png)
-
-
