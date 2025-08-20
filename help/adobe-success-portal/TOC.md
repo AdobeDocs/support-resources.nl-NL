@@ -6,17 +6,18 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
+source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 2%
+source-wordcount: '60'
+ht-degree: 1%
 
 ---
 
 
 # Adobe Success-portal {#adobe-success-portal}
 
-- [Inleiding aan  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Inleiding aan het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Toegang tot het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [Veelgestelde vragen van klant](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Zakelijk persoon {#business-persona}
    - [Belangrijkste functies voor bedrijfspersoneel](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
@@ -28,4 +29,6 @@ ht-degree: 2%
    - [Belangrijkste functies voor technisch personeel](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - Ondersteuning en inzichten {#support-and-insights}
       - [Overzicht van ondersteuning en inzichten](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
+      - [Creeer en beheer gevallen in het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [Beheer bevindingen in het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Woordenlijst](/help/adobe-success-portal/glossary.md)
