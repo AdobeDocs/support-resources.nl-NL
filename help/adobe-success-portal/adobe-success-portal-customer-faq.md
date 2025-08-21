@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Success] portal: veelgestelde vragen aan klanten'
 description: Dit FAQ artikel beantwoordt vaak gestelde vragen over het  [!DNL Adobe Success]  portaal.
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # [!DNL Adobe Success] portal: veelgestelde vragen voor klanten
 
  
-
 ## Wat is het bereik van de [!DNL Adobe Success] portal?
 
 Het [!DNL Adobe Success] -portaal is een nieuw gecentraliseerd, klantgericht Adobe-platform dat is ontworpen om de ervaring na de verkoop te verenigen voor ondersteuning, succes en betrokkenheid. De Alpha-release is gericht op het bieden van een consistente ervaring die hulpmiddelen en workflows consolideert die eerder zijn verspreid over meerdere platforms (bijvoorbeeld Support Portal, handmatige Ultimate Success-artefacten). Het doel is te stroomlijnen hoe de klanten met Adobe door hun levenscyclus-van onboarding aan vernieuwing-terwijl het verbeteren van transparantie, zelfbediening, en waardeverwezenlijking in dienst nemen.
@@ -35,7 +34,7 @@ Raadpleeg [!DNL Adobe Success] voor meer informatie over de [[!UICONTROL Portal 
 
 ## Hoe krijg ik toegang tot het portaal?
 
-De [!DNL Adobe Success] -portal wordt gehost op Adobe Experience Cloud. U hebt toegang tot Experience Cloud nodig om toegang te krijgen tot de [!DNL Adobe Success] -portal, die op IMS-organisatieniveau is ingesteld. Zie [ deze gids ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) voor stappen op hoe te om tot het portaal toegang te hebben.
+De [!DNL Adobe Success] -portal wordt gehost op Adobe Experience Cloud. U hebt toegang tot Experience Cloud nodig om toegang te krijgen tot de [!DNL Adobe Success] -portal, die op IMS-organisatieniveau is ingesteld. Zie [ toegang tot het  [!DNL Adobe Success]  portaal ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) voor stappen op hoe te om tot het portaal toegang te hebben.
 
 De toegang tot portaalsites voor de Alpha is beperkt tot een vooraf gedefinieerde lijst met gebruikers die zijn aangewezen om deel te nemen aan het Alpha-programma. Om meer over te leren wie van uw organisatie toegang heeft, en om extra gebruikers te verzoeken worden voorzien van toegang, te bereiken gelieve uit aan het team van het Product gebruikend [ het kanaal van de Teams van Alpha ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
