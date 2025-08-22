@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL Action Plan]'
 description: /[!UICONTROL Action Plan/] biedt een gestructureerde weergave van hoe uw KBO's worden uitgevoerd. Het omvat bijbehorende versnellers en activiteiten die het team van Adobe heeft gepland, voltooid, of werkt actief aan om u te helpen uw doelstellingen bereiken.
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 0%
+source-wordcount: '186'
+ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Action Plan]
 
@@ -17,7 +17,7 @@ Om naar **[!UICONTROL Action Plan]** te gaan, klik het ![ actie-plan-pictogram ]
 
 De pagina is ingedeeld in twee primaire tabbladen:
 
-## 1. [!UICONTROL Key Business Objectives]
+## [!UICONTROL Key Business Objectives]
 
 Dit lusje toont al uw KBOs met hun overeenkomstige versnellers en activiteiten.
 
@@ -25,18 +25,18 @@ Dit lusje toont al uw KBOs met hun overeenkomstige versnellers en activiteiten.
 
 Klik op een KBO in de lijst om de gedetailleerde weergave van het doel te openen. U kunt ook een gekoppelde **[!UICONTROL Activity]** of een **[!UICONTROL Accelerator]** selecteren om specifieke informatie weer te geven, zoals:
 
-* Een beschrijving
+* Beschrijving
 * Huidige status
 * Geplande of werkelijke einddatum
 * Betrokken Adobe-belanghebbenden
 
 ![ actie-plan-kbo-tab-over-activiteit ](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## 2. [!UICONTROL Activities]
+## [!UICONTROL Activities]
 
 Op dit tabblad wordt een lijst weergegeven met activiteiten die niet zijn gekoppeld aan KBO&#39;s. Elke activiteit omvat:
 
-* Een beschrijving
+* Beschrijving
 * Huidige status
 * Betrokken Adobe-belanghebbenden
 
