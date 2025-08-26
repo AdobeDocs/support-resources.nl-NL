@@ -5,7 +5,7 @@ exl-id: 76bb7345-6827-4a42-9784-441f2875435e
 source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 1%
+ht-degree: 97%
 
 ---
 
@@ -13,22 +13,22 @@ ht-degree: 1%
 
 | Term | Definitie |
 |--------------- |------------ |
-| Activiteit | Een specifieke taak of betrokkenheid die wordt uitgevoerd om de voortgang naar de doelstellingen van de klant te sturen. |
-| Goedkeuring | Het proces van klanten die actief een product of de dienst in hun werkschema&#39;s gebruiken en integreren. |
-| CSM (Customer Success Manager) | Een aangewezen strategische partner die met klanten op succesplanning samenwerkt om productgoedkeuring, industrie gedachte leiderschap, en beste praktijken te drijven. |
-| Aangewezen | Een resource of rol die specifiek is toegewezen aan een klant of account voor gerichte ondersteuning of betrokkenheid. |
-| Enablement | Opleiding, hulpmiddelen, en middelen die worden verstrekt om teams of klanten te helpen producten effectief en vertrouwelijk gebruiken. |
+| Activiteit | Een specifieke taak of betrokkenheid die wordt uitgevoerd om de voortgang naar de doelstellingen van de klant te stimuleren. |
+| Acceptatie | Het proces waarbij klanten een product of service actief gebruiken en integreren in hun workflows. |
+| Customer Success Manager (CSM) | Een aangewezen strategische partner die samen met klanten werkt aan succesplanning om productacceptatie, gedachtegoedleiderschap in de sector en best practices te stimuleren. |
+| Aangewezen | Een bron of rol die specifiek is toegewezen aan een klant of account voor gerichte ondersteuning of betrokkenheid. |
+| Activering | Trainingen, tools en bronnen die teams of klanten helpen om producten effectief en met vertrouwen te gebruiken. |
 | Omgeving | De technische opstelling of werkruimte waar een klant het product gebruikt. |
-| Expert Success | Reactieve technische ondersteuning, inbegrepen bij alle Adobe DX-licenties. |
-| KBO (belangrijkste bedrijfsdoelstelling) | Een doel op hoog niveau dat een klant via zijn partnerschap met Adobe wil bereiken. |
-| KPI (Key Performance Indicator) | Een meetbare waarde die aangeeft hoe effectief een doel of doel wordt bereikt. |
-| KAART (wederzijds actieplan) | Een verenigd plan voor hoe een klant hun KBOs met de technologie van Adobe zal bereiken. Omvat strategische prioriteiten, actieplan, waardetracker, partnerschapgovernance en servicebeoordeling. |
-| Looptijd | De groeifase of de diepte van het gebruik van het product van een klant, vaak gekoppeld aan adoptie en optimalisatie. |
-| SSM (Support Service Manager) | Een aangewezen klantenadvocaat die het onderzoek van gemelde incidenten coördineert, met technische deskundigen samenwerkt om kwesties op te lossen en verenigbare updates te verstrekken. |
-| Accelerator met succes | Korte, impactvolle contracten van zakelijke en technische experts om klanten te helpen om te plannen voor waarde, teams in te schakelen en om te gaan met routekaarten. |
-| Opwarmpod | Een model voor collectieve support waarbij een team van experts zich snel mobiliseert om complexe klantproblemen op te lossen. |
-| TAD (technisch accountdirecteur) | De toonaangevende technische bron van een klant, die leiderschapstoezicht biedt, uitvoerende betrokkenheid in eigendom heeft en governance verzekert. Beschikbaar als Ultimate Success-invoegtoepassing. |
-| TAM (Technical Account Manager) | Een aangewezen Adobe teamlid dat pro-actief technisch leiderschap, gepersonaliseerde kennis het delen, en zaken-kritieke inzichten verstrekt. |
-| Ultimate Success | Een witte-handschoensteun en klant-success plan die strategisch leiderschap en proactieve technische gezondheidsexpertise biedt voor het aanbieden van hoogwaardige digitale ervaringen. |
-| Hoofdletters gebruiken | Een specifiek, trackable scenario of toepassing van het product dat klanten toelaat om hun gewenste resultaten te bereiken. |
-| Waarde | Het tastbare voordeel of effect dat klanten hebben bij het gebruik van het product, vaak in verband met efficiëntie, groei of investeringsrendement. |
+| Expertsuccess | Reactieve technische ondersteuning, inbegrepen bij alle Adobe DX-licenties. |
+| Key Business Objective (KBO) | Een doel op hoog niveau dat een klant via zijn of haar partnerschap met Adobe wil bereiken. |
+| Key Performance Indicator (KPI) | Een meetbare waarde die aangeeft hoe effectief een doel of doelstelling wordt bereikt. |
+| Mutual Action Plan (MAP) | Een uniform plan voor de manier waarop een klant zijn of haar KBO&#39;s kan behalen met Adobe-technologie. Omvat strategische prioriteiten, actieplan, waardetracker, partnerschapgovernance en servicebeoordeling. |
+| Looptijd | De groeifase van een klant of de mate waarin het product wordt gebruikt, vaak gekoppeld aan acceptatie en optimalisatie. |
+| Support Service Manager (SSM) | Een aangewezen klantenambassadeur die het onderzoek van gemelde incidenten coördineert en met technische deskundigen samenwerkt om kwesties op te lossen en uniforme updates te verstrekken. |
+| Success Accelerator | Korte, impactvolle betrokkenheid van zakelijke en technische experts om klanten te helpen plannen voor waarde, teams in te schakelen en roadmaps te implementeren. |
+| Swarming Pod | Een model voor samenwerkingsondersteuning waarbij snel een team van experts wordt gemobiliseerd om complexe problemen van klanten op te lossen. |
+| Technical Account Director (TAD) | De belangrijkste technische bron van de klant, die leiderschapsoverzicht biedt, verantwoordelijk is voor de betrokkenheid van het management en zorgt voor governance. Beschikbaar als Ultimate Success-add-on. |
+| Technical Account Manager (TAM) | Een speciaal aangewezen Adobe-teamlid dat proactief technisch leiderschap, gepersonaliseerde kennisdeling en bedrijfskritische inzichten biedt. |
+| Ultimate Success | Een white glove-ondersteunings- en klantensuccesplan dat strategisch leiderschap en proactieve technische gezondheidsexpertise biedt voor het leveren van hoogwaardige digitale ervaringen. |
+| Gebruiksscenario | Een specifiek, traceerbaar scenario of toepassing van het product waarmee klanten de gewenste resultaten kunnen behalen. |
+| Waarde | Het tastbare voordeel of de impact die klanten ervaren door het gebruik van het product, vaak gekoppeld aan efficiëntie, groei of investeringsrendement. |
