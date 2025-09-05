@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Success-portal
-user-guide-description: Ontdek verschillende bronnen met betrekking tot het Adobe Success-portaal voor meer informatie.
+user-guide-description: Bekijk verschillende bronnen met betrekking tot de Adobe Success-portal voor meer informatie.
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
@@ -8,18 +8,18 @@ hide: true
 index: false
 role: User, Admin
 source-git-commit: 53a3354794afaf700613a073025129d641744fab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Success-portal {#adobe-success-portal}
 
-- [Inleiding aan  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
-- [Toegang tot het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
-- [Veelgestelde vragen van klant](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
+- [Inleiding tot [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Toegang tot de [!DNL Adobe Success] portal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
+- [Veelgestelde vragen van klanten](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Zakelijke persona {#business-persona}
    - [Belangrijkste functies voor bedrijfspersonae](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
    - [[!UICONTROL Key Business Objectives]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
@@ -30,6 +30,6 @@ ht-degree: 45%
    - [Belangrijkste functies voor technische personae](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - Ondersteuning en inzichten {#support-and-insights}
       - [Overzicht van ondersteuning en inzichten](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
-      - [Creeer en beheer gevallen in het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
-      - [Beheer bevindingen in het  [!DNL Adobe Success]  portaal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
+      - [Cases in de [!DNL Adobe Success] portal maken en beheren](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [Bevindingen in de [!DNL Adobe Success] portal beheren](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Woordenlijst](/help/adobe-success-portal/glossary.md)

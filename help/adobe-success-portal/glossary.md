@@ -1,11 +1,11 @@
 ---
 title: Woordenlijst
-description: Een inzameling van zeer belangrijke terminologieën binnen het  [!DNL Adobe Success]  portaal en hun definities.
+description: Een verzameling van belangrijke terminologieën binnen de [!DNL Adobe Success] portal en hun definities.
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
 source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

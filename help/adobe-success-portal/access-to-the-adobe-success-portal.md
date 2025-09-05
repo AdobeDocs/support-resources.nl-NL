@@ -1,34 +1,34 @@
 ---
-title: Heb toegang tot het  [!DNL Adobe Success]  portaal
-description: Leer hoe te om gevallen in het  [!DNL Adobe Success]  portaal te beheren.
+title: Toegang tot de [!DNL Adobe Success] portal
+description: Leer hoe u cases beheert in de [!DNL Adobe Success] portal.
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Open de portal [!DNL Adobe Success]
+# Open de [!DNL Adobe Success] portal
 
-In deze handleiding wordt uitgelegd hoe u zich aanmeldt bij de [!DNL Adobe Success] -portal en hulp ontvangt als er toegangsproblemen optreden.
+In deze handleiding wordt uitgelegd hoe u zich kunt aanmelden bij de [!DNL Adobe Success]-portal en hoe u hulp kunt krijgen als u problemen ondervindt met de toegang.
 
-U ontvangt een bericht van het **[!UICONTROL Success]** portalteam dat uw toegang bevestigt. Dit bericht bevat aanmeldingsgegevens.
+U ontvangt een melding van het **[!UICONTROL Success]**-portalteam waarin uw toegang wordt bevestigd. Dit bericht bevat aanmeldingsgegevens.
 
-1. Ga naar [ https://experience.adobe.com/ ](https://experience.adobe.com/).
+1. Ga naar [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Meld u aan met uw Adobe ID.
-1. Selecteer het pictogram **[!UICONTROL Success portal (Alpha)]** .
+1. Selecteer het pictogram **[!UICONTROL Success portal (Alpha)]**.
 
-   ![ alpha-succes-portaal-alfa ](assets/alpha-success-portal-alpha.png)
+   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
 
 
 1. Nadat u zich hebt aangemeld, ziet u vijf tabbladen:
 
-   ![ adobe-success-portal-tabs ](assets/adobe-success-portal-tabs.png)
+   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
 
 
-   * Home
+   * Startpagina
    * **[!UICONTROL Action Plan]**
    * **[!UICONTROL Value Tracker]**
    * **[!UICONTROL Support & Insights]**
@@ -36,12 +36,12 @@ U ontvangt een bericht van het **[!UICONTROL Success]** portalteam dat uw toegan
 
 ## Problemen oplossen en ondersteuning
 
-Als u problemen ervaart die tot het portaal of zijn eigenschappen toegang hebben, bereik uit aan ons team gebruikend het [ kanaal van de Teams van Alpha ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).   
+Als u problemen ondervindt bij het openen van de portal of de functies ervan, neem dan contact op met ons team via het [Alpha Teams-kanaal](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
 U kunt de knop **[!UICONTROL Alpha Feedback]** op de portal gebruiken om feedback te verzenden.
 
 >[!NOTE]
 >
->Het feedbackgereedschap is geen speciaal ondersteuningskanaal. Het is niet geschikt voor dringende aanmeldingsproblemen.
+>De feedbacktool is geen speciaal ondersteuningskanaal. Het is niet geschikt voor dringende aanmeldingsproblemen.
 
-![ adobe-success-portaal-huis ](assets/adobe-success-portal-home.png)
+![adobe-success-portal-home](assets/adobe-success-portal-home.png)

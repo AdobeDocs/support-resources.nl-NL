@@ -1,37 +1,36 @@
 ---
 title: '[!UICONTROL Engagement Plan]'
-description: Ontdek hoe [!UICONTROL Engagement Plan] de zichtbaarheid en communicatie van belanghebbenden verbetert door een gecentraliseerde weergave van uw Adobe-accountteam en serviceopties aan te bieden.
-source-git-commit: 35fbd5343830feb9d605ee9c3645b3a0b4498594
-workflow-type: tm+mt
+description: Ontdek hoe [!UICONTROL Engagement Plan] de zichtbaarheid en communicatie met stakeholders verbetert door een centraal overzicht te bieden van uw Adobe-accountteam en betrokkenheidsopties.
+exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Engagement Plan]
 
-In de sectie **[!UICONTROL Engagement Plan]** worden uitdagingen met betrekking tot de zichtbaarheid en communicatie van belanghebbenden opgelost. Het biedt een gecentraliseerde weergave van uw Adobe-accountteam en manieren om contact met hen op te nemen.
+In de sectie **[!UICONTROL Engagement Plan]** worden uitdagingen met betrekking tot de zichtbaarheid en communicatie van stakeholders opgelost. Dit biedt een centraal overzicht van uw Adobe-accountteam en de manieren waarop u met hen kunt communiceren.
 
-Om tot deze sectie toegang te hebben, klik het ![ overeenkomst-pictogram ](/help/adobe-success-portal/assets/engagement-icon.png) pictogram op het linkernavigatievenster van de portalstartpagina.
+Als u toegang wilt krijgen tot deze sectie, klikt u op het pictogram ![engagement-icoon](/help/adobe-success-portal/assets/engagement-icon.png) in het navigatiedeelvenster aan de linkerkant van de startpagina van de portal.
 
 Deze pagina bevat de volgende subsecties:
 
 ## [!UICONTROL Strategic Partners]
 
-Op dit tabblad wordt een lijst met uw Adobe-accountpartners weergegeven. Klik op elk contact om hun e-mail te bekijken, wanneer om hen te bereiken, en de overeenkomstige **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** zijn zij betrokken bij.
+Op dit tabblad wordt een lijst met uw Adobe-accountpartners weergegeven. Klik op elk contact om hun e-mailadres te bekijken, wanneer u contact met hen kunt opnemen en de bijbehorende **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** waarbij ze betrokken zijn.
 
-![ overeenkomst-plan-strategisch-partner ](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
+![engagement-plan-strategic-partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
 
 ## [!UICONTROL Framework]
 
-Dit tabblad geeft een overzicht van de structuur van uw betrokkenheid bij uw Adobe-team, inclusief de frequentie van vergaderingen, deelnemers van zowel uw organisatie als Adobe en de doelstellingen van elk aanraakpunt.
+Op dit tabblad wordt de structuur van uw samenwerking met uw Adobe-team beschreven, inclusief de frequentie van vergaderingen, deelnemers van zowel uw organisatie als Adobe en doelstellingen van elk betrokkenheidspunt.
 
-![ overeenkomst-plan-kader ](/help/adobe-success-portal/assets/engagement-plan-framework.png)
+![engagement-plan-framework](/help/adobe-success-portal/assets/engagement-plan-framework.png)
 
 ## [!UICONTROL Accelerator Catalog]
 
-Dit tabblad bevat een catalogus met beschikbare **[!UICONTROL Accelerators]** die in uw abonnement is opgenomen. Bekijk aanbiedingen en coördineer met uw Adobe-accountteam om een acceleratorservice aan te vragen.
+Dit tabblad bevat een catalogus met beschikbare **[!UICONTROL Accelerators]** die in uw lidmaatschap is opgenomen. Bekijk aanbiedingen en coördineer met uw Adobe-accountteam om een acceleratorservice aan te vragen.
 
-![ overeenkomst-plan-versneller-catalogus ](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
-
+![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)

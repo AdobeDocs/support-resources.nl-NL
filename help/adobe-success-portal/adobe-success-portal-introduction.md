@@ -1,19 +1,19 @@
 ---
-title: Inleiding aan  [!DNL Adobe Success]  portaal
-description: /[!DNL Adobe Success/] portal is een centraal portaal voor klanten om gevallen in te dienen, de voortgang van het ticket te bekijken, toegang te krijgen tot ondersteuning en planningsprogramma's.
+title: Inleiding tot [!DNL Adobe Success] portal
+description: De /[!DNL Adobe Success/]-portal is een uniforme portal voor klanten om cases in te dienen, de vooruitgang van tickets te bekijken en toegang te krijgen tot ondersteuning en planningstools.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
-# Inleiding tot [!DNL Adobe Success] portal
+# Inleiding tot [!DNL Adobe Success]-portal
 
-De portal van [!DNL Adobe Success] is uw persoonlijke hub voor het beheer van uw reis met Adobe. Hier vindt u ondersteuning, succesplanning en voortgangstracking op één plek. Zo vindt u gemakkelijker antwoorden, blijft u op de hoogte en bereikt u uw doelen.
+De [!DNL Adobe Success]-portal is uw persoonlijke hub voor het beheer van uw Adobe-traject. Hier vindt u ondersteuning, succesplanning en voortgangstracking op één plek. Zo vindt u gemakkelijker antwoorden, blijft u op de hoogte en bereikt u uw doelen.
 
-![ adobe-success-portal-homepage ](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
+![adobe-success-portal-homepage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
 ## Gebruikerspersonae
 
