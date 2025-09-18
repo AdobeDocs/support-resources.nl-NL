@@ -1,38 +1,38 @@
 ---
-title: Opmerkingen bij de release van Adobe Succesportaal
-description: De recentste versieinformatie voor  [!DNL Adobe Success portal].
+title: Aanvullende informatie voor Adobe Success-portal
+description: De nieuwste aanvullende informatie voor de [!DNL Adobe Success portal].
 feature: Release Notes
 source-git-commit: 1ba057f6d0fa08b1762d26dc48e0145edee7d062
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Adobe Success portal] Aanvullende informatie
 
-Deze releaseopmerkingen bevatten updates van de [!DNL Adobe Success portal] en bevatten:
+Deze aanvullende informatie bevat updates voor de [!DNL Adobe Success portal] en bevat:
 
-![ Nieuw ](../adobe-success-portal/assets/new.svg) - Nieuwe eigenschappen
-![ Repareren ](../adobe-success-portal/assets/fix.svg) - Oplossingen en verbeteringen
-![ Bug ](../adobe-success-portal/assets/bug.svg) - Bekende kwesties
+![Nieuw](../adobe-success-portal/assets/new.svg) - Nieuwe functies
+![Oplossing](../adobe-success-portal/assets/fix.svg) - Oplossingen en verbeteringen
+![Bug](../adobe-success-portal/assets/bug.svg) - Bekende problemen
 
-## 2,0
+## 2.0
 
-_sep 11, 2025_
+_11 september 2025_
 
-![ Nieuw ](../adobe-success-portal/assets/new.svg) voegde de volgende gebieden aan de **[!UICONTROL Activities Details]** pagina toe:
+![Nieuw](../adobe-success-portal/assets/new.svg) De volgende velden zijn toegevoegd aan de pagina **[!UICONTROL Activities Details]**:
 
-* **[!UICONTROL Priority]**: geeft het prioriteitsniveau van een activiteit aan. De beschikbare waarden zijn Dringend *,* Hoog *,* Normaal *,* Laag *, en* niets *.* Als de waarde *niets* is, zal het **[!UICONTROL Priority]** gebied niet in UI van het portaal zichtbaar zijn.
-* **[!UICONTROL Adobe Owner]**: geeft de aangewezen Adobe-eigenaar van de activiteit weer.
-* **[!UICONTROL Client Owner]**: geeft de eigenaar weer aan de kant van de klant.
-* **[!UICONTROL Next Steps]**: geeft de volgende handelingen weer die voor de activiteit zijn vastgelegd.
-* **[!UICONTROL Adobe Solutions]**: geeft de Adobe-oplossingen aan die betrekking hebben op de activiteit.
+* **[!UICONTROL Priority]**: geeft het prioriteitsniveau van een activiteit aan. De beschikbare waarden zijn *Dringend*, *Hoog*, *Normaal*, *Laag* en *Geen*. Als de waarde *Geen* is, is het veld **[!UICONTROL Priority]** niet zichtbaar in de gebruikersinterface van de portal.
+* **[!UICONTROL Adobe Owner]**: geeft de Adobe-eigenaar van de activiteit weer.
+* **[!UICONTROL Client Owner]**: geeft de eigenaar weer vanuit het perspectief van de klant.
+* **[!UICONTROL Next Steps]**: geeft de volgende acties weer die voor de activiteit zijn vastgelegd.
+* **[!UICONTROL Adobe Solutions]**: geeft de Adobe-oplossingen in verband met de activiteit aan.
 
-![ verbeter ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL Key Business Objectives]** en **[!UICONTROL Activities]** pagina&#39;s binnen **[!UICONTROL Action Plan]** om voltooiingsdata voor elke versneller en activiteit te tonen, die zicht in chronologie verbeteren.
+![Oplossing](../adobe-success-portal/assets/fix.svg) De pagina&#39;s **[!UICONTROL Key Business Objectives]** en **[!UICONTROL Activities]** in **[!UICONTROL Action Plan]** zijn verbeterd om voltooiingsdata voor elke accelerator en activiteit weer te geven, waardoor de zichtbaarheid van tijdlijnen is verbeterd.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) Verbeterde hoe **[!UICONTROL Use Cases]** op de **[!UICONTROL KBO Details]** pagina wordt getoond om een schoner ontwerp, betere bruikbaarheid, en verenigbare navigatie te verzekeren.
+![Oplossing](../adobe-success-portal/assets/fix.svg) Verbeterde weergave van **[!UICONTROL Use Cases]** op de pagina **[!UICONTROL KBO Details]** voor een overzichtelijker ontwerp, betere bruikbaarheid en consistente navigatie.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) de kwestie waar **Ctrl+Click** (of **Command+Click** op Mac) op case geen verbinding in een nieuw lusje opent.
+![Oplossing](../adobe-success-portal/assets/fix.svg) Het probleem waarbij met **Ctrl+klik** (of **Command+klik** op Mac) op casuskoppelingen de koppeling niet in een nieuw tabblad werd geopend, is opgelost.
 
