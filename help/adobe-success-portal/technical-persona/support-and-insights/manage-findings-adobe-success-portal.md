@@ -62,7 +62,8 @@ Zo bekijkt u inzichten voor een product:
 
 Voer de volgende stappen uit om te controleren of elke bevinding nog steeds van toepassing is of kan worden genegeerd.
 
->[!NOTE]:
+>[!NOTE]
+>:
 >
 >De standaardcontroles worden uitgevoerd op uw instanties. Als de controles niet uitwijzen dat het probleem zich in uw instantie voordoet, is de status **[!UICONTROL Not Detected]**.
 
