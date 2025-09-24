@@ -2,10 +2,10 @@
 title: Beheer bevindingen in de  [!DNL Adobe Success] -portal
 description: In deze handleiding wordt uitgelegd hoe u toegang krijgt tot bevindingen in de  [!DNL Adobe Success] -portal, deze kunt interpreteren en er actie op kunt ondernemen. Zo helpt u proactief risico's met betrekking tot productprestaties, beveiliging en functionaliteit te beheren.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '708'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '807'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Zo bekijkt u inzichten voor een product:
 1. Ga naar **[!UICONTROL Support & Insights]**.
 1. Selecteer de relevante productkaart. Selecteer het tabblad **[!UICONTROL Findings]**. 
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![ het Portaal van het Succes van Adobe die Bevindingen onder AEM benadrukken - Assets met 3 vermelde punten ](../../assets/asp-support-inisghts-findings.png " Bevindingen van de Mening voor AEM Assets in Cloud Service ")
 
 
 1. U ziet een lijst met alle bevindingen voor het geselecteerde product.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![ Portaal van het Succes van Adobe die het lusje van Bevindingen voor de Dienst van de Wolk AEM - Assets toont met caching van kwesties die ](../../assets/adobe-success-portal-findings.png " op caching betrekking hebbende bevindingen van de Mening voor AEM Assets in Cloud Service ") worden vermeld
 
 1. Vanaf hier kunt u:
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![ de interface van het Portaal van het Succes van Adobe die onderzoeksbar, downloadknoop, en een ernstig-risico het vinden onder AEM Sites ](../../assets/adobe-success-portal-download.png " Onderzoek, download, of meningsbevindingen voor AEM Sites in Cloud Service ") benadrukt
 
    * Specifieke items zoeken.
    * Exporteer de lijst met bevindingen door **[!UICONTROL Download Findings]** te selecteren. Als u een rapport voor één bevinding wilt exporteren, schakelt u het selectievakje naast de relevante bevinding onder de kolom **[!UICONTROL Finding Name]** in. Als u geen bevinding selecteert, bevat de PDF standaard een lijst met alle bevindingen.
    * Bekijk de details van een bevinding, inclusief een aanbevolen oplossing, door een bevinding te selecteren onder **[!UICONTROL Finding Name]**. Op de detailpagina van de bevinding worden de geselecteerde bevinding weergegeven met aanvullende context en een aanbeveling. Selecteer de downloadpijl om dit rapport weer te geven.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![ knoop van de Download voor het uitvoeren van het Vinden van details in het Portaal van het Succes van Adobe ](../../assets/findings-details.png " Download dit het Vinden rapport ")
 
 
 ## Acties voor bevindingen
@@ -72,7 +72,7 @@ Voer de volgende stappen uit om te controleren of elke bevinding nog steeds van 
 1. Selecteer een vermelding onder **[!UICONTROL Finding Name]**. Op de pagina met Bevindingsgegevens kunt u het volgende doen:
    * Selecteer **[!UICONTROL Validate]** om te controleren of het probleem zich blijft voordoen (de knop **[!UICONTROL Validate]** is ontworpen als bevestiging dat het probleem is opgelost):
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![ bevestigt knoop in het paneel van Bevindingen om probleemresolutie in het Portaal van het Succes van Adobe te bevestigen ](../../assets/adobe-success-portal-validate.png " bevestigt knoop ")
 
 
    * Als het probleem zich nog steeds voordoet, wordt het volgende bericht weergegeven: *[!UICONTROL Validation complete. Finding still detected]*. Gebruik de informatie en de aanbeveling op de detailpagina van de bevinding voor onderzoek en probleemoplossing.
