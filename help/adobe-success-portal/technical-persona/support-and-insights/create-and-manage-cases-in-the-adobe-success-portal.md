@@ -3,9 +3,9 @@ title: Cases aanmaken en beheren in de [!DNL Adobe Success] portal
 description: Leer hoe u cases beheert in de [!DNL Adobe Success] portal.
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
 source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '386'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ De pagina **[!UICONTROL Open Case]** openen via het tabblad Start:
 1. Selecteer **[!UICONTROL Open Case]**.
 
 
-   ![ Open knoop van het Geval in creeer een nieuwe gevalssectie van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-home-page-open-case.png " Open gevalknoop ")
+   ![Knop Een case openen in de sectie Een nieuwe case maken van de Adobe Success-portal](../../assets/adobe-success-portal-home-page-open-case.png "Knop Een case openen")
 
 
 
@@ -35,7 +35,7 @@ De pagina **[!UICONTROL Open Case]** openen via het tabblad Start:
 
 
 
-   ![ voorlegt de knoop van het Geval bij de bodem van de vorm van het steunkaartje in het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-submit-case.png " uw steunverzoek ") voor
+   ![Knop Case indienen onderaan het ondersteuningsticketformulier in de Adobe Success-portal](../../assets/adobe-success-portal-submit-case.png "Uw ondersteuningsverzoek indienen")
 
 
 
@@ -47,7 +47,7 @@ De pagina **[!UICONTROL Open Case]** openen via het tabblad **[!UICONTROL Suppor
 
 
 
-   ![ Open knoop van het Geval in creeer een nieuwe gevalssectie van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-support-insights-open-case.png " Open gevalknoop ")
+   ![Knop Een case openen in de sectie Een nieuwe case maken van de Adobe Success-portal](../../assets/adobe-success-portal-support-insights-open-case.png "Knop Een case openen")
 
 
 
@@ -64,7 +64,7 @@ De pagina **[!UICONTROL View Cases]** openen via het tabblad Start:
 
 
 
-   ![ knoop van de Gevallen van de Mening in Create een Nieuwe Gevallensectie van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-view-cases.png " Bekijk uw bestaande steungevallen ")
+   ![Knop Cases weergeven in de sectie Een nieuwe case maken van de Adobe Success-portal](../../assets/adobe-success-portal-view-cases.png "Uw bestaande ondersteuningscases weergeven")
 
 
 
@@ -76,7 +76,7 @@ De pagina **[!UICONTROL View Cases]** openen via het tabblad Start:
 
 
 
-   ![ Open en Gesloten Gevallen indicatoren in de Steun &amp; sectie van Inzichten voor de Dienst van de Wolk AEM - de samenvatting van de Mening van Assets ](../../assets/adobe-success-portal-open-case-closed-case.png " van open en gesloten steungevallen ")
+   ![Indicatoren Open cases en Gesloten cases in de sectie Ondersteuning en inzichten voor AEM as a Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Overzicht van open en gesloten ondersteuningscases weergeven")
 
 
 
@@ -84,7 +84,7 @@ De pagina **[!UICONTROL View Cases]** openen via het tabblad Start:
 
 
 
-   ![ verbinding van het Aantal van het Geval in de steungevallen van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-case-number.png " klik om gevalsdetails te bekijken ")
+   ![Koppeling Casenummer in de ondersteuningscases van de Adobe Success-portal](../../assets/adobe-success-portal-case-number.png "Klikken om details van de case weer te geven")
 
 
 
@@ -96,7 +96,7 @@ PDF-rapporten over uw cases downloaden:
 1. Selecteer **[!UICONTROL View Cases]**.
 
 
-   ![ knoop van de Gevallen van de Mening in Create een Nieuwe Gevallensectie van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-view-cases.png " Bekijk uw bestaande steungevallen ")
+   ![Knop Cases weergeven in de sectie Een nieuwe case maken van de Adobe Success-portal](../../assets/adobe-success-portal-view-cases.png "Uw bestaande ondersteuningscases weergeven")
 
 
 1. Selecteer de productkaart die u wilt weergeven en kies vervolgens **[!UICONTROL Open Cases]** of **[!UICONTROL Closed Cases]**.
@@ -105,8 +105,8 @@ PDF-rapporten over uw cases downloaden:
    >
    >U kunt ook het tabblad **[!UICONTROL Support & Insights]** selecteren om snel toegang te krijgen tot productkaarten met koppelingen naar **[!UICONTROL Open Cases]** of **[!UICONTROL Closed Cases]**.
 
-   ![ Open en Gesloten Gevallen indicatoren in de Steun &amp; sectie van Inzichten voor de Dienst van de Wolk AEM - de samenvatting van de Mening van Assets ](../../assets/adobe-success-portal-open-case-closed-case.png " van open en gesloten steungevallen ")
+   ![Indicatoren Open cases en Gesloten cases in de sectie Ondersteuning en inzichten voor AEM as a Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Overzicht van open en gesloten ondersteuningscases weergeven")
 
 1. Selecteer op de pagina [Product] - Ondersteuningscases het selectievakje naast de case die u wilt downloaden en selecteer **[!UICONTROL Download Cases]**.
 
-   ![ knoop van de Gevallen van de Download in de sectie van het Gevallenbeheer van het Portaal van het Succes van Adobe ](../../assets/adobe-success-portal-download-cases.png " de steungevallengegevens van de Download ")
+   ![Knop Cases downloaden in de sectie Casebeheer van de Adobe Success-portal](../../assets/adobe-success-portal-download-cases.png "Gegevens van ondersteuningscases downloaden")

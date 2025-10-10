@@ -3,9 +3,9 @@ title: Toegang tot de [!DNL Adobe Success] portal
 description: Leer hoe u cases beheert in de [!DNL Adobe Success] portal.
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -19,13 +19,13 @@ U ontvangt een melding van het **[!UICONTROL Success]**-portalteam waarin uw toe
 1. Meld u aan met uw Adobe ID.
 1. Selecteer het pictogram **[!UICONTROL Success portal (Alpha)]**.
 
-   ![ Pictogram en etiket voor het Portaal van het Succes (Alpha) ](assets/alpha-success-portal-alpha.png " het portaal van het Succes van de Toegang (Alpha) ")
+   ![Pictogram en label voor de Success-portal (Alpha)](assets/alpha-success-portal-alpha.png "Toegang tot de Success-portal (Alpha)")
 
 
 
 1. Nadat u zich hebt aangemeld, ziet u vijf tabbladen:
 
-   ![ Sidebar van de Portaalinterface van het Succes van Adobe ](assets/adobe-success-portal-tabs.png " Sidebar lusjes ")
+   ![Zijbalk van de interface van de Adobe Success-portal](assets/adobe-success-portal-tabs.png "Tabbladen in zijbalk")
 
 
    * Startpagina
@@ -44,4 +44,4 @@ U kunt de knop **[!UICONTROL Alpha Feedback]** op de portal gebruiken om feedbac
 >
 >De feedbacktool is geen speciaal ondersteuningskanaal. Het is niet geschikt voor dringende aanmeldingsproblemen.
 
-![ de knoop van de Terugkoppeling van Alpha op het portaal om terug te zenden ](assets/adobe-success-portal-home.png " de knoop van de Terugkoppeling van Alpha ")
+![Alpha-feedbackknop op de portal om feedback te verzenden](assets/adobe-success-portal-home.png "Alpha-feedbackknop")

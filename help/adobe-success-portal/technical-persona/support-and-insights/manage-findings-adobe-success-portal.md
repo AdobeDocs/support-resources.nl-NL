@@ -3,9 +3,9 @@ title: Beheer bevindingen in de  [!DNL Adobe Success] -portal
 description: In deze handleiding wordt uitgelegd hoe u toegang krijgt tot bevindingen in de  [!DNL Adobe Success] -portal, deze kunt interpreteren en er actie op kunt ondernemen. Zo helpt u proactief risico's met betrekking tot productprestaties, beveiliging en functionaliteit te beheren.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '807'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -39,31 +39,30 @@ Zo bekijkt u inzichten voor een product:
 1. Ga naar **[!UICONTROL Support & Insights]**.
 1. Selecteer de relevante productkaart. Selecteer het tabblad **[!UICONTROL Findings]**. 
 
-   ![ het Portaal van het Succes van Adobe die Bevindingen onder AEM benadrukken - Assets met 3 vermelde punten ](../../assets/asp-support-inisghts-findings.png " Bevindingen van de Mening voor AEM Assets in Cloud Service ")
+   ![Adobe Success-portal met bevindingen onder AEM as a Cloud Service - Assets met 3 vermelde items](../../assets/asp-support-inisghts-findings.png "Bevindingen voor AEM Assets bekijk in Cloud Service")
 
 
 1. U ziet een lijst met alle bevindingen voor het geselecteerde product.
 
-   ![ Portaal van het Succes van Adobe die het lusje van Bevindingen voor de Dienst van de Wolk AEM - Assets toont met caching van kwesties die ](../../assets/adobe-success-portal-findings.png " op caching betrekking hebbende bevindingen van de Mening voor AEM Assets in Cloud Service ") worden vermeld
+   ![Adobe Success-portal met weergave van tabblad Bevindingen voor AEM as a Cloud Service - Assets met vermelde cachingproblemen](../../assets/adobe-success-portal-findings.png "Op caching betrekking hebbende bevindingen voor AEM Assets in Cloud Service")
 
 1. Vanaf hier kunt u:
 
-   ![ de interface van het Portaal van het Succes van Adobe die onderzoeksbar, downloadknoop, en een ernstig-risico het vinden onder AEM Sites ](../../assets/adobe-success-portal-download.png " Onderzoek, download, of meningsbevindingen voor AEM Sites in Cloud Service ") benadrukt
+   ![Interface van Adobe Success-portal met zoekbalk, downloadknop en een bevinding over een ernstig risico onder AEM Sites](../../assets/adobe-success-portal-download.png "Bevindingen zoeken, downloaden of bekijken voor AEM Sites in Cloud Service")
 
    * Specifieke items zoeken.
    * Exporteer de lijst met bevindingen door **[!UICONTROL Download Findings]** te selecteren. Als u een rapport voor één bevinding wilt exporteren, schakelt u het selectievakje naast de relevante bevinding onder de kolom **[!UICONTROL Finding Name]** in. Als u geen bevinding selecteert, bevat de PDF standaard een lijst met alle bevindingen.
    * Bekijk de details van een bevinding, inclusief een aanbevolen oplossing, door een bevinding te selecteren onder **[!UICONTROL Finding Name]**. Op de detailpagina van de bevinding worden de geselecteerde bevinding weergegeven met aanvullende context en een aanbeveling. Selecteer de downloadpijl om dit rapport weer te geven.
 
 
-     ![ knoop van de Download voor het uitvoeren van het Vinden van details in het Portaal van het Succes van Adobe ](../../assets/findings-details.png " Download dit het Vinden rapport ")
+     ![Downloadknop voor het exporteren van gegevens van bevindingen in Adobe Success-portal](../../assets/findings-details.png "Download dit rapport Bevindingen")
 
 
 ## Acties voor bevindingen
 
 Voer de volgende stappen uit om te controleren of elke bevinding nog steeds van toepassing is of kan worden genegeerd.
 
->[!NOTE]
->:
+>[!NOTE]:
 >
 >De standaardcontroles worden uitgevoerd op uw instanties. Als de controles niet uitwijzen dat het probleem zich in uw instantie voordoet, is de status **[!UICONTROL Not Detected]**.
 
@@ -73,7 +72,7 @@ Voer de volgende stappen uit om te controleren of elke bevinding nog steeds van 
 1. Selecteer een vermelding onder **[!UICONTROL Finding Name]**. Op de pagina met Bevindingsgegevens kunt u het volgende doen:
    * Selecteer **[!UICONTROL Validate]** om te controleren of het probleem zich blijft voordoen (de knop **[!UICONTROL Validate]** is ontworpen als bevestiging dat het probleem is opgelost):
 
-   ![ bevestigt knoop in het paneel van Bevindingen om probleemresolutie in het Portaal van het Succes van Adobe te bevestigen ](../../assets/adobe-success-portal-validate.png " bevestigt knoop ")
+   ![Knop Valideren in het deelvenster Bevindingen voor het bevestigen van de oplossing van het probleem in Adobe Success-portal](../../assets/adobe-success-portal-validate.png "Knop valideren")
 
 
    * Als het probleem zich nog steeds voordoet, wordt het volgende bericht weergegeven: *[!UICONTROL Validation complete. Finding still detected]*. Gebruik de informatie en de aanbeveling op de detailpagina van de bevinding voor onderzoek en probleemoplossing.
