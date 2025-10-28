@@ -2,9 +2,9 @@
 title: Overzicht van Adobe Success-lidmaatschappen
 description: Dit artikel bevat een overzicht van de opties voor klantenondersteuning voor Adobe Experience Cloud, Adobe Document Cloud en Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: ht
-source-wordcount: '2221'
+source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+workflow-type: tm+mt
+source-wordcount: '1833'
 ht-degree: 100%
 
 ---
@@ -107,41 +107,6 @@ Named Support Contacts kunnen problemen indienen via alle beschikbare kanalen en
 | Amerika | Europa, Midden-Oosten en Afrika | Azië, Stille Oceaan | Japan |
 |---|---|---|---|
 | 6:00 - 17:00:30 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur | 9:00 - 17:00 uur |
-
-## Levenscyclus van supportcases - Binnenkort beschikbaar
-
-In deze documentatie worden verbeteringen in de levenscyclus van de Adobe DX-supportcases beschreven, met als doel de communicatie te verbeteren en klanten zo snel mogelijk oplossingen te bieden om hun klantsucces te garanderen. Hieronder ziet u de tijdlijnen en meldingen voor verschillende scenario&#39;s van het ondersteuningsproces:
-
-**Herinneringen voor opvolging van cases**
-
-| Melding | Casestatus | Timing van meldingen | Aantal dagen tot status Case gesloten |
-|--- |--- |--- |--- |
-| **1e** | Wachten op reactie of Oplossing voorgesteld | 24 uur/1 dag | 5 dagen |
-| **2e** | Wachten op reactie of Oplossing voorgesteld | 72 uur/3 dagen | 3 dagen |
-| **3e** | Wachten op reactie of Oplossing voorgesteld | 120 uur/5 dagen | 1 dag |
-| **4e** | Wachten op reactie of Oplossing voorgesteld gewijzigd in Automatisch gesloten | 144 uur/6 dagen | gesloten |
-
-**Scenario’s in detail**
-
-**Aanvullende informatie van een klant is vereist**
-
-In dit scenario, waarbij extra informatie van een klant is vereist, worden volgende stappen genomen:
-
-* De technicus vraagt in een update om informatie en de status van de case wordt ingesteld op Wachten op reactie.
-* Op de eerste, derde en vijfde dag nadat de status is ingesteld op Wachten op reactie wordt de klant in vervolgmeldingen om de aanvullende informatie verzocht.
-* Als de klant zes dagen nadat de status op Wachten op reactie is ingesteld, niet heeft geantwoord, wordt de case gesloten en wordt hiervan melding gemaakt.
-
-Klanten kunnen een gesloten case op Experience League binnen 14 dagen opnieuw openen om de communicatie voort te zetten. Na veertien dagen kan een nieuwe ondersteuningscase worden geopend om de communicatie over een eerder gesloten case voort te zetten. Houd er rekening mee dat het beantwoorden van een e-mail over een gesloten ticket het ticket niet opnieuw opent.
-
-**Technicus biedt een oplossing**
-
-In dit scenario, waarbij een technicus een oplossing aanreikt, worden de volgende stappen gezet:
-
-* De technicus stuurt een update met een voorgestelde oplossing en de status van de case wordt ingesteld op Oplossing voorgesteld.
-* Op de eerste, derde en vijfde dag nadat de status is ingesteld op Oplossing voorgesteld, wordt de klant in vervolgmeldingen om bevestiging van de voorgestelde oplossing verzocht.
-* Als de klant zes dagen nadat de status op Oplossing voorgesteld is ingesteld, niet heeft geantwoord, wordt de case gesloten en wordt hiervan melding gemaakt.
-
-Klanten kunnen een gesloten case binnen veertien dagen opnieuw openen om de communicatie voort te zetten. Na veertien dagen kan een nieuwe supportcase worden geopend om de communicatie over een eerder gesloten case voort te zetten.
 
 ## Aanvullende voorwaarden die van toepassing zijn op Adobe Commerce voor Managed Services (voorheen Magento Commerce Pro: Managed Services)
 
