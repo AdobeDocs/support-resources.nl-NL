@@ -22,19 +22,19 @@ Deze aanvullende informatie bevat updates voor de [!DNL Adobe Success portal] en
 
 _nov 11, 2025_
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) geoptimaliseerde de gespreksorde in de pagina van case details om aan het recentste bericht automatisch te scrollen.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) geoptimaliseerde de gespreksorde in de pagina van case details om aan het recentste bericht automatisch te scrollen.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) Bijgewerkte case details zodat wanneer geopend in een nieuw lusje gebruikend **Ctrl+Click** / **Command+Click**, de Achterknoop behoorlijk gehandicapt is om navigatiefouten te verhinderen.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) Bijgewerkte case details zodat wanneer geopend in een nieuw lusje gebruikend **Ctrl+Click** / **Command+Click**, de Achterknoop behoorlijk gehandicapt is om navigatiefouten te verhinderen.
 
-![ Bug ](../adobe-success-portal/assets/bug.svg) Vaste een kwestie waar de onjuiste status, het gebied, of de details van de tijdzone voor **[!UICONTROL Adobe Status]** alarm in **[!UICONTROL Support & Insights]** werden getoond.
+![&#x200B; Bug &#x200B;](../adobe-success-portal/assets/bug.svg) Vaste een kwestie waar de onjuiste status, het gebied, of de details van de tijdzone voor **[!UICONTROL Adobe Status]** alarm in **[!UICONTROL Support & Insights]** werden getoond.
 
-![ Bug ](../adobe-success-portal/assets/bug.svg) Opgeloste vertoningskwesties met **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Strategic Partners]**.
+![&#x200B; Bug &#x200B;](../adobe-success-portal/assets/bug.svg) Opgeloste vertoningskwesties met **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Strategic Partners]**.
 
 ## 3,0
 
 _okt 09, 2025_
 
-![ Nieuw ](../adobe-success-portal/assets/new.svg) voegde een Mening van de Kalender aan de **[!UICONTROL Action Plan]** module voor het visualiseren van chronologie van **[!UICONTROL Accelerators]** toe en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Key Business Objectives]** (KBOs).
+![&#x200B; Nieuw &#x200B;](../adobe-success-portal/assets/new.svg) voegde een Mening van de Kalender aan de **[!UICONTROL Action Plan]** module voor het visualiseren van chronologie van **[!UICONTROL Accelerators]** toe en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Key Business Objectives]** (KBOs).
 * Heb toegang tot de kalender van de KBO van het Actieplan pagina of van **[!UICONTROL KBO]**/ **[!UICONTROL Accelerator]**/ **[!UICONTROL Activity]** detailpagina&#39;s (slechts als zij met een KBO worden verbonden).
 * Schakel tussen de lijstweergave (standaard) en de kalenderweergave.
 * Kalender geeft inklapbare secties weer voor elke KBO:
@@ -47,26 +47,26 @@ _okt 09, 2025_
 * De standaardweergave is de huidige week. Navigatiepijlen kunnen zich tussen weken verplaatsen.
 * De maandweergave biedt een duidelijke tijdlijn voor de lopende en geplande werkzaamheden.
 
-![ verbeter ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL Key Business Objectives]** en **[!UICONTROL Activities]** pagina&#39;s in **[!UICONTROL Action Plan]** om tooltips op voltooiingsdata te tonen, verbeterend chronologiezicht.
+![&#x200B; verbeter &#x200B;](../adobe-success-portal/assets/fix.svg) **[!UICONTROL Key Business Objectives]** en **[!UICONTROL Activities]** pagina&#39;s in **[!UICONTROL Action Plan]** om tooltips op voltooiingsdata te tonen, verbeterend chronologiezicht.
 
-![ verbeter ](../adobe-success-portal/assets/fix.svg) Onderzoek toegevoegd binnen filters op **[!UICONTROL Action Plan]** en **[!UICONTROL Outcome Tracker]** voor snellere navigatie.
+![&#x200B; verbeter &#x200B;](../adobe-success-portal/assets/fix.svg) Onderzoek toegevoegd binnen filters op **[!UICONTROL Action Plan]** en **[!UICONTROL Outcome Tracker]** voor snellere navigatie.
 
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) Toegevoegde tooltips aan elk vinden voor snelle context.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) Toegevoegde tooltips aan elk vinden voor snelle context.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) Toegevoegde branding van Adobe aan PDFs die van Bevindingen en Gevallen wordt gedownload.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) Toegevoegde branding van Adobe aan PDFs die van Bevindingen en Gevallen wordt gedownload.
 
-![ Repareren ](../adobe-success-portal/assets/fix.svg) toont allen **[!UICONTROL Strategic Partners]** verbonden aan een rekening, met indicatoren voor primaire contacten.
+![&#x200B; Repareren &#x200B;](../adobe-success-portal/assets/fix.svg) toont allen **[!UICONTROL Strategic Partners]** verbonden aan een rekening, met indicatoren voor primaire contacten.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar de tijdstreken in **[!UICONTROL Alerts & Adobe Status]** niet het het programma geopende profiel van de gebruiker correct weerspiegelden.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar de tijdstreken in **[!UICONTROL Alerts & Adobe Status]** niet het het programma geopende profiel van de gebruiker correct weerspiegelden.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar de filters in **[!UICONTROL Alerts & Adobe Status]** niet zoals verwacht werkten.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar de filters in **[!UICONTROL Alerts & Adobe Status]** niet zoals verwacht werkten.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar het sorteren van **[!UICONTROL Use Cases]** op Details KBO en **[!UICONTROL Outcome Tracker]** pagina&#39;s inconsistent was.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar het sorteren van **[!UICONTROL Use Cases]** op Details KBO en **[!UICONTROL Outcome Tracker]** pagina&#39;s inconsistent was.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar tooltip op de pagina van de gevallijst niet de volledige gevalnaam openbaarde toen het bedekken van over een gevaltitel.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar tooltip op de pagina van de gevallijst niet de volledige gevalnaam openbaarde toen het bedekken van over een gevaltitel.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar het achterpijlpictogram verkeerd in browser Safari verscheen.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar het achterpijlpictogram verkeerd in browser Safari verscheen.
 
 ## 2.0
 
