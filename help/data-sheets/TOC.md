@@ -3,7 +3,8 @@ user-guide-title: Bronnen voor Success-lidmaatschappen
 user-guide-description: Success-lidmaatschappen en ondersteuningsbronnen voor Adobe Experience Cloud en Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
+hide: false
+source-git-commit: daf7dae78e6ead9cb56642dc8c7f4ce0b03b37e0
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 93%
@@ -14,7 +15,7 @@ ht-degree: 93%
 # Bronnen voor Success-lidmaatschappen {#data-sheets}
 
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
-+ [Adobe DX Solutions Unified Holidation Readiness Guide](unified-holiday-readiness.md)
++ [ de Oplossingen van Adobe DX verenigde Gids van de Gereedheid van de Vakantie ](unified-holiday-readiness.md)
 + De Crux-podcast{#crux-podcast}
    + [Afl. 1 - Billy Georgaros](episode1.md)
      [Afl. 2 - Karrie Benjamin](episode2.md)
