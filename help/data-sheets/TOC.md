@@ -15,7 +15,7 @@ ht-degree: 93%
 # Bronnen voor Success-lidmaatschappen {#data-sheets}
 
 + [Overzicht van Adobe Success-lidmaatschappen](overview.md)
-+ [ de Oplossingen van Adobe DX verenigde Gids van de Gereedheid van de Vakantie ](unified-holiday-readiness.md)
++ [&#x200B; de Oplossingen van Adobe DX verenigde Gids van de Gereedheid van de Vakantie &#x200B;](unified-holiday-readiness.md)
 + De Crux-podcast{#crux-podcast}
    + [Afl. 1 - Billy Georgaros](episode1.md)
      [Afl. 2 - Karrie Benjamin](episode2.md)
