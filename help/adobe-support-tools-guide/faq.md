@@ -51,7 +51,7 @@ Klanten ontvangen instructies en coördinatie van een intern Workfront-team dat 
 
 +++**Welke nieuwe eigenschappen zijn in AAC momenteel niet beschikbaar aan klanten in Workfront?**
 
-Gelieve te zien [ dit document ](overview.md) benadrukkend enkele nieuwe beschikbare eigenschaptoevoegingen.
+Gelieve te zien [&#x200B; dit document &#x200B;](overview.md) benadrukkend enkele nieuwe beschikbare eigenschaptoevoegingen.
 
 +++
 
