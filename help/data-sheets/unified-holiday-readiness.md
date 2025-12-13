@@ -119,7 +119,7 @@ Om Adobe Journey Optimizer voor te bereiden op het vakantieseizoen moeten organi
    * zendtijd
    * aanbiedingstype
    * kanaalmix
-Verwijs naar [&#x200B; beste praktijken van AJO Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Verwijs naar [&#x200B; beste praktijken van AJO Experimentation Accelerator &#x200B;](https://experienceleague.adobe.com/nl/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * end-to-end reisvalidatie uitvoeren:
    * gebeurtenistriggers
    * segmenteringsitem
