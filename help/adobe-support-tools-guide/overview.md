@@ -25,7 +25,7 @@ Voor een diepgaande overzicht van de Identiteit van Adobe en Admin Console, kunt
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=nl-NL
 -->
 
 Bovendien, is er FAQ beschikbaar voor verwijzing [&#x200B; hier &#x200B;](faq.md).
