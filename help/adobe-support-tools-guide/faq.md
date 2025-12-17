@@ -2,24 +2,24 @@
 keywords: Veelgestelde vragen;veelgestelde vragen
 title: Adobe Business Platform en Admin Console - Veelgestelde vragen
 description: Veelgestelde vraag voor Adobe Workfront
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 6%
 
 ---
 
-# Adobe Business Platform en Admin Console - Veelgestelde vragen
+# [!DNL Adobe Business Platform] en Admin Console - Veelgestelde vragen
 
 +++**wat is de Identiteit van Adobe en Admin Console?**
 
-Het Adobe Business Platform biedt beheerders en functionele leiders een geavanceerde beheerconsole om hun aangepaste versie van de Workfront-software te beheren.
+Met [!DNL Adobe Business Platform] kunnen beheerders en functies hun aangepaste versie van de Workfront-software beheren met een geavanceerde beheerconsole.
 
 +++
 
 +++**waarom moeten de klanten zich naar de Identiteit van Adobe en Admin Console (AAC) bewegen?**
 
-Klanten ervaren een nog veiligere en intuïtievere beheerconsole door over te stappen op het Adobe Business Platform.
+Klanten ervaren een nog veiligere en intuïtievere beheerconsole door over te schakelen naar [!DNL Adobe Business Platform] .
 
 +++
 
@@ -51,13 +51,13 @@ Klanten ontvangen instructies en coördinatie van een intern Workfront-team dat 
 
 +++**Welke nieuwe eigenschappen zijn in AAC momenteel niet beschikbaar aan klanten in Workfront?**
 
-Gelieve te zien [&#x200B; dit document &#x200B;](overview.md) benadrukkend enkele nieuwe beschikbare eigenschaptoevoegingen.
+Gelieve te zien [ dit document ](overview.md) benadrukkend enkele nieuwe beschikbare eigenschaptoevoegingen.
 
 +++
 
 +++**wat zijn de opleidingsmiddelen beschikbaar voor AAC?**
 
-&lt;https://helpx.adobe.com/nl/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ De duur van tijd om AAC voor klanten uit te voeren kan variëren, maar de typisc
 
 +++**zal dit effect andere technologie die ik in de oplossing van Workfront buiten de Producten van Adobe heb geïntegreerd?**
 
-Klanten die de Fusion-toepassing gebruiken om verbinding te maken met andere services, worden alleen verplaatst wanneer de Fusion-toepassing gereed is om deze wijziging aan te brengen.
+Klanten die de [!DNL Fusion] -toepassing gebruiken om verbinding te maken met andere services, worden alleen verplaatst wanneer de [!DNL Fusion] -toepassing gereed is om deze wijziging aan te brengen.
 
 +++
 
