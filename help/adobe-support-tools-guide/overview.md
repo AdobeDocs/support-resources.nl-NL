@@ -21,14 +21,14 @@ In de komende maanden wordt contact opgenomen met klanten om een migratie naar d
 * Gebruik meerdere SSO-configuraties voor Workfront-gebruikers.
 * Rechten op Workfront op dezelfde manier beheren als andere Adobe-producten.
 
-Voor een diepgaande overzicht van de Identiteit van Adobe en Admin Console, kunt u deze [ steunpagina ](https://helpx.adobe.com/nl/enterprise/admin-guide.html) van verwijzingen voorzien. Er is ook een vergelijking van huidige console van Workfront en nieuwe Adobe Admin Console [ hier ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus).
+Voor een diepgaande overzicht van de Identiteit van Adobe en Admin Console, kunt u deze [&#x200B; steunpagina &#x200B;](https://helpx.adobe.com/nl/enterprise/admin-guide.html) van verwijzingen voorzien. Er is ook een vergelijking van huidige console van Workfront en nieuwe Adobe Admin Console [&#x200B; hier &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus).
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Bovendien, is er FAQ beschikbaar voor verwijzing [ hier ](faq.md).
+Bovendien, is er FAQ beschikbaar voor verwijzing [&#x200B; hier &#x200B;](faq.md).
 
 ## Migratiegegevens klant
 
