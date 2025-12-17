@@ -57,7 +57,7 @@ Gelieve te zien [&#x200B; dit document &#x200B;](overview.md) benadrukkend enkel
 
 +++**wat zijn de opleidingsmiddelen beschikbaar voor AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/nl/enterprise/using/admin-console.html >
 
 +++
 
