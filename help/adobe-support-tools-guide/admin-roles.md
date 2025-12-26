@@ -1,10 +1,9 @@
 ---
 title: Administratieve rollen
 description: Met de Adobe Admin Console kunnen organisaties een flexibele beheershiërarchie definiëren die fijngeoriënteerd beheer van de toegang tot en het gebruik van Adobe-producten mogelijk maakt.
-exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1593'
 ht-degree: 0%
 
 ---
@@ -27,9 +26,9 @@ De beheerhiërarchie kan worden gebruikt om aan de unieke vereisten van uw onder
 
 >[!NOTE]
 >
->De beheerhiërarchie is niet van toepassing op teamklanten. De klanten van teams hebben één enkele **rol van 0&rbrace; Beheerder van het Systeem.** De contracteigenaar (_die eerder als **Primaire admin**&#x200B;_wordt bedoeld) is de systeembeheerder met toegang tot de contractdetails en de het facturerings geschiedenis. Als u de huidige contracteigenaar bent, kunt u een bestaande systeembeheerder (_ eerder aanwijzen als **secundaire admin**&#x200B;_) als contracteigenaar.
+>De beheerhiërarchie is niet van toepassing op teamklanten. De klanten van teams hebben één enkele **rol van 0} Beheerder van het Systeem.** De contracteigenaar (_die eerder als **Primaire admin**_wordt bedoeld) is de systeembeheerder met toegang tot de contractdetails en de het facturerings geschiedenis. Als u de huidige contracteigenaar bent, kunt u een bestaande systeembeheerder (_ eerder aanwijzen als **secundaire admin**_) als contracteigenaar.
 
-![&#x200B; admin beeld &#x200B;](assets/storage_admin.png)
+![ admin beeld ](assets/storage_admin.png)
 
 _Admin rolenhiërarchie_
 
@@ -43,47 +42,47 @@ _Admin rolenhiërarchie_
 | **Admin van de Steun** | Niet-administratieve rol die toegang tot op steun betrekking hebbende informatie, zoals klant-gemelde uitgifterapporten heeft. |
 | **Admin van de Opslag** | Beheert het opslagbeheer van de organisatie. De beheerder kan het opslagverbruik van zowel actieve als inactieve gebruikers bekijken en inhoud overbrengen naar andere ontvangers. |
 
-Voor een gedetailleerde lijst van toestemmingen en voorrechten voor elke adminrol, zie [&#x200B; Toestemmingen &#x200B;](#enterprise-admins-permissions-matrix).
+Voor een gedetailleerde lijst van toestemmingen en voorrechten voor elke adminrol, zie [ Toestemmingen ](#enterprise-admins-permissions-matrix).
 
 ## Een beheerdersrol voor ondernemingen toevoegen {#add-enterprise-role}
 
 Is van toepassing op: Adobe Enterprise-klanten.
 
-Als admin, kunt u een admin rol aan andere gebruikers toewijzen, die hen de zelfde voorrechten geven zoals u hebt, of voorrechten voor een rol onder uw admin rol in de hiërarchie zoals hierboven beschreven [&#x200B; &#x200B;](#administrative-hierarchy). Als productbeheerder kunt u bijvoorbeeld bevoegdheden voor productbeheer of productprofielbeheer aan een gebruiker geven, maar geen rechten voor implementatiebeheer. Voor de toestemmingen op Admin Console, zie de [&#x200B; matrijs van Toestemmingen &#x200B;](#enterprise-admins-permissions-matrix).
+Als admin, kunt u een admin rol aan andere gebruikers toewijzen, die hen de zelfde voorrechten geven zoals u hebt, of voorrechten voor een rol onder uw admin rol in de hiërarchie zoals hierboven beschreven [ ](#administrative-hierarchy). Als productbeheerder kunt u bijvoorbeeld bevoegdheden voor productbeheer of productprofielbeheer aan een gebruiker geven, maar geen rechten voor implementatiebeheer. Voor de toestemmingen op Admin Console, zie de [ matrijs van Toestemmingen ](#enterprise-admins-permissions-matrix).
 
 Een beheerder toevoegen of uitnodigen:
 
-1. In [&#x200B; Admin Console &#x200B;](https://adminconsole.adobe.com/), kies **Gebruikers** > **Beheerders**.
+1. In **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, kies **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
-   Alternatief, ga naar het relevante Product, het Profiel van het Product, of de Groep van de Gebruiker en navigeer aan **Admins** tabel.
+   U kunt ook naar het desbetreffende product, productprofiel of gebruikersgroep gaan en naar het tabblad **[!UICONTROL Admins]** gaan.
 
-1. Klik **Admin** toevoegen.
+1. Klik op **[!UICONTROL Add Admin]**.
 1. Voer een naam of e-mailadres in. U kunt zoeken naar bestaande gebruikers of een nieuwe gebruiker toevoegen door een geldig e-mailadres op te geven en de gegevens op het scherm in te vullen.
-1. Klik **daarna**. Er wordt een lijst met beheerrollen weergegeven.
+1. Klik op **[!UICONTROL Next]**. Er wordt een lijst met beheerrollen weergegeven.
 
->[!NOTE]
->
->* De opties op dit scherm zijn afhankelijk van uw account- en beheerdersrol. U kunt of de zelfde voorrechten geven zoals u hebt, of voorrechten voor een rol onder u in de hiërarchie.
->* Als Systeembeheerder van een team kunt u slechts één beheerdersrol toewijzen: Systeembeheerder.
+   >[!NOTE]
+   >
+   >* De opties op dit scherm zijn afhankelijk van uw account- en beheerdersrol. U kunt of de zelfde voorrechten geven zoals u hebt, of voorrechten voor een rol onder u in de hiërarchie.
+   >* Als Systeembeheerder van een team kunt u slechts één beheerdersrol toewijzen: Systeembeheerder.
 
 1. Selecteer een of meer beheerrollen.
 1. Selecteer voor beheertypen zoals Productbeheerder, Productprofielbeheerder en Gebruikersgroepbeheerder de specifieke producten, profielen en groepen.
 
->[!NOTE]
->
->Voor een beheerder van het Profiel van het Product, kunt u profielen voor meer dan één product omvatten.
+   >[!NOTE]
+   >
+   >Voor een beheerder van het Profiel van het Product, kunt u profielen voor meer dan één product omvatten.
 
-![&#x200B; voeg admin &#x200B;](assets/add-admin.png) toe
+   ![ voeg admin ](assets/add-admin.png) toe
 
 1. Herzie de admin rollen toewijzen aan de gebruiker en klik **sparen**.
 
 De gebruiker ontvangt een e-mailuitnodiging met betrekking tot de nieuwe beheerrechten van `message@adobe.com` .
 
-De gebruikers moeten **klikken begonnen** in e-mail om zich bij de organisatie aan te sluiten. Als de nieuwe beheerders niet **gebruiken begonnen** verbinding in de e-mailuitnodiging krijgen, zouden zij niet in Admin Console kunnen ondertekenen.
+Gebruikers moeten in de e-mail op **[!UICONTROL Get started]** klikken om lid te worden van de organisatie. Als nieuwe beheerders de koppeling **[!UICONTROL Get started]** niet gebruiken in de e-mailuitnodiging, kunnen ze zich niet aanmelden bij de Admin Console.
 
 Als onderdeel van het aanmeldingsproces kunnen gebruikers worden gevraagd een Adobe-profiel in te stellen als ze dat nog niet hebben. Als gebruikers meerdere profielen hebben die zijn gekoppeld aan hun e-mailadres, moeten gebruikers de optie &quot;Deelnemen aan team&quot; kiezen (indien gevraagd) en vervolgens het profiel selecteren dat is gekoppeld aan de nieuwe organisatie.
 
-![&#x200B; admin rechtenbeeld &#x200B;](assets/admin-get-started-email.png)
+![ admin rechtenbeeld ](assets/admin-get-started-email.png)
 
 ## Teambeheerder toevoegen {#add-admin-teams}
 
@@ -93,28 +92,28 @@ Als beheerder, kunt u de rol van de Beheerder van het Systeem aan andere gebruik
 
 Een systeembeheerder toevoegen of uitnodigen:
 
-1. In Admin Console, kies **Gebruikers** > **Beheerders**.
+1. Kies **[!UICONTROL Adobe Admin Console]** > **[!UICONTROL Users]** in het **[!UICONTROL Administrators]** .
 
    Er wordt een lijst met bestaande beheerders weergegeven.
 
-1. Klik **Admin** toevoegen.
+1. Klik op **[!UICONTROL Add Admin]**.
 
-   **voegt een het schermvertoningen van de Beheerder** toe.
+   Het scherm **[!UICONTROL Add an Administrator]** wordt weergegeven.
 
 1. Voer een naam of e-mailadres in. U kunt zoeken naar bestaande gebruikers of een nieuwe gebruiker toevoegen door een geldig e-mailadres op te geven en de gegevens op het scherm in te vullen.
 
    Systeembeheerder is standaard geselecteerd.
 
-1. Klik **sparen**.
+1. Klik op **[!UICONTROL Save]**.
 
-![&#x200B; teams admin beeld &#x200B;](assets/teams-admin.png)
+![ teams admin beeld ](assets/teams-admin.png)
 
 Aangezien alle gebruikers in een teamorganisatie gebruikers van bedrijfs-id zijn, ontvangen zij een e-mailuitnodiging met betrekking tot de nieuwe administratieve rechten van `message@adobe.com`.
 Gebruikers moeten in de e-mail op Aan de slag klikken om lid te worden van de organisatie.
 
 Als onderdeel van het aanmeldingsproces kunnen gebruikers worden gevraagd een Adobe-profiel in te stellen als ze dat nog niet hebben. Als gebruikers meerdere profielen hebben die zijn gekoppeld aan hun e-mailadres, moeten gebruikers de optie &quot;Deelnemen aan team&quot; kiezen (indien gevraagd) en vervolgens het profiel selecteren dat is gekoppeld aan de nieuwe organisatie.
 
-![&#x200B; admin rechtenbeeld &#x200B;](assets/admin-get-started-email.png)
+![ admin rechtenbeeld ](assets/admin-get-started-email.png)
 
 ## Beheerdersrol voor ondernemingen bewerken
 
@@ -124,14 +123,14 @@ Als beheerder, kunt u de admin rol aan andere admin uitgeven die onder u in de A
 
 Beheerdersrollen bewerken:
 
-1. In Admin Console, kies **Gebruikers** > **Beheerders**. De lijst met bestaande beheerders wordt weergegeven.
+1. Kies **[!UICONTROL Adobe Admin Console]** > **[!UICONTROL Users]** in het **[!UICONTROL Administrators]** . De lijst met bestaande beheerders wordt weergegeven.
 
-   Alternatief, ga naar het relevante Product, het Profiel van het Product, of de Groep van de Gebruiker en navigeer aan **Admins** tabel.
+   U kunt ook naar het desbetreffende product, productprofiel of gebruikersgroep gaan en naar het tabblad **[!UICONTROL Admins]** gaan.
 
 1. Klik op de naam van de beheerder die u wilt bewerken.
-1. In de **Details van de Gebruiker**, klik ![&#x200B; pictogram &#x200B;](assets/one-console-ellipses.png) voor de **Administratieve sectie van Rechten** en kies **Admin rechten** uitgeven.
+1. In **[!UICONTROL User Details]**, klik ![ pictogram ](assets/one-console-ellipses.png) voor de **Administratieve sectie van Rechten** en kies **[!UICONTROL Edit admin rights]**.
 
-   ![&#x200B; geef admin rechten uit &#x200B;](assets/admin-rights-section.png)
+   ![ geef admin rechten uit ](assets/admin-rights-section.png)
 
 1. Bewerk de beheerrechten en sla uw wijzigingen op.
 
@@ -143,13 +142,13 @@ Als beheerder van het Systeem van teams, kunt u de adminvoorrechten van het Syst
 
 U kunt als volgt de rechten voor systeembeheer intrekken:
 
-1. In Admin Console, kies **Gebruikers** > **Beheerders**.
+1. Kies **[!UICONTROL Adobe Admin Console]** > **[!UICONTROL Users]** in het **[!UICONTROL Administrators]** .
 
    De lijst met bestaande beheerders wordt weergegeven.
 
-1. In de Details van de Gebruiker, klik ![&#x200B; pictogram &#x200B;](assets/one-console-ellipses.png) rechts van de **Administratieve sectie van Rechten** en kies **Admin rechten** uitgeven.
+1. In **[!UICONTROL User Details]**, klik ![ pictogram ](assets/one-console-ellipses.png) rechts van de **[!UICONTROL Administrative Rights]** sectie en kies **[!UICONTROL Edit admin rights]**.
 
-   ![&#x200B; geef admin rechten uit &#x200B;](assets/admin-rights-section.png)
+   ![ geef admin rechten uit ](assets/admin-rights-section.png)
 
 1. Bewerk de beheerrechten en sla uw wijzigingen op.
 
@@ -157,9 +156,9 @@ U kunt als volgt de rechten voor systeembeheer intrekken:
 
 Is van toepassing op: Adobe teams Enterprise-klanten.
 
-1. Om admin toestemmingen terug te trekken, selecteer een gebruiker en klik dan **verwijder Admin**.
+Als u beheerdersmachtigingen wilt intrekken, selecteert u een gebruiker en klikt u op **[!UICONTROL Remove Admin]** .
 
-![&#x200B; verwijder admin beeld &#x200B;](assets/remove-admin.png)
+![ verwijder admin beeld ](assets/remove-admin.png)
 
 >[!NOTE]
 >
