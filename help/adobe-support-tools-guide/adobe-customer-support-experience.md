@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Experience League-ondersteuningsticket
 
-De kaartjes van de steun worden nu voorgelegd via [ Experience League ](https://experienceleague.adobe.com/home#support). Voor instructies op hoe te om een steunkaartje voor te leggen, herzie de sectie voor [ het voorleggen van een steunkaartje ](#create-a-support-ticket-with-experience-league).
+De kaartjes van de steun worden nu voorgelegd via [&#x200B; Experience League &#x200B;](https://experienceleague.adobe.com/home#support). Voor instructies op hoe te om een steunkaartje voor te leggen, herzie de sectie voor [&#x200B; het voorleggen van een steunkaartje &#x200B;](#create-a-support-ticket-with-experience-league).
 
 We werken eraan om de interactie met de klantenondersteuning van Adobe te verbeteren. Onze visie is om de supportervaring te stroomlijnen door naar één toegangspunt te gaan, met Experience League. Als uw organisatie eenmaal live is, kunt u eenvoudig toegang krijgen tot de klantenondersteuning van Adobe, meer inzicht krijgen in uw servicegeschiedenis via een gemeenschappelijk systeem voor alle producten en hulp aanvragen via telefoon, web en chat via één portaal.
 
-Als u een gebruiker van Adobe Commerce bent, verwijs naar [ voorleggen een steungeval ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce.
+Als u een gebruiker van Adobe Commerce bent, verwijs naar [&#x200B; voorleggen een steungeval &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce.
 
 ## Ondersteunde rollen die nodig zijn voor het indienen van zaken {#submit-ticket}
 
-Om een steunkaartje in [ Experience League ](https://experienceleague.adobe.com/home#support) voor te leggen, moet u de rol hebben van Admin van de Steun die door een Beheerder van het Systeem wordt toegewezen. Alleen een systeembeheerder in uw organisatie kan deze rol toewijzen. Het product, het Profiel van het Product, en andere administratieve rollen kunnen niet de de adminrol van de Steun toewijzen en kunnen niet de **[!UICONTROL Create Case]** optie bekijken die wordt gebruikt om een steunkaartje voor te leggen. Meer over de verschillende soorten adminrollen en hun rechten leren, verwijs naar [ rollen Admin ](admin-roles.md).
+Om een steunkaartje in [&#x200B; Experience League &#x200B;](https://experienceleague.adobe.com/home#support) voor te leggen, moet u de rol hebben van Admin van de Steun die door een Beheerder van het Systeem wordt toegewezen. Alleen een systeembeheerder in uw organisatie kan deze rol toewijzen. Het product, het Profiel van het Product, en andere administratieve rollen kunnen niet de de adminrol van de Steun toewijzen en kunnen niet de **[!UICONTROL Create Case]** optie bekijken die wordt gebruikt om een steunkaartje voor te leggen. Meer over de verschillende soorten adminrollen en hun rechten leren, verwijs naar [&#x200B; rollen Admin &#x200B;](admin-roles.md).
 
-Als u op Commerce werkt, is het proces voor het delen van toegang tot het werken met ondersteuningsgevallen anders. Om meer te leren, verwijs naar [ Gedeelde toegang: schenkingsvoorrechten voor andere gebruikers om tot uw rekening ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce toegang te hebben.
+Als u op Commerce werkt, is het proces voor het delen van toegang tot het werken met ondersteuningsgevallen anders. Om meer te leren, verwijs naar [&#x200B; Gedeelde toegang: schenkingsvoorrechten voor andere gebruikers om tot uw rekening &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce toegang te hebben.
 
 ### Het toevoegen van steun machtigt rollen aan een organisatie
 
@@ -39,7 +39,7 @@ Een beheerder toevoegen of uitnodigen:
 
    U kunt zoeken naar bestaande gebruikers of een nieuwe gebruiker toevoegen door een geldig e-mailadres op te geven en de gegevens op het scherm in te vullen.
 
-   ![ voeg admin ](assets/admin-console-add-admin.png) toe
+   ![&#x200B; voeg admin &#x200B;](assets/admin-console-add-admin.png) toe
 
 1. Klik op **[!UICONTROL Next]**. Er wordt een lijst met beheerrollen weergegeven.
 
@@ -47,14 +47,14 @@ Om een rol van Admin van de Steun aan een gebruiker toe te wijzen (laat een gebr
 
 1. Selecteer de optie **[!UICONTROL Support administrator]** .
 
-   ![ geef admin rechten ](assets/edit-admin-rights.png) uit
+   ![&#x200B; geef admin rechten &#x200B;](assets/edit-admin-rights.png) uit
 
 1. Kies een van de volgende twee opties:
 
    * Optie 1: **[!UICONTROL Basic support administrator]**. Selecteer deze optie als u de gebruikersondersteuning toegang wilt geven tot alle oplossingen (behalve Marketo Engage).
    * Optie 2: **[!UICONTROL Product support administrator]**: selecteer deze optie voor Marketo Engage-ondersteuning. Selecteer welke Marketo Engage-instanties de gebruiker toegang geven.
 
-   ![ geef admin rechten Marketo ](assets/edit-admin-rights-advanced.png) uit
+   ![&#x200B; geef admin rechten Marketo &#x200B;](assets/edit-admin-rights-advanced.png) uit
 
 1. Als u de selecties hebt aangebracht, klikt u op **[!UICONTROL Save]** .
 
@@ -64,22 +64,22 @@ De gebruikers moeten **klikken begonnen** in e-mail om zich bij de organisatie a
 
 Als onderdeel van het aanmeldingsproces kunnen gebruikers worden gevraagd een Adobe-profiel in te stellen als ze dat nog niet hebben. Als de gebruikers veelvoudige profielen verbonden aan hun e-mailadres hebben, moeten de gebruikers **tot Team** (als ertoe aangezet) kiezen toetreden en dan het profiel selecteren verbonden aan de nieuwe organisatie.
 
-![ Bevestiging van Admin-rechten ](assets/admin-rights-confirmation.png)
+![&#x200B; Bevestiging van Admin-rechten &#x200B;](assets/admin-rights-confirmation.png)
 
-Voor meer details volg [ onderneming admin instructies ](admin-roles.md#add-enterprise-role) in de administratieve roldocumentatie. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Voor meer informatie over administratieve hiërarchie, bezoek de [ administratieve rollen ](admin-roles.md) documentatie.
+Voor meer details volg [&#x200B; onderneming admin instructies &#x200B;](admin-roles.md#add-enterprise-role) in de administratieve roldocumentatie. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Voor meer informatie over administratieve hiërarchie, bezoek de [&#x200B; administratieve rollen &#x200B;](admin-roles.md) documentatie.
 
 ### Een ondersteuningsticket maken met Experience League
 
 >[!NOTE]
 >
-> Alvorens een steunkaartje voor te leggen, overweeg het controleren van het systeemprestaties, beschikbaarheid, en oplossingskwesties bij de [ status van Adobe ](https://status.adobe.com) plaats.
+> Alvorens een steunkaartje voor te leggen, overweeg het controleren van het systeemprestaties, beschikbaarheid, en oplossingskwesties bij de [&#x200B; status van Adobe &#x200B;](https://status.adobe.com) plaats.
 
 Het proces voor het indienen van ondersteuningszaken is nu direct geïntegreerd met het Experience League-ondersteuningsplatform. Dit is een zelfbedieningsportaal dat onlangs opnieuw werd ontworpen om meer verpersoonlijking en gebruiksgemak voor gerechtigde klanten aan te bieden.
 
-1. Om een kaartje tot stand te brengen gebruikend [ Experience League ](https://experienceleague.adobe.com/home#support), selecteer het **[!UICONTROL Support]** lusje dat in de hoogste navigatie wordt gevestigd.
-   ![ de league steunlusje van de Ervaring ](./assets/experience-league-support-tab.png)
+1. Om een kaartje tot stand te brengen gebruikend [&#x200B; Experience League &#x200B;](https://experienceleague.adobe.com/home#support), selecteer het **[!UICONTROL Support]** lusje dat in de hoogste navigatie wordt gevestigd.
+   ![&#x200B; de league steunlusje van de Ervaring &#x200B;](./assets/experience-league-support-tab.png)
 1. Vanuit de ondersteuningstartpagina kunt u eenvoudig naar uw open ondersteuningsgevallen navigeren, een nieuw geval registreren, de bovenste ondersteuningsartikelen weergeven of aanvullende leerbronnen openen.
-   ![ de steunmiddelen van de liga van de Ervaring ](./assets/experience-league-support-resources.png)
+   ![&#x200B; de steunmiddelen van de liga van de Ervaring &#x200B;](./assets/experience-league-support-resources.png)
 1. Selecteer **[!UICONTROL Open a support ticket]** als u een kwestie wilt verzenden. Selecteer ook de optie **[!UICONTROL Open Ticket]** in het zijbalkmenu.
 
 
@@ -87,7 +87,7 @@ Het proces voor het indienen van ondersteuningszaken is nu direct geïntegreerd 
 
 1. Nadat u **[!UICONTROL Open a support ticket]** hebt geselecteerd, wordt u doorgestuurd naar de pagina voor het maken van hoofdletters en kleine letters. Hier kunt u de productnaam invoeren (Audience Manager, Campagne, Doel, enzovoort), **[!UICONTROL Case title]** en **[!UICONTROL Case description]** .
 
-   ![ de league open kaartje van de Ervaring ](./assets/experience-league-open-ticket.png)
+   ![&#x200B; de league open kaartje van de Ervaring &#x200B;](./assets/experience-league-open-ticket.png)
 
    Voeg de volgende informatie toe in het veld **[!UICONTROL Case description]** om het proces voor het oplossen van problemen te versnellen:
 
@@ -109,9 +109,9 @@ Het proces voor het indienen van ondersteuningszaken is nu direct geïntegreerd 
    * Zakelijke impact
    * Tijdzone voor klanten (Noord- en Zuid-Amerika, EMEA, APAC)
 
-   Voor details op hoe de Prioriteit van het Geval en de BedrijfsEffect de reactietijden van de steun beïnvloeden, verwijs naar [ Gerichte Eerste Tijden van de Reactie voor Steun ](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in de Documentatie van de Middelen van de Abonnementen van het Succes.
+   Voor details op hoe de Prioriteit van het Geval en de BedrijfsEffect de reactietijden van de steun beïnvloeden, verwijs naar [&#x200B; Gerichte Eerste Tijden van de Reactie voor Steun &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in de Documentatie van de Middelen van de Abonnementen van het Succes.
 
-![ het kaartkaartprioriteit van de Ervaring league ](./assets/experience-league-ticket-priority.png)
+![&#x200B; het kaartkaartprioriteit van de Ervaring league &#x200B;](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
