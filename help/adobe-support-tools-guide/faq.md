@@ -57,7 +57,7 @@ Klanten ontvangen instructies en coördinatie van een intern Workfront-team dat 
 
 +++**wat zijn de opleidingsmiddelen beschikbaar voor AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/nl/enterprise/using/admin-console.html >
 
 +++
 
