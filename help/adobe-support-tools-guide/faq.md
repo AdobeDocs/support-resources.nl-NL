@@ -2,9 +2,9 @@
 keywords: Veelgestelde vragen;veelgestelde vragen
 title: Adobe Business Platform en Admin Console - Veelgestelde vragen
 description: Veelgestelde vraag voor Adobe Workfront
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 6%
 
 ---
@@ -51,13 +51,13 @@ Klanten ontvangen instructies en coördinatie van een intern Workfront-team dat 
 
 +++**Welke nieuwe eigenschappen zijn in AAC momenteel niet beschikbaar aan klanten in Workfront?**
 
-Gelieve te zien [&#x200B; dit document &#x200B;](overview.md) benadrukkend enkele nieuwe beschikbare eigenschaptoevoegingen.
+
 
 +++
 
 +++**wat zijn de opleidingsmiddelen beschikbaar voor AAC?**
 
-&lt;https://helpx.adobe.com/nl/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
