@@ -1,6 +1,6 @@
 ---
 title: Tijdelijke Adobe Commerce aanvragen voor uitgebreide cloudinfrastructuur
-description: Als uw organisatie een online gebeurtenis plant waarin u veel verkeer verwacht, of u plotseling vindt dat uw site een gebeurtenis met veel verkeer ondergaat, kunt u een [Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) indienen om tijdelijke extra wolkencapaciteit voor uw Adobe Commerce aan te vragen in de cloudinfrastructuur.
+description: Als uw organisatie een online gebeurtenis plant waarin u veel verkeer verwacht, of u plotseling vindt dat uw site een gebeurtenis met veel verkeer ondergaat, kunt u een [Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL#submit-ticket) indienen om tijdelijke extra wolkencapaciteit voor uw Adobe Commerce aan te vragen in de cloudinfrastructuur.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Tijdelijke Adobe Commerce aanvragen voor uitgebreide cloudinfrastructuur
 
-Als uw organisatie een online gebeurtenis plant waarin u hoog verkeer verwacht, of u plotseling uw plaats vindt om een hoge verkeersgebeurtenis te ondergaan, kunt u a [&#x200B; Ticket van de Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) indienen om tijdelijke extra wolkencapaciteit voor uw Adobe Commerce op de opslag van de wolkeninfrastructuur te verzoeken.
+Als uw organisatie een online gebeurtenis plant waarin u hoog verkeer verwacht, of u plotseling uw plaats vindt om een hoge verkeersgebeurtenis te ondergaan, kunt u a [&#x200B; Ticket van de Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL#submit-ticket) indienen om tijdelijke extra wolkencapaciteit voor uw Adobe Commerce op de opslag van de wolkeninfrastructuur te verzoeken.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Bovendien werkt basislijnwaarschuwingen goed met nieuwe toepassingen wanneer u n
 
 Volg deze verbinding om meer over New Relic [&#x200B; Anomaly opsporing met toegepaste Intelligentie &#x200B;](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/) te leren.
 
-Als u een waakzaam bericht ontvangt dat een hoge verkeersgebeurtenis voorstelt kunt u [&#x200B; overwegen die een Bestelwagen van de Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) voorleggen om extra capaciteit te vragen. Voer de onderstaande stappen uit.
+Als u een waakzaam bericht ontvangt dat een hoge verkeersgebeurtenis voorstelt kunt u [&#x200B; overwegen die een Bestelwagen van de Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL#submit-ticket) voorleggen om extra capaciteit te vragen. Voer de onderstaande stappen uit.
 
 ## De prestaties van uw site controleren
 
@@ -50,7 +50,7 @@ Volg deze verbinding om te leren hoe te [&#x200B; op prestaties-gebaseerde alarm
 
 ## Stappen om tijdelijke upgrade aan te vragen
 
-Om tijdelijke extra wolkencapaciteit aan te vragen, leg het Ticket van de a [&#x200B; Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) bij het Centrum van de Steun van Adobe Commerce met de volgende informatie voor:
+Om tijdelijke extra wolkencapaciteit aan te vragen, leg het Ticket van de a [&#x200B; Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL#submit-ticket) bij het Centrum van de Steun van Adobe Commerce met de volgende informatie voor:
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Om tijdelijke extra wolkencapaciteit aan te vragen, leg het Ticket van de a [&#x
 
 >[!NOTE]
 >
->Wanneer de upgrade is gepland, past een geautomatiseerd systeem de grootte van uw cloudinstantie aan. U kunt geen kaartmelding ontvangen wanneer de procedure is voltooid. U kunt de Waarneming voor het hulpmiddel van Adobe Commerce gebruiken om uw AWS of Azure instantietypes te bekijken om [&#x200B; de verandering &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce) te verifiëren.
+>Wanneer de upgrade is gepland, past een geautomatiseerd systeem de grootte van uw cloudinstantie aan. U kunt geen kaartmelding ontvangen wanneer de procedure is voltooid. U kunt de Waarneming voor het hulpmiddel van Adobe Commerce gebruiken om uw AWS of Azure instantietypes te bekijken om [&#x200B; de verandering &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce) te verifiëren.
 
 ## De geschiedenis van uw upformaten weergeven
 
