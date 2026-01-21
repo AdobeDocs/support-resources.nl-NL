@@ -22,7 +22,7 @@ De nieuwe ervaring bij het maken van hoofdletters en kleine letters introduceert
 
 *vrijdag 15 januari 2026*
 
-![ Nieuw ](../adobe-support-tools-guide/assets/new.svg) de gevalsvorm wordt georganiseerd in een geleide stroom, die gebruikers helpen begrijpen welke informatie in elk stadium wordt vereist:
+![&#x200B; Nieuw &#x200B;](../adobe-support-tools-guide/assets/new.svg) de gevalsvorm wordt georganiseerd in een geleide stroom, die gebruikers helpen begrijpen welke informatie in elk stadium wordt vereist:
 
 - [!UICONTROL Product Selection]
 - [!UICONTROL Issue Details]
@@ -31,9 +31,9 @@ De nieuwe ervaring bij het maken van hoofdletters en kleine letters introduceert
 - [!UICONTROL Contact Information]
 - [!UICONTROL Review and Submit]
 
-![ Nieuw ](../adobe-support-tools-guide/assets/new.svg) Toegevoegde **Nieuw [!UICONTROL Steps to Reproduce] Gebied** om actionable details te vangen en het oplossen van problemen te versnellen.
+![&#x200B; Nieuw &#x200B;](../adobe-support-tools-guide/assets/new.svg) Toegevoegde **Nieuw [!UICONTROL Steps to Reproduce] Gebied** om actionable details te vangen en het oplossen van problemen te versnellen.
 
-![ Nieuwe ](../adobe-support-tools-guide/assets/new.svg) Toegevoegde **Extra [!UICONTROL Environment Context] Gebieden** voor gerechtigde producten om kritieke details te vangen:
+![&#x200B; Nieuwe &#x200B;](../adobe-support-tools-guide/assets/new.svg) Toegevoegde **Extra [!UICONTROL Environment Context] Gebieden** voor gerechtigde producten om kritieke details te vangen:
 
 - **Marketo**
    - Munchkin-id
@@ -55,14 +55,14 @@ De nieuwe ervaring bij het maken van hoofdletters en kleine letters introduceert
    - Eigenschappennaam tags
 
 
-![ Nieuw ](../adobe-support-tools-guide/assets/new.svg) Toegevoegde een **AI-Gedreven[!UICONTROL Recommendations Panel]** om nuttige begeleiding te tonen zonder de stroom van de gevalverwezenlijking te onderbreken.
+![&#x200B; Nieuw &#x200B;](../adobe-support-tools-guide/assets/new.svg) Toegevoegde een **AI-Gedreven[!UICONTROL Recommendations Panel]** om nuttige begeleiding te tonen zonder de stroom van de gevalverwezenlijking te onderbreken.
 
-![ Nieuw ](../adobe-support-tools-guide/assets/new.svg) toegevoegde a [!UICONTROL Review Summary] stap om een geconsolideerde mening van alle binnengekomen informatie te verstrekken en gebruikers toe te staan om:
+![&#x200B; Nieuw &#x200B;](../adobe-support-tools-guide/assets/new.svg) toegevoegde a [!UICONTROL Review Summary] stap om een geconsolideerde mening van alle binnengekomen informatie te verstrekken en gebruikers toe te staan om:
 
 - Details van kwestie op één plaats bekijken
 - Ga terug naar vorige stappen om bewerkingen uit te voeren
 - Terug naar de samenvatting zonder dat de voortgang verloren gaat
 
-![ verbeter ](../adobe-support-tools-guide/assets/fix.svg) anders genoemd Gebied van de Beschrijving van het Geval aan *[!UICONTROL "Please describe the issue"]* voor betere duidelijkheid.
+![&#x200B; verbeter &#x200B;](../adobe-support-tools-guide/assets/fix.svg) anders genoemd Gebied van de Beschrijving van het Geval aan *[!UICONTROL "Please describe the issue"]* voor betere duidelijkheid.
 
-![ bevestig ](../adobe-support-tools-guide/assets/fix.svg) Toegevoegde asterisk (*) als Verplichte Indicatoren van het Gebied om volledigheid te verzekeren en voorleggingsfouten te verminderen.
+![&#x200B; bevestig &#x200B;](../adobe-support-tools-guide/assets/fix.svg) Toegevoegde asterisk (*) als Verplichte Indicatoren van het Gebied om volledigheid te verzekeren en voorleggingsfouten te verminderen.
