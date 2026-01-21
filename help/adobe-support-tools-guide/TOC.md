@@ -1,29 +1,30 @@
 ---
-user-guide-title: Handleiding voor Adobe-ondersteuning en -tools
-user-guide-description: Gedetailleerde instructies en updates voor Adobe-ondersteuning en -tools.
+user-guide-title: Adobe Support & Tools Gids
+user-guide-description: Gedetailleerde richtlijnen en updates over Adobe-ondersteuning en tools.
 feature-set: Experience Cloud
 feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
+source-git-commit: c0ddf681f46a7646cbdebf1a43b6a0b50b6a7229
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '71'
 ht-degree: 1%
 
 ---
 
 
-# Handleiding voor Adobe-ondersteuning en -tools {#adobe-support-tools-guide}
+# Adobe Support &amp; Tools Gids {#adobe-support-tools-guide}
 
-- [Experience League Support Portal](adobe-customer-support-experience.md)
-- [Telefoonnummer bijwerken](phone-numbers.md)
-- [Beheerdersrollen](admin-roles.md)
-- Adobe Workfront-ondersteuning {#workfront}
+- [Experience League Ondersteuningsportaal](adobe-customer-support-experience.md)
+- [Update van het supporttelefoonnummer](phone-numbers.md)
+- [Administratieve functies](admin-roles.md)
+- [Nieuwe Ervaringsliga-case indienformulier Vrijgavenotities](release-notes.md)
+- Adobe Workfront Support {#workfront}
    - [Veelgestelde vragen](faq.md)
-- Adobe Commerce-ondersteuning {#adobe-commerce-support}
-   - [Tijdelijke Adobe Commerce aanvragen voor uitgebreide cloudinfrastructuur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
-   - [Hotline voor meldingen in Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
-   - [Toegang tot gegevens en privacy van Adobe-ondersteuningsklanten](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
-   - [Beleidsupdate voor Adobe Commerce Support-beleid voor de levenscyclus van tickets](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+- Adobe Commerce Ondersteuning {#adobe-commerce-support}
+   - [Hoe vraag je tijdelijke Adobe Commerce upsize aan bij cloudinfrastructuur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+   - [Adobe Commerce P1 notificatielijn](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe ondersteunt klantgegevenstoegang en privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Adobe Commerce Support levenscyclusbeleid voor tickets](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
