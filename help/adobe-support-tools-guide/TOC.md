@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
+source-git-commit: 0c7a2b704888ab254ef69b5ae004014105ff702c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 # Handleiding voor Adobe-ondersteuning en -tools {#adobe-support-tools-guide}
 
-- [Experience League Support Portal](adobe-customer-support-experience.md)
+- [Adobe-ervaring voor klantenondersteuning](adobe-customer-support-experience.md)
+- [Adobe-configuratie voor klantenondersteuning](adobe-customer-support-entitlement-configuration.md)
 - [Telefoonnummer bijwerken](phone-numbers.md)
 - [Beheerdersrollen](admin-roles.md)
 - Adobe Workfront-ondersteuning {#workfront}
