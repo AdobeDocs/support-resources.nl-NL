@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 83b4ede5051adc491ce8ed51a2a147d4fcf59020
+source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '70'
 ht-degree: 1%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 1%
    - [Hotline voor meldingen in Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Toegang tot gegevens en privacy van Adobe-ondersteuningsklanten](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Beleidsupdate voor Adobe Commerce Support-beleid voor de levenscyclus van tickets](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
-
+   - [Adobe Commerce-ondersteuningsprogramma&#39;s in één oogopslag](adobe-commerce-support/support-tools-overview.md)
