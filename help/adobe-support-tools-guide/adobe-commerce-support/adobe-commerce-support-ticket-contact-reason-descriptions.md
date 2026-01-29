@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce-ondersteuningsticket **[!UICONTROL Issue Reason]** beschrijvingen
+title: Adobe Commerce-ondersteuningsticket [!UICONTROL Issue Reason] beschrijvingen
 description: Dit artikel maakt een lijst van het steunkaartje **[!UICONTROL Issue Reason]** gebiedsopties en verstrekt gedetailleerde beschrijvingen van elk.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce-ondersteuningsticket **[!UICONTROL Issue Reason]** beschrijvingen
+# Adobe Commerce-ondersteuningsticket [!UICONTROL Issue Reason] beschrijvingen
 
 Dit artikel bevat een overzicht van de opties in de velden voor het ondersteuningsticket **[!UICONTROL Issue Reason]** en een gedetailleerde beschrijving van elke optie.
 
@@ -55,4 +55,4 @@ Dit artikel bevat een overzicht van de opties in de velden voor het ondersteunin
 
 ## Gerelateerde lezing
 
-* [&#x200B; leg een steungeval &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce voor.
+* [ leg een steungeval ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce voor.
