@@ -6,16 +6,17 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3b0588fd01010fb40640362b7fe24c5b28fb5faf
+source-git-commit: 70f2eb86f4c19c9e1b0b20f35a763d67d6bb8dab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 0%
 
 ---
 
 
 # Handleiding voor Adobe-ondersteuning en -tools {#adobe-support-tools-guide}
 
+- [Overzicht van de Adobe-handleiding voor ondersteuning en tools](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe-ervaring voor klantenondersteuning](adobe-customer-support-experience.md)
 - [Adobe-configuratie voor klantenondersteuning](adobe-customer-support-entitlement-configuration.md)
 - [Telefoonnummer bijwerken](phone-numbers.md)
