@@ -55,4 +55,4 @@ Dit artikel bevat een overzicht van de opties in de velden voor het ondersteunin
 
 ## Gerelateerde lezing
 
-* [&#x200B; leg een steungeval &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce voor.
+* [&#x200B; leg een steungeval &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in de Gids van de Gebruiker van de Steun van Experience League voor Adobe Commerce voor.
