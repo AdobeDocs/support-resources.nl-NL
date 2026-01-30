@@ -28,7 +28,7 @@ Een beheerder toevoegen of uitnodigen:
 
    U kunt zoeken naar bestaande gebruikers of een nieuwe gebruiker toevoegen door een geldig e-mailadres op te geven en de gegevens op het scherm in te vullen.
 
-   ![ voeg admin ](assets/admin-console-add-admin.png) toe
+   ![&#x200B; voeg admin &#x200B;](assets/admin-console-add-admin.png) toe
 
 1. Klik op **[!UICONTROL Next]**. Er wordt een lijst met beheerrollen weergegeven.
 
@@ -36,14 +36,14 @@ Een **[!UICONTROL Support administrator]** -rol toewijzen aan een gebruiker (een
 
 1. Selecteer de optie **[!UICONTROL Support administrator]** .
 
-   ![ geef admin rechten ](assets/edit-admin-rights.png) uit
+   ![&#x200B; geef admin rechten &#x200B;](assets/edit-admin-rights.png) uit
 
 1. Kies een van de volgende twee opties:
 
    * Optie 1: **[!UICONTROL Basic support administrator]**. Selecteer deze optie als u de gebruikersondersteuning toegang wilt geven tot alle oplossingen (behalve Marketo Engage).
    * Optie 2: **[!UICONTROL Product support administrator]**: selecteer deze optie voor Marketo Engage-ondersteuning. Selecteer welke Marketo Engage-instanties de gebruiker toegang geven.
 
-   ![ geef admin rechten Marketo ](assets/edit-admin-rights-advanced.png) uit
+   ![&#x200B; geef admin rechten Marketo &#x200B;](assets/edit-admin-rights-advanced.png) uit
 
 1. Als u de selecties hebt aangebracht, klikt u op **[!UICONTROL Save]** .
 
@@ -53,6 +53,6 @@ Gebruikers moeten in de e-mail op **[!UICONTROL Get started]** klikken om lid te
 
 Als onderdeel van het aanmeldingsproces kunnen gebruikers worden gevraagd een Adobe-profiel in te stellen als ze dat nog niet hebben. Als gebruikers meerdere profielen hebben gekoppeld aan hun e-mailadres, moeten gebruikers **[!UICONTROL Join Team]** kiezen (indien gevraagd) en vervolgens het profiel selecteren dat is gekoppeld aan de nieuwe organisatie.
 
-![ Bevestiging van Admin-rechten ](assets/admin-rights-confirmation.png)
+![&#x200B; Bevestiging van Admin-rechten &#x200B;](assets/admin-rights-confirmation.png)
 
-Voor meer details verwijs naar [ uitgeeft onderneming admin rolinstructies ](admin-roles.md#edit-enterprise-admin-role) in de administratieve roldocumentatie. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Voor meer informatie over administratieve hiërarchie, bezoek de [ Administratieve rollen ](admin-roles.md) documentatie.
+Voor meer details verwijs naar [&#x200B; uitgeeft onderneming admin rolinstructies &#x200B;](admin-roles.md#edit-enterprise-admin-role) in de administratieve roldocumentatie. Merk op dat slechts een systeembeheerder voor uw organisatie deze rol kan toewijzen. Voor meer informatie over administratieve hiërarchie, bezoek de [&#x200B; Administratieve rollen &#x200B;](admin-roles.md) documentatie.
