@@ -22,13 +22,13 @@ Deze aanvullende informatie bevat updates voor de [!DNL Adobe Success portal] en
 
 _nov 11, 2025_
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) geoptimaliseerde de gespreksorde in de pagina van case details om aan het recentste bericht automatisch te scrollen.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) geoptimaliseerde de gespreksorde in de pagina van case details om aan het recentste bericht automatisch te scrollen.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) Bijgewerkte case details zodat wanneer geopend in een nieuw lusje gebruikend **Ctrl+Click** / **Command+Click**, de Achterknoop behoorlijk gehandicapt is om navigatiefouten te verhinderen.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) Bijgewerkte case details zodat wanneer geopend in een nieuw lusje gebruikend **Ctrl+Click** / **Command+Click**, de Achterknoop behoorlijk gehandicapt is om navigatiefouten te verhinderen.
 
-![ Bug ](../adobe-success-portal/assets/bug.svg) Vaste een kwestie waar de onjuiste status, het gebied, of de details van de tijdzone voor **[!UICONTROL Adobe Status]** alarm in **[!UICONTROL Support & Insights]** werden getoond.
+![&#x200B; Bug &#x200B;](../adobe-success-portal/assets/bug.svg) Vaste een kwestie waar de onjuiste status, het gebied, of de details van de tijdzone voor **[!UICONTROL Adobe Status]** alarm in **[!UICONTROL Support & Insights]** werden getoond.
 
-![ Bug ](../adobe-success-portal/assets/bug.svg) Opgeloste vertoningskwesties met **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Strategic Partners]**.
+![&#x200B; Bug &#x200B;](../adobe-success-portal/assets/bug.svg) Opgeloste vertoningskwesties met **[!UICONTROL Accelerators]** en **[!UICONTROL Activities]** verbonden aan **[!UICONTROL Strategic Partners]**.
 
 ## 3,0
 
@@ -58,7 +58,7 @@ _9 oktober 2025_
 
 ![Oplossing](../adobe-success-portal/assets/fix.svg) Toont alle **[!UICONTROL Strategic Partners]** die aan een account zijn gekoppeld, met indicatoren voor primaire contactpersonen.
 
-![ bevestig ](../adobe-success-portal/assets/fix.svg) een kwestie waar de tijdstreken in **[!UICONTROL Alerts & Adobe Status]** niet het het programma geopende profiel van de gebruiker correct weerspiegelden.
+![&#x200B; bevestig &#x200B;](../adobe-success-portal/assets/fix.svg) een kwestie waar de tijdstreken in **[!UICONTROL Alerts & Adobe Status]** niet het het programma geopende profiel van de gebruiker correct weerspiegelden.
 
 ![Oplossing](../adobe-success-portal/assets/fix.svg) Er is een probleem opgelost waarbij filters in **[!UICONTROL Alerts & Adobe Status]** niet zoals verwacht samenwerkten.
 
