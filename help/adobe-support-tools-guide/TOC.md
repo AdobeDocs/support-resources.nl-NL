@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: b7138e6466c90b6ada3137cfc2b85f236fa8d19c
+source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,5 @@ ht-degree: 0%
    - [Veelgestelde vragen over einde Adobe Commerce-software](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Beschrijvingen van Reden voor Adobe Commerce-ondersteuningsticket](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce-ondersteuningsprogramma&#39;s in één oogopslag](adobe-commerce-support/support-tools-overview.md)
+   - [Hoe te om een teamlid in de berichten van de Steun te omvatten](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [Partner Adobe Commerce op verzoek van cloud-infrastructuursandbox](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
