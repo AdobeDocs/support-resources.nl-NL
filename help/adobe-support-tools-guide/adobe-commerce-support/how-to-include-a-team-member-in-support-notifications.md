@@ -32,14 +32,14 @@ In dit artikel wordt uitgelegd hoe u een teamlid opneemt om automatisch updates 
 
 Als ze niet aan het project zijn toegevoegd, moet u ze toevoegen als een [!DNL Super User] en een gift [!DNL Shared Access] :
 
-* [&#x200B; beheert gebruikerstoegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) in onze gebruikersgids.
-* [&#x200B; Onbekwaam om gebruiker aan het wolkenproject van Adobe Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html) in onze Kennisbank van Commerce toe te voegen.
-* [&#x200B; de Gids van de Gebruiker van het Centrum van de Hulp van Adobe Commerce: Gedeelde Toegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) in onze Kennisbank van Commerce.
+* [&#x200B; beheert gebruikerstoegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=nl-NL) in onze gebruikersgids.
+* [&#x200B; Onbekwaam om gebruiker aan het wolkenproject van Adobe Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=nl-NL) in onze Kennisbank van Commerce toe te voegen.
+* [&#x200B; de Gids van de Gebruiker van het Centrum van de Hulp van Adobe Commerce: Gedeelde Toegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL#shared-access) in onze Kennisbank van Commerce.
 
-Als zij aan [!DNL cloud project] zijn toegevoegd, maar niet [!DNL Super User role] hebben, werk hun [!DNL role] dienovereenkomstig in [&#x200B; bij leidt gebruikerstoegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html).
+Als zij aan [!DNL cloud project] zijn toegevoegd, maar niet [!DNL Super User role] hebben, werk hun [!DNL role] dienovereenkomstig in [&#x200B; bij leidt gebruikerstoegang &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=nl-NL).
 
-Als u wenst om een teamlid toe te laten om een watcher op alle gevallen te zijn die voor uw organisatie worden geopend, leg het kaartje van de a [&#x200B; Steun &#x200B;](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support) voor.
+Als u wenst om een teamlid toe te laten om een watcher op alle gevallen te zijn die voor uw organisatie worden geopend, leg het kaartje van de a [&#x200B; Steun &#x200B;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=home#support) voor.
 
 ## Gerelateerde lezing
 
-[&#x200B; de Voormalige teamleden ontvangen de e-mails van het de wolkenbericht van Adobe Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)
+[&#x200B; de Voormalige teamleden ontvangen de e-mails van het de wolkenbericht van Adobe Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=nl-NL)
