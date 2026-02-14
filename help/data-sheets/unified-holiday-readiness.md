@@ -133,7 +133,7 @@ Verwijs naar [&#x200B; beste praktijken van AJO Experimentation Accelerator &#x2
 
 ### Best practices
 
-* Omnichannel orchestratie gebruiken. Verwijs naar het blog [&#x200B; Essentiële omnichannel klantenreizen voor overeenkomst en de groei &#x200B;](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) artikel dat een vakantiejaarvoorbeeld met AJO toont.
+* Omnichannel orchestratie gebruiken. Verwijs naar het blog [&#x200B; Essentiële omnichannel klantenreizen voor overeenkomst en de groei &#x200B;](https://business.adobe.com/nl/blog/essential-customer-journeys-for-omnichannel-engagement) artikel dat een vakantiejaarvoorbeeld met AJO toont.
 * Prioriteit geven aan real-time triggers, indien van toepassing. Bijvoorbeeld: winkelwagentjes verlaten, verlaten bladeren, en voorraadalarm, aangezien de vakantiekopers reactiever zijn.
 * Segmentatie en personalisatie van de hefboomwerking: doel high-intent segmenten, maak aanbiedingen op basis van eerder aankoopgedrag, en voorkeur.
 * Minimale vermoeidheid bij berichten: Drijf uiteinden en rustige uren om overmatig opdrijven te voorkomen. Verwijs naar [&#x200B; de Ervaring van de Klant met het Kappen van de Frequentie van de Dagelijkse in AJO &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=nl) blogpost verhogen.
@@ -212,7 +212,7 @@ Volg de aanbevelingen in de [&#x200B; Planning en het Draaien: Een strategische 
 
 ### Best practices
 
-* Volg de gids van Adobe [&#x200B; hoe te om uw infrastructuur voor hoog verkeer voor te bereiden — 5 Ps van piekseizoenprestaties &#x200B;](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
+* Volg de gids van Adobe [&#x200B; hoe te om uw infrastructuur voor hoog verkeer voor te bereiden — 5 Ps van piekseizoenprestaties &#x200B;](https://business.adobe.com/nl/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
 * Controle uit [&#x200B; technische uiteinden voor de vakantiebereidheid van Commerce &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness) voor uiteinden op hoe te om uw infrastructuur voor hoog verkeer voor te bereiden, onderbreking te verhinderen, en prestaties in de vakantieperiode te optimaliseren.
 
 +++
