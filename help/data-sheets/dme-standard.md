@@ -2,7 +2,7 @@
 title: Standaardondersteuning voor Adobe Creative Cloud en Adobe Document Cloud
 description: Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen. Deze bronnen maken deel uit van uw Adobe Enterprise-ondersteuning. Standaardondersteuning omvat 24x7 toegang tot onze resources voor zelfondersteuning, waaronder artikelen over HelpX en de betrokkenheid bij andere klanten in de Adobe-community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe biedt een uitgebreide reeks technische bronnen om uw bedrijf te helpen ondersteunen. Deze bronnen maken deel uit van uw Adobe Enterprise-ondersteuning. Standaardondersteuning omvat 24x7 toegang tot onze resources voor zelfondersteuning, waaronder artikelen over HelpX en de betrokkenheid bij andere klanten in de Adobe-community.
 
-U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocumentatie en actuele aanvullende opmerkingen die zijn gepubliceerd op <http://www.adobe.com>. Onze standaardondersteuning omvat ook 24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze teams voor technische ondersteuning via chat of telefonisch, en de mogelijkheid om aanvragen voor hulp in te dienen via onze webportal voor ondersteuning.
+U kunt gebruikmaken van onze gedetailleerde en diepgaande technische productdocumentatie en actuele aanvullende opmerkingen die zijn gepubliceerd op <https://www.adobe.com>. Onze standaardondersteuning omvat ook 24x7 toegang voor geautoriseerde gebruikers (beheerders) tot onze teams voor technische ondersteuning via chat of telefonisch, en de mogelijkheid om aanvragen voor hulp in te dienen via onze webportal voor ondersteuning.
 
 [PDF-versie weergeven](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -266,10 +266,10 @@ Adobe-klantenondersteuning biedt toegang tot bronnen voor documentatie en samenw
 
 | Bron | Beschrijving |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/nl) | Experience League is een plek waar Adobe-klanten zelfhulptutorials, productdocumentatie, training onder leiding van een instructeur, community en ondersteuning voor bepaalde Adobe Creative Cloud- en Document-producten kunnen vinden. |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League is een plek waar Adobe-klanten zelfhulptutorials, productdocumentatie, training onder leiding van een instructeur, community en ondersteuning voor bepaalde Adobe Creative Cloud- en Document-producten kunnen vinden. |
 | [Adobe-ondersteuningscommunity](https://community.adobe.com/) | De Adobe-ondersteuningscommunity is de plaats om vragen te stellen, antwoorden te vinden, van experts te leren en uw kennis te delen. |
 | [Productieproblemen en systeemuitval](https://status.adobe.com/) | Status.adobe.com geeft de statusinformatie weer van alle Adobe-producten en -services die worden geïmplementeerd in omgevingen met meerdere tenants. Klanten kunnen lidmaatschapsvoorkeuren kiezen om e-mailmeldingen te ontvangen wanneer Adobe een productgebeurtenis maakt, bijwerkt of oplost. Voorbeelden zijn gepland onderhoud of serviceproblemen van verschillende ernst. |
-| [Voorwaarden en bepalingen](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
+| [Voorwaarden en bepalingen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Voorwaarden en bepalingen voor het aanbod van ondersteuningsservices. |
 
 {style="table-layout:auto"}
 
