@@ -15,4 +15,4 @@ De Adobe Admin Console is een centrale locatie voor het beheer van Adobe-rechten
 
 [!VIDEO](https://youtu.be/hDOhQL9xPRY)
 
-Leer meer over [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) in de Gids van het Beleid van de Onderneming.
+Leer meer over [&#x200B; Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) in de Gids van het Beleid van de Onderneming.
