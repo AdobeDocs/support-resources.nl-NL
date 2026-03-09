@@ -30,4 +30,4 @@ Systeembeheerders van organisaties kunnen het proces volgen om een tijdslimiet v
 
 1. Controleer **[!UICONTROL Authentication levels]** en selecteer het meest geschikte verificatieniveau voor uw gebruikers: **[!UICONTROL Easiest for Users]** , **[!UICONTROL More Secure]** , **[!UICONTROL Most Secure]** .
 
-Bezoek de [&#x200B; montagesHelpx van de Authentificatie &#x200B;](https://helpx.adobe.com/enterprise/using/authentication-settings.html) om meer over beschikbare authentificatie en veiligheidsbeleid te weten te komen.
+Bezoek de [&#x200B; montagesHelpx van de Authentificatie &#x200B;](https://helpx.adobe.com/nl/enterprise/using/authentication-settings.html) om meer over beschikbare authentificatie en veiligheidsbeleid te weten te komen.
