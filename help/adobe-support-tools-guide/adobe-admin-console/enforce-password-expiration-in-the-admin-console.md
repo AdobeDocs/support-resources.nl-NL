@@ -20,14 +20,14 @@ Systeembeheerders van organisaties kunnen het proces volgen om een tijdslimiet v
 
 ## Omgeving
 
-[ Adobe Admin Console ](https://adminconsole.adobe.com/)
+[&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/)
 
 ## Stappen
 
-1. Ga naar [ Adobe Admin Console ](https://adminconsole.adobe.com/settings) **[!UICONTROL Settings]** sectie en breid de **[!UICONTROL Privacy and security]** optie op upper-left uit.
+1. Ga naar [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/settings) **[!UICONTROL Settings]** sectie en breid de **[!UICONTROL Privacy and security]** optie op upper-left uit.
 
 1. Selecteer **[!UICONTROL Authentication settings]**.
 
 1. Controleer **[!UICONTROL Authentication levels]** en selecteer het meest geschikte verificatieniveau voor uw gebruikers: **[!UICONTROL Easiest for Users]** , **[!UICONTROL More Secure]** , **[!UICONTROL Most Secure]** .
 
-Bezoek de [ montagesHelpx van de Authentificatie ](https://helpx.adobe.com/enterprise/using/authentication-settings.html) om meer over beschikbare authentificatie en veiligheidsbeleid te weten te komen.
+Bezoek de [&#x200B; montagesHelpx van de Authentificatie &#x200B;](https://helpx.adobe.com/enterprise/using/authentication-settings.html) om meer over beschikbare authentificatie en veiligheidsbeleid te weten te komen.
