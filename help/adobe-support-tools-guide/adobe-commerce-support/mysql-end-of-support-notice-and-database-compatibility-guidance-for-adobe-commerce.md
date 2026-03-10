@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Dit artikel bevat belangrijke informatie over MySQL end of support (EOS) en databasecompatibiliteit voor ondersteunde Adobe Commerce-versies.
 Adobe beveelt handelaren ten zeerste aan deze aankondiging te herzien en maatregelen te nemen om de stabiliteit van het platform te handhaven en te blijven voldoen aan de ondersteuningsvereisten.
-Leer meer in de [&#x200B; Vereisten van de Verbetering voor MariaDB &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) en [&#x200B; Vereisten van het Systeem &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements).
+Leer meer in de [&#x200B; Vereisten van de Verbetering voor MariaDB &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) en [&#x200B; Vereisten van het Systeem &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/installation-guide/system-requirements).
 
 ## MySQL 8.0 End of Support (EOS)
 
