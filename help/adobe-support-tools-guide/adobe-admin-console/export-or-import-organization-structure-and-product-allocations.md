@@ -4,13 +4,13 @@ description: Leer hoe globale beheerders organisatiehiërarchie en producttoewij
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: fe5b03e5886a43b55929a2bdba45da3c08ad0ab9
+exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
+source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
 workflow-type: tm+mt
 source-wordcount: '4375'
 ht-degree: 0%
 
 ---
-
 
 # Structuur van de in- of uitvoerorganisatie en producttoewijzingen
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Leer hoe globale beheerders organisatie en productbeheer kunnen stroomlijnen met export- en importfuncties in de Global Admin Console.
 
-Heb toegang tot het **[!UICONTROL Organizations]** lusje in [&#x200B; Global Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/adopt-global-administration.html) om de organisatiestructuur uit te voeren of in te voeren. Ga naar het tabblad **[!UICONTROL Product Allocation]** voor toewijzingsgegevens. Gebruik het pictogram **[!UICONTROL More Options]** **⋮** om het exporteren of importeren te selecteren. [&#x200B; Teken binnen aan Global Admin Console &#x200B;](https://global-admin-console.adobe.com).
+Heb toegang tot het **[!UICONTROL Organizations]** lusje in [ Global Admin Console ](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) om de organisatiestructuur uit te voeren of in te voeren. Ga naar het tabblad **[!UICONTROL Product Allocation]** voor toewijzingsgegevens. Gebruik het pictogram **[!UICONTROL More Options]** **⋮** om het exporteren of importeren te selecteren. [ Teken binnen aan Global Admin Console ](https://global-admin-console.adobe.com).
 
 ## De organisatiestructuur exporteren
 
-Als a [&#x200B; globale beheerder &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/manage-administrators.html), kunt u de organisatiehiërarchie uitvoeren. U kunt een JSON-, CSV- of XLSX-representatie van de gehele organisatiehiërarchie of een subset ervan downloaden. U kunt deze gegevens vervolgens gebruiken voor analyse of wijziging.
+Als a [ globale beheerder ](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), kunt u de organisatiehiërarchie uitvoeren. U kunt een JSON-, CSV- of XLSX-representatie van de gehele organisatiehiërarchie of een subset ervan downloaden. U kunt deze gegevens vervolgens gebruiken voor analyse of wijziging.
 
 De gekozen exportindeling is van invloed op de structuur van de geëxporteerde gegevens:
 
@@ -32,34 +32,34 @@ De gekozen exportindeling is van invloed op de structuur van de geëxporteerde g
 
 ### Stappen voor exporteren
 
-1. Teken binnen aan [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/). Op het tabblad **[!UICONTROL Organizations]** gebruikt u de organisatieselectie om de organisatiehiërarchie te selecteren waarin u wilt exporteren. Gegevens voor alle organisaties in de hiërarchie worden geëxporteerd.
+1. Teken binnen aan [ Global Admin Console ](https://global-admin-console.adobe.com/). Op het tabblad **[!UICONTROL Organizations]** gebruikt u de organisatieselectie om de organisatiehiërarchie te selecteren waarin u wilt exporteren. Gegevens voor alle organisaties in de hiërarchie worden geëxporteerd.
 2. Selecteer het pictogram **[!UICONTROL More Options]** ⋮ en kies **[!UICONTROL Export]** .
 
-   ![&#x200B; de organisatiestructuur van de Uitvoer &#x200B;](./assets/export-org-structure.png)
+   ![ de organisatiestructuur van de Uitvoer ](./assets/export-org-structure.png)
 
 3. Selecteer in het dialoogvenster **[!UICONTROL Export]** wat u wilt exporteren en een indeling waarin u de gegevens wilt exporteren.
 
-   ![&#x200B; de uitvoerdialoogdoos van Admin Console &#x200B;](./assets/export-12.png)
+   ![ de uitvoerdialoogdoos van Admin Console ](./assets/export-12.png)
 
 4. Selecteer **[!UICONTROL Export]**. Het genereren van het exportbestand kan enkele minuten in beslag nemen. Als u het rapport eenmaal hebt gedownload, navigeert u naar **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]** .
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> JSON-bestanden worden geëxporteerd in ZIP-indeling. U kunt ze openen met een ZIP-hulpprogramma of de ZIP-functies van het besturingssysteem.
+>JSON-bestanden worden geëxporteerd in ZIP-indeling. U kunt ze openen met een ZIP-hulpprogramma of de ZIP-functies van het besturingssysteem.
 
 Nadat u het bestand hebt gedownload, kunt u de gegevens bewerken en vervolgens weer importeren. De geïmporteerde updates worden in de Global Admin Console weergegeven alsof u de gegevens handmatig hebt bewerkt.
 
 ## De organisatiestructuur importeren
 
-Als a [&#x200B; globale beheerder &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/manage-administrators.html), kunt u potentieel gewijzigde gegevens invoeren. Bij het uploaden worden de nieuwe gegevens vergeleken met de huidige gegevens en worden eventuele wijzigingen toegepast op de organisatiehiërarchie. Alle importbewerkingen worden uitgevoerd op het bijgewerkte exemplaar van de organisatiehiërarchie. Als u nog wijzigingen aanbrengt, worden de importwijzigingen toegevoegd boven op de wijzigingen die in de hiërarchie in behandeling zijn.
+Als a [ globale beheerder ](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), kunt u potentieel gewijzigde gegevens invoeren. Bij het uploaden worden de nieuwe gegevens vergeleken met de huidige gegevens en worden eventuele wijzigingen toegepast op de organisatiehiërarchie. Alle importbewerkingen worden uitgevoerd op het bijgewerkte exemplaar van de organisatiehiërarchie. Als u nog wijzigingen aanbrengt, worden de importwijzigingen toegevoegd boven op de wijzigingen die in de hiërarchie in behandeling zijn.
 
 ### Te importeren stappen
 
-1. Teken binnen aan [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com). Op het tabblad **[!UICONTROL Organizations]** gebruikt u de organisatieselectie om de organisatiehiërarchie te selecteren waarin u het importeren wilt uitvoeren.
+1. Teken binnen aan [ Global Admin Console ](https://global-admin-console.adobe.com). Op het tabblad **[!UICONTROL Organizations]** gebruikt u de organisatieselectie om de organisatiehiërarchie te selecteren waarin u het importeren wilt uitvoeren.
 2. Selecteer het pictogram **[!UICONTROL More Options]** **⋮** en selecteer **[!UICONTROL Import]** . Afhankelijk van de grootte en complexiteit van het importbestand kan de verwerking enkele seconden tot enkele minuten duren.
 3. Selecteer **[!UICONTROL Select a file]** en kies een JSON-, CSV- of XLSX-bestand dat u wilt uploaden. Voor CSV kan slechts één organisatiedetails tegelijkertijd worden ingevoerd en het steunt het invoeren van Producten niet. De geïmporteerde wijzigingen lijken alsof u de gegevens handmatig hebt bewerkt.
 4. Selecteer **[!UICONTROL Close]**.
-5. Selecteer **[!UICONTROL Review Pending Changes]**. Dan, selecteer **[!UICONTROL Submit Changes]** om [&#x200B; uit te voeren &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/execute-jobs.html) hen. Voordat de wijzigingen worden uitgevoerd, worden de acties in behandeling weergegeven op dezelfde manier als wanneer de bewerkingen handmatig worden uitgevoerd in de Global Admin Console.
+5. Selecteer **[!UICONTROL Review Pending Changes]**. Dan, selecteer **[!UICONTROL Submit Changes]** om [ uit te voeren ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen. Voordat de wijzigingen worden uitgevoerd, worden de acties in behandeling weergegeven op dezelfde manier als wanneer de bewerkingen handmatig worden uitgevoerd in de Global Admin Console.
 
 ## Programma&#39;s voor exporteren en importeren
 
@@ -399,7 +399,6 @@ Als het productprofiel meer dan één bron heeft, zijn er meerdere rijen aanwezi
 
 ### Bronnen in productprofielen
 
-
 <table>
   <tr>
     <th>Veldnaam</th>
@@ -409,20 +408,14 @@ Als het productprofiel meer dan één bron heeft, zijn er meerdere rijen aanwezi
 
 <tr>
     <td>resourceName</td>
-    <td>
-     Naam van de bron
-    </td>
+    <td>Naam van de bron</td>
     <td>Alleen-lezen</td>
   </tr>
 
 <tr>
     <td>resourceId</td>
-    <td>
-   Identificatiecode van de bron
-    </td>
-    <td>
-   Alleen-lezen
-    </td>
+    <td>Identificatiecode van de bron</td>
+    <td>Alleen-lezen</td>
   </tr>
 
 <tr>
@@ -434,33 +427,48 @@ Als het productprofiel meer dan één bron heeft, zijn er meerdere rijen aanwezi
 <tr>
     <td>pictogram</td>
     <td>URL naar afbeelding voor bron</td>
-    <td> Alleen-lezen</td>
+    <td>Alleen-lezen</td>
   </tr>
 
 <tr>
     <td>geselecteerd</td>
-    <td>Voor een configuratieingang, of de eigenschap wordt toegelaten. Dit veld is alleen beschikbaar in JSON.</td>
-    <td rowspan ="2">Kan worden ingesteld of bijgewerkt wanneer operation=create of operation=update.</td>
+    <td>
+      Voor een configuratieingang, of de eigenschap wordt toegelaten.
+      Dit veld is alleen beschikbaar in JSON.
+    </td>
+    <td rowspan="2">
+      Kan worden ingesteld of bijgewerkt wanneer operation=create of operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>quota</td>
-    <td>Hoeveelheid primaire bron die via dit productprofiel aan gebruikers kan worden verstrekt. Dit veld is alleen beschikbaar in JSON.</td>
-    <td></td>
+    <td>
+      Hoeveelheid primaire bron die via dit productprofiel aan gebruikers kan worden verstrekt.
+      Dit veld is alleen beschikbaar in JSON.
+    </td>
   </tr>
+
 
 <tr>
     <td>resourceType</td>
-    <td> Indien aanwezig, is de waarde SERVICE. Deze resource geeft een service aan die op basis van de waarde van het geselecteerde veld kan worden in- of uitgeschakeld. Dit veld is alleen beschikbaar in JSON.</td>
+    <td>
+      Indien aanwezig, is de waarde SERVICE. Het wijst op dit middel een dienst vertegenwoordigt die kan
+      In- of uitgeschakeld op basis van de waarde van het geselecteerde veld.
+      Dit veld is alleen beschikbaar in JSON.
+    </td>
     <td>Alleen-lezen</td>
   </tr>
 
 <tr>
     <td>bewerking</td>
-    <td>Een van de lege waarden Maken, Bijwerken of Verwijderen. Actie die moet worden uitgevoerd wanneer gegevens worden geïmporteerd.</td>  
+    <td>
+      Een van de lege waarden Maken, Bijwerken of Verwijderen. Actie die moet worden uitgevoerd wanneer gegevens worden geïmporteerd.
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 **de vereisten van de Invoer:**
 
@@ -481,22 +489,23 @@ Als het productprofiel meer dan één bron heeft, zijn er meerdere rijen aanwezi
 <tr>
     <td>userGroupId</td>
     <td>
-Id van gebruikersgroep
-U kunt plaatsaanduidingswaarde gebruiken bij maken, zodat andere objecten naar de nieuwe gebruikersgroep kunnen verwijzen.
+      Id van gebruikersgroep. Plaatsaanduidingswaarde kan worden gebruikt bij maken, zodat
+      andere objecten kunnen verwijzen naar de nieuwe gebruikersgroep.
     </td>
     <td>Kan op tijdelijke waarde worden ingesteld wanneer operation=create</td>
   </tr>
 
 <tr>
     <td>userGroupName</td>
-    <td> Naam van gebruikersgroep</td>
-    <td rowspan="2"> Kan worden ingesteld of bijgewerkt wanneer respectievelijk operation=create of operation=update</td>
+    <td>Naam van gebruikersgroep</td>
+    <td rowspan="2">
+      Kan worden ingesteld of bijgewerkt wanneer operation=create of operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>userGroupDescription</td>
     <td>Tekstbeschrijving van gebruikersgroep</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -507,25 +516,29 @@ U kunt plaatsaanduidingswaarde gebruiken bij maken, zodat andere objecten naar d
 
 <tr>
     <td>profielen</td>
-    <td>Array met productprofielid's waaraan de gebruikersgroep is gekoppeld.
-XLSX heeft één rij per waarde met dezelfde waarden voor andere velden.</td>
-    <td>Kan worden ingesteld of bijgewerkt wanneer respectievelijk operation=create of operation=update</td>
+    <td>
+      Array met productprofielid's waaraan de gebruikersgroep is gekoppeld.
+      XLSX heeft één rij per waarde met dezelfde waarden voor andere velden.
+    </td>
+    <td>
+      Kan worden ingesteld of bijgewerkt wanneer operation=create of operation=update.
+    </td>
   </tr>
 
 <tr>
     <td>orgId</td>
-    <td>Organisatie die de gebruikersgroep bevat.</td>
-    <td>Wordt gebruikt als een verwijzing om te zoeken naar een object dat het object bevat of eraan is gekoppeld.</td>
+    <td>Organisatie die de gebruikersgroep bevat</td>
+    <td>Wordt gebruikt als een verwijzing om te zoeken naar een object dat het object bevat of eraan is gekoppeld</td>
   </tr>
 
 <tr>
     <td>bewerking</td>
-    <td>Een van de lege waarden Maken, Bijwerken of Verwijderen. Actie die moet worden uitgevoerd wanneer gegevens worden geïmporteerd.</td>
+    <td>
+      Een van de lege waarden Maken, Bijwerken of Verwijderen. Actie die moet worden uitgevoerd wanneer gegevens worden geïmporteerd.
+    </td>
     <td></td>
   </tr>
 </table>
-
-
 
 **de vereisten van de Invoer:**
 
@@ -617,23 +630,23 @@ Het gebied van de verrichting op middelen wordt genegeerd wanneer het product wa
 
 ## Gegevens over de toewijzing van producten bij invoer en uitvoer
 
-Als a [&#x200B; Globale Beheerder &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/manage-administrators.html), kunt u de gegevens van de producttoewijzing als JSON of Csv- dossier uitvoeren. U kunt deze gegevens vervolgens bewerken en uploaden om de wijzigingen te importeren. Wanneer de potentieel gewijzigde gegevens worden geüpload, worden de nieuwe gegevens vergeleken met de huidige gegevens en worden eventuele wijzigingen toegepast op de producttoewijzingsgegevens. Vervolgens kunt u de wijzigingen die in behandeling zijn bekijken en verzenden voordat deze van kracht worden.
+Als a [ Globale Beheerder ](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), kunt u de gegevens van de producttoewijzing als JSON of Csv- dossier uitvoeren. U kunt deze gegevens vervolgens bewerken en uploaden om de wijzigingen te importeren. Wanneer de potentieel gewijzigde gegevens worden geüpload, worden de nieuwe gegevens vergeleken met de huidige gegevens en worden eventuele wijzigingen toegepast op de producttoewijzingsgegevens. Vervolgens kunt u de wijzigingen die in behandeling zijn bekijken en verzenden voordat deze van kracht worden.
 
 ## Het model voor producttoewijzing exporteren
 
 Ga als volgt te werk om het producttoewijzingsmodel te exporteren:
 
-1. Teken binnen aan [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/) en navigeer aan het **[!UICONTROL Product Allocation]** lusje.
-2. Selecteer het pictogram **[!UICONTROL More Options]** ⋮ en selecteer vervolgens **[!UICONTROL Export CSV]** of **[!UICONTROL Export JSON]** . Het bestand is gedownload. [&#x200B; leer meer &#x200B;](#export-and-import-formats-for-product-allocation) over de de uitvoerformaten.
+1. Teken binnen aan [ Global Admin Console ](https://global-admin-console.adobe.com/) en navigeer aan het **[!UICONTROL Product Allocation]** lusje.
+2. Selecteer het pictogram **[!UICONTROL More Options]** ⋮ en selecteer vervolgens **[!UICONTROL Export CSV]** of **[!UICONTROL Export JSON]** . Het bestand is gedownload. [ leer meer ](#export-and-import-formats-for-product-allocation) over de de uitvoerformaten.
 
 ## Het model voor producttoewijzing importeren
 
 U kunt gegevens exporteren, wijzigen en vervolgens het gewijzigde bestand importeren. Ga als volgt te werk om het producttoewijzingsmodel te importeren:
 
-1. Teken binnen aan [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/) en navigeer aan het **[!UICONTROL Product Allocation]** lusje.
+1. Teken binnen aan [ Global Admin Console ](https://global-admin-console.adobe.com/) en navigeer aan het **[!UICONTROL Product Allocation]** lusje.
 2. Selecteer het pictogram **[!UICONTROL More Options]** ⋮ en selecteer **[!UICONTROL Import]** .
 3. Selecteer een JSON- of CSV-bestand dat u wilt uploaden.
-4. Selecteer **[!UICONTROL Review Pending Changes]**. Na het herzien van de veranderingen, uitgezocht **[!UICONTROL Submit Changes]** om [&#x200B; uit te voeren &#x200B;](https://helpx.adobe.com/nl/enterprise/global-admin-console/execute-jobs.html) hen.
+4. Selecteer **[!UICONTROL Review Pending Changes]**. Na het herzien van de veranderingen, uitgezocht **[!UICONTROL Submit Changes]** om [ uit te voeren ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen.
 
 ## Indelingen voor uitvoer en invoer voor producttoewijzing
 
@@ -701,4 +714,3 @@ Als een product meer dan één bron heeft, kunnen de verrichtingen van de Update
 - De organisatie die bij het nieuwe product hoort, moet bestaan.
 - Het product dat wordt gemaakt, mag niet bestaan (product met dezelfde licentie-id).
 - De middelen verbonden aan een product dat moet hebben een overeenkomstige productId die dat product aanpast.
-
