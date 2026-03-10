@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Onderzoek globale beheerdermogelijkheden en leer hoe te om het beleid van gebruikers, productvergunningen, en groepen te delegeren en te verdelen aan beheerders voor elke individuele organisatie.
 
-In de Global Admin Console kunt u een organisatie selecteren en naar het tabblad **[!UICONTROL Admins]** gaan om beheerdersrechten toe te voegen, te bewerken of te verwijderen. Meer leren, verwijs naar [ keurt globaal beleid ](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) goed. Ga naar [ Global Admin Console ](https://global-admin-console.adobe.com/) om binnen te ondertekenen.
+In de Global Admin Console kunt u een organisatie selecteren en naar het tabblad **[!UICONTROL Admins]** gaan om beheerdersrechten toe te voegen, te bewerken of te verwijderen. Meer leren, verwijs naar [&#x200B; keurt globaal beleid &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) goed. Ga naar [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/) om binnen te ondertekenen.
 
 
 De Global Admin Console introduceert een rol die de algemene beheerder wordt genoemd. Deze rol is verschillend van een systeembeheerder en staat u toe om het volgende te doen:
@@ -142,29 +142,29 @@ Een globale beheerder kan organisaties tot stand brengen, middelen zoals product
 
 ## Admin toevoegen
 
-1. In [ Global Admin Console ](https://global-admin-console.adobe.com/), selecteer een organisatie uit te geven, dan aan het **[!UICONTROL Admins]** lusje te navigeren.
+1. In [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/), selecteer een organisatie uit te geven, dan aan het **[!UICONTROL Admins]** lusje te navigeren.
 
 1. Selecteer **[!UICONTROL Add Admin]**.
 
-   ![ globale admin console voegt admin ](../assets/global-admin-console-add-admin.png) toe
+   ![&#x200B; globale admin console voegt admin &#x200B;](../assets/global-admin-console-add-admin.png) toe
 
 1. Voer in het dialoogvenster **[!UICONTROL Add Admin]** het volgende in: **[!UICONTROL User Details]** E-mail, Voornaam, Achternaam, Accounttype en Landcode.
 
    Als u een bestaande gebruiker als beheerder wilt toevoegen, kiest u hetzelfde accounttype als de bestaande gebruiker. Als u dit niet doet, mislukt het toevoegen.
 
-   > [!NLet op]
+   > [ !NLet op]
    > 
-   > Organisaties kunnen beperkingen hebben waaraan accounttypen kunnen worden toegevoegd. Deze kunnen op [ beleid ](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) of op andere configuratieparameters voor een organisatie worden gebaseerd. Het is in organisaties niet toegestaan om zowel Adobe-id-gebruikers als gebruikers van de BusinessID tegelijkertijd toe te voegen. In het algemeen, zouden er geen gebruikers van beide types in een organisatie moeten zijn maar afhankelijk van de orde waarin de regels worden geplaatst kunnen er sommige gebruikers van een bepaald type van Rekening zijn die de toepassing van beleid of regels vooraf gaan.
+   > Organisaties kunnen beperkingen hebben waaraan accounttypen kunnen worden toegevoegd. Deze kunnen op [&#x200B; beleid &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) of op andere configuratieparameters voor een organisatie worden gebaseerd. Het is in organisaties niet toegestaan om zowel Adobe-id-gebruikers als gebruikers van de BusinessID tegelijkertijd toe te voegen. In het algemeen, zouden er geen gebruikers van beide types in een organisatie moeten zijn maar afhankelijk van de orde waarin de regels worden geplaatst kunnen er sommige gebruikers van een bepaald type van Rekening zijn die de toepassing van beleid of regels vooraf gaan.
 
 1. Selecteer een of meer beheerrollen in de sectie **[!UICONTROL Admin Rights]** .
 
    Voor rollen zoals productbeheerder, de beheerder van het productprofiel, en de beheerder van de gebruikersgroep, selecteer de specifieke producten, de profielen, en de groepen respectievelijk.
 
-   ![ globale admin console voegt admin ](../assets/global-admin-console-add-admin-detail.png) toe
+   ![&#x200B; globale admin console voegt admin &#x200B;](../assets/global-admin-console-add-admin-detail.png) toe
 
 1. Selecteer **[!UICONTROL Save]**.
 
-1. Na het uitgeven van organisaties, uitgezochte **[!UICONTROL Review Pending Changes]**, dan **[!UICONTROL Submit Changes]** om [ ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) de veranderingen uit te voeren.
+1. Na het uitgeven van organisaties, uitgezochte **[!UICONTROL Review Pending Changes]**, dan **[!UICONTROL Submit Changes]** om [&#x200B; &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) de veranderingen uit te voeren.
 
 Wanneer een beheerdersrol wordt toegevoegd, ontvangt de gebruiker een e-mailbericht waarin hij of zij op de hoogte wordt gebracht van de wijziging in zijn of haar rol.
 
@@ -176,13 +176,13 @@ Nadat de beheerder is toegevoegd, ontvangen ze een e-mailbericht waarin ze worde
 
 1. Selecteer het pictogram **[!UICONTROL More Options]** ( ⋮) voor de desbetreffende beheerder en selecteer vervolgens **[!UICONTROL Edit Admin]** .
 
-   ![ globale admin console geeft admin rechten uit ](../assets/global-admin-console-edit-admin-right.png)
+   ![&#x200B; globale admin console geeft admin rechten uit &#x200B;](../assets/global-admin-console-edit-admin-right.png)
 
 1. Werk de beheergegevens bij en selecteer vervolgens **[!UICONTROL Save]** .
 
 1. Selecteer **[!UICONTROL Review Pending Changes]** nadat u klaar bent met het bewerken van de organisaties.
 
-Voor elke toegevoegde of verwijderde beheerrol wordt een afzonderlijke opdracht weergegeven in de lijst met wijzigingen die in behandeling is. Na het herzien, uitgezocht **[!UICONTROL Submit Changes]** om [ uit te voeren ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen.
+Voor elke toegevoegde of verwijderde beheerrol wordt een afzonderlijke opdracht weergegeven in de lijst met wijzigingen die in behandeling is. Na het herzien, uitgezocht **[!UICONTROL Submit Changes]** om [&#x200B; uit te voeren &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen.
 
 ## Beheerdersrechten verwijderen
 
@@ -190,11 +190,11 @@ Voor elke toegevoegde of verwijderde beheerrol wordt een afzonderlijke opdracht 
 
 1. Selecteer het pictogram **[!UICONTROL More Options]** ( ⋮) voor de desbetreffende beheerder en selecteer vervolgens **[!UICONTROL Remove Admin Rights]** .
 
-   ![ globale admin console verwijdert admin rechten ](../assets/global-admin-console-remove-admin-right.png)
+   ![&#x200B; globale admin console verwijdert admin rechten &#x200B;](../assets/global-admin-console-remove-admin-right.png)
 
 1. Selecteer **[!UICONTROL OK]** in het bevestigingsdialoogvenster.
 
-1. Selecteer **[!UICONTROL Review Pending Changes]** nadat u klaar bent met het bewerken van de organisaties. Na het herzien, uitgezocht **[!UICONTROL Submit Changes]** om [ uit te voeren ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen.
+1. Selecteer **[!UICONTROL Review Pending Changes]** nadat u klaar bent met het bewerken van de organisaties. Na het herzien, uitgezocht **[!UICONTROL Submit Changes]** om [&#x200B; uit te voeren &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) hen.
 
 Nadat u een beheerder hebt verwijderd, ontvangt de gebruiker een e-mailbericht waarin hij of zij wordt geïnformeerd over het verlies van toegang tot de beheerconsole voor die organisatie.
 
