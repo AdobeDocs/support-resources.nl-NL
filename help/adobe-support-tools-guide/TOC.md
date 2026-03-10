@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
+source-git-commit: 73f0b891bad44fc0f55688d9fe8c881a5d519992
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 
 # Handleiding voor Adobe-ondersteuning en -tools {#adobe-support-tools-guide}
 
+- [MySQL einde-support en richtlijnen voor databasecompatibiliteit voor Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Overzicht van de Adobe-handleiding voor ondersteuning en tools](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe-ervaring voor klantenondersteuning](adobe-customer-support-experience.md)
 - [Adobe-configuratie voor klantenondersteuning](adobe-customer-support-entitlement-configuration.md)
