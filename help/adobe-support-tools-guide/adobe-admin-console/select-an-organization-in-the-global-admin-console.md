@@ -18,7 +18,7 @@ Leer hoe u een organisatie kiest voor bewerking in de Global Admin Console.
 
 >[!NOTE]
 >
->Nadat u toegang tot [ Global Admin Console ](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access) hebt, kunt u beginnen door een organisatie te selecteren om de naam van de organisatie, gebruikersgroepen, productprofielen, beheerders, en organisatiebeleid te bekijken en te beheren. Om binnen aan Global Admin Console te ondertekenen, [ klik hier ](https://global-admin-console.adobe.com/).
+>Nadat u toegang tot [&#x200B; Global Admin Console &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access) hebt, kunt u beginnen door een organisatie te selecteren om de naam van de organisatie, gebruikersgroepen, productprofielen, beheerders, en organisatiebeleid te bekijken en te beheren. Om binnen aan Global Admin Console te ondertekenen, [&#x200B; klik hier &#x200B;](https://global-admin-console.adobe.com/).
 
 De Global Admin Console fungeert als centrale beheerhub van de organisatie voor Adobe-middelen. Globale beheerders kunnen:
 
@@ -34,7 +34,7 @@ De Global Admin Console fungeert als centrale beheerhub van de organisatie voor 
 
 De organisaties die in de **[!UICONTROL organization selector]** drop-down lijst worden vermeld zijn die u uitdrukkelijk een globale admin van-namelijk bent, werd u toegevoegd aan de lijst van beheerders voor die organisatie met een globale admin of globale kijkersrol die. U bent impliciet een algemene beheerder (of algemene viewer) van alle organisaties onder dat punt in de hiërarchie, maar die organisaties worden niet vermeld in [!UICONTROL org picker] .
 
-![ de plukker van de Org ](/help/adobe-support-tools-guide/assets/org-picker.png)
+![&#x200B; de plukker van de Org &#x200B;](/help/adobe-support-tools-guide/assets/org-picker.png)
 
 Als u deze wilt weergeven, voegt u uzelf als algemeen beheerder toe aan de organisaties die u wilt weergeven. Wanneer u een org selecteert in [!UICONTROL organization selector], zijn uw administratieve toestemmingen gebaseerd op het zijn van een globale beheerder van de geselecteerde organisatie. U zou ook als globale beheerder van een ouderorganisatie hoger in de boom kunnen worden vermeld, die u meer toestemmingen zou kunnen geven. U moet die organisatie op hoger niveau selecteren om de extra toestemmingen te krijgen.
 
@@ -67,7 +67,7 @@ Wanneer een organisatie is geselecteerd in de hiërarchiestructuur, wordt de vol
 
 Om producten, gebruikersgroepen, beheerders, domeinen, beleid, of beleidsmalplaatjes te bekijken of uit te geven, selecteer het aangewezen lusje. In de meeste gevallen kunt u het veld [!UICONTROL search] gebruiken om een specifiek item op het tabblad te zoeken.
 
-![ geef een organisatie ](/help/adobe-support-tools-guide/assets/edit-an-organization.png) uit
+![&#x200B; geef een organisatie &#x200B;](/help/adobe-support-tools-guide/assets/edit-an-organization.png) uit
 
 Alle beheerders die aan een org zijn toegevoegd of van een org zijn verwijderd, ontvangen een e-mailbericht. Bepaalde beleidswijzigingen in een org resulteren in een melding in het [!DNL Admin Console] van die organisatie.
 
@@ -79,6 +79,6 @@ Alle beheerders die aan een org zijn toegevoegd of van een org zijn verwijderd, 
 
 - De organisatie pathname is uniek, maar de eenvoudige naam is slechts uniek onder zijn siblings. Er kunnen organisaties zijn met dezelfde eenvoudige naam elders in de hiërarchie van de org.
 
-- U kunt de lijst met domeinen die zijn gekoppeld aan de geselecteerde organisatie alleen weergeven met de algemene beheerconsole. Als u een systeembeheerder van de geselecteerde organisatie bent, selecteer **[!UICONTROL Open in Admin Console]** om domeinen [ te beheren ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Om de informatie te begrijpen die in het lusje van Domeinen wordt getoond, zie [ uitvoer en invoerschema&#39;s ](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- U kunt de lijst met domeinen die zijn gekoppeld aan de geselecteerde organisatie alleen weergeven met de algemene beheerconsole. Als u een systeembeheerder van de geselecteerde organisatie bent, selecteer **[!UICONTROL Open in Admin Console]** om domeinen [&#x200B; te beheren &#x200B;](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Om de informatie te begrijpen die in het lusje van Domeinen wordt getoond, zie [&#x200B; uitvoer en invoerschema&#39;s &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
 
 - IE 11 wordt niet gesteund voor globale beleidstoegang. Gebruik een andere browser of een nieuwere versie van de IE-browser.
