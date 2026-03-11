@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 - [Beheerdersrollen](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigeren door de Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Licentietoewijzingsrapporten maken voor meerdere organisaties en producten](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [Een organisatie selecteren in de Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Beheerders beheren](adobe-admin-console/manage-administrators.md)
    - [Structuur van de in- of uitvoerorganisatie en producttoewijzingen](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Wachtwoordvervaldatum afdwingen in de Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
