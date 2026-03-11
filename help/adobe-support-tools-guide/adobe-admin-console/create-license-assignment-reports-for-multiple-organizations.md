@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Leer hoe globale beheerders gedetailleerde licentierapporten voor meerdere organisaties en producten voor specifieke datumbereiken kunnen genereren en downloaden om het nauwkeurig bijhouden van licentieverlening te vergemakkelijken.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
-> Om, een rapport van de vergunningstaak tot stand te brengen te bekijken en uit te voeren, binnen aan [ Global Admin Console ](https://global-admin-console.adobe.com/) te ondertekenen, en naar **[!UICONTROL Insights]** te gaan > **[!UICONTROL Reports]** > **[!UICONTROL License assignment]**.
+> Om, een rapport van de vergunningstaak tot stand te brengen te bekijken en uit te voeren, binnen aan [&#x200B; Global Admin Console &#x200B;](https://global-admin-console.adobe.com/) te ondertekenen, en naar **[!UICONTROL Insights]** te gaan > **[!UICONTROL Reports]** > **[!UICONTROL License assignment]**.
 
 ## Een rapport maken
 
@@ -26,19 +26,19 @@ Met licentietoewijzingsrapporten kunt u de provisioning van licenties proactief 
 1. Ga naar het **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** lusje in Global Admin Console.
 2. Selecteer op de pagina **[!UICONTROL License Assignment]** de optie **[!UICONTROL Create report]** .
 3. Selecteer de organisaties en selecteer **[!UICONTROL Next]** . U kunt elke organisatie afzonderlijk kiezen of alle onderliggende organen binnen een bovenliggende instantie selecteren met de knop **[!UICONTROL Select all]** .
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**weet waarom u bepaalde organisaties** niet kunt selecteren:
-   >Als een onderliggende org geen contract heeft of een afzonderlijk ondernemingscontract heeft met hetzelfde product als dat van de bovenliggende org, is deze uitgeschakeld voor het maken van een licentietoewijzingsrapport. Als het contract van de bovenliggende org bijvoorbeeld Adobe Acrobat heeft en de onderliggende org hetzelfde heeft als een onderdeel van een ander contract, is het product beperkt voor toewijzing. Hierdoor is het ook beperkt voor het maken van rapporten in de Global Admin Console. [ Leer hoe te om levering voor dergelijke organisaties te volgen gebruikend hun respectieve Admin Console ](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Als een onderliggende org geen contract heeft of een afzonderlijk ondernemingscontract heeft met hetzelfde product als dat van de bovenliggende org, is deze uitgeschakeld voor het maken van een licentietoewijzingsrapport. Als het contract van de bovenliggende org bijvoorbeeld Adobe Acrobat heeft en de onderliggende org hetzelfde heeft als een onderdeel van een ander contract, is het product beperkt voor toewijzing. Hierdoor is het ook beperkt voor het maken van rapporten in de Global Admin Console. [&#x200B; Leer hoe te om levering voor dergelijke organisaties te volgen gebruikend hun respectieve Admin Console &#x200B;](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
    >
    > [!NOTE]
    >
    > U kunt toewijzingsrapporten alleen maken voor organisaties met een actief contract.
 4. Selecteer de producten die u in het rapport wilt opnemen en selecteer **[!UICONTROL Next]** .
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**weet waarom u bepaalde producten** niet kunt selecteren:
-   >Producten die niet kunnen worden toegewezen in de Global Admin Console, worden niet opgenomen voor het maken van rapporten. Dit omvat momenteel enkele Digital Experience-producten zoals [!DNL Workfront] , [!DNL Adobe Experience Manager] en [!DNL Adobe Experience Platform] , en ook producten zoals [!DNL Adobe Firefly Services] , [!DNL Acrobat Sign] en [!DNL Adobe Stock] . [ u gebruikt Adobe Admin Console om de gegevens van de vergunningslevering voor deze producten ](https://helpx.adobe.com/enterprise/using/assignment-reports.html) te vinden.
+   >Producten die niet kunnen worden toegewezen in de Global Admin Console, worden niet opgenomen voor het maken van rapporten. Dit omvat momenteel enkele Digital Experience-producten zoals [!DNL Workfront] , [!DNL Adobe Experience Manager] en [!DNL Adobe Experience Platform] , en ook producten zoals [!DNL Adobe Firefly Services] , [!DNL Acrobat Sign] en [!DNL Adobe Stock] . [&#x200B; u gebruikt Adobe Admin Console om de gegevens van de vergunningslevering voor deze producten &#x200B;](https://helpx.adobe.com/enterprise/using/assignment-reports.html) te vinden.
 5. Selecteer of het rapport per maand of jaar moet worden samengevoegd.
 6. Selecteer een aangepast datumbereik of kies een van de vooraf ingestelde opties. U kunt elke begindatum kiezen van 18 juni 2020 tot en met de vorige dag, zolang deze niet voorafgaat aan de begindatum van uw contract.
 7. Selecteer **[!UICONTROL Download]** om het rapport als CSV-bestand te exporteren.
