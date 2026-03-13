@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
+source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,7 +15,6 @@ ht-degree: 0%
 
 # Handleiding voor Adobe-ondersteuning en -tools {#adobe-support-tools-guide}
 
-- [MySQL einde-support en richtlijnen voor databasecompatibiliteit voor Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Overzicht van de Adobe-handleiding voor ondersteuning en tools](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe-ervaring voor klantenondersteuning](adobe-customer-support-experience.md)
 - [Adobe-configuratie voor klantenondersteuning](adobe-customer-support-entitlement-configuration.md)
@@ -32,6 +31,7 @@ ht-degree: 0%
 - Adobe Workfront-ondersteuning {#workfront}
    - [Veelgestelde vragen](faq.md)
 - Adobe Commerce-ondersteuning {#adobe-commerce-support}
+   - [MySQL einde-support en richtlijnen voor databasecompatibiliteit voor Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [Beveiligingspatches verkrijgen en toepassen](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Tijdelijke Adobe Commerce aanvragen voor uitgebreide cloudinfrastructuur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Hotline voor meldingen in Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
